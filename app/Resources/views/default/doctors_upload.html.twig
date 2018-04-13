@@ -1,0 +1,509 @@
+{% extends 'base_main.html.twig' %}
+{% block title %}WayBeyond - Doctors Listing{% endblock %}
+{% block body %}
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Doctors</a>
+                </li>
+                <li class="active">Upload</li>
+            </ul>
+            <!-- /.breadcrumb -->
+        </div>
+        <div class="page-content">
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <div>
+                        <form action="{{ path('doctors_upload_process') }}" class="dropzone well" id="dropzone">
+                            <div class="fallback">
+                                <input name="file" type="file" multiple="" />
+                            </div>
+                        </form>
+                    </div>
+                    <div id="preview-template" class="hide">
+                        <div class="dz-preview dz-file-preview">
+                            <div class="dz-image">
+                                <img data-dz-thumbnail="" />
+                            </div>
+                            <div class="dz-details">
+                                <div class="dz-size">
+                                    <span data-dz-size=""></span>
+                                </div>
+                                <div class="dz-filename">
+                                    <span data-dz-name=""></span>
+                                </div>
+                            </div>
+                            <div class="dz-progress">
+                                <span class="dz-upload" data-dz-uploadprogress=""></span>
+                            </div>
+                            <div class="dz-error-message">
+                                <span data-dz-errormessage=""></span>
+                            </div>
+                            <div class="dz-success-mark">
+                                <span class="fa-stack fa-lg bigger-150">
+                                <i class="fa fa-circle fa-stack-2x white"></i>
+                                <i class="fa fa-check fa-stack-1x fa-inverse green"></i>
+                                </span>
+                            </div>
+                            <div class="dz-error-mark">
+                                <span class="fa-stack fa-lg bigger-150">
+                                <i class="fa fa-circle fa-stack-2x white"></i>
+                                <i class="fa fa-remove fa-stack-1x fa-inverse red"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                     <h4 class="pink">
+									<i class="ace-icon fa fa-hand-o-right icon-animated-hand-pointer blue"></i>
+									<a data-toggle="modal" class="green" role="button" href="#modal-table123"> Add Manually </a>
+								</h4>       
+                            
+                    <div id="modal-table123" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header no-padding">
+                                    <div class="table-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                            <span class="white">&times;</span>
+                                        </button>
+                                        Add Doctor
+                                    </div>
+                                </div>
+
+                                <div class="modal-body no-padding">
+                                    <form class="form-horizontal" action="" method="post" id="insertdoctorform">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <br>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Location Id:</label>
+                  <div class="col-sm-7">
+                    <input type="text" class="form-control" name="location_id" id="location_id" placeholder="Location Id" value="">
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="netwr">Network-ID:</label>
+                  <div class="col-sm-7">          
+                    <input type="text" class="form-control" id="network_id" placeholder="Network-ID:" name="network_id"  >
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Doctor Name</label>
+                  <div class="col-sm-7">
+                    <input type="text" class="form-control" id="doctor_name" placeholder="Doctor Name" name="doctor_name" >
+                  </div>
+                </div>
+            </div>
+            <!--<div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Gender</label>
+                  <div class="col-sm-7">
+                    <label class="radio-inline">
+                          <input type="radio" name="optradio">Male
+                        </label>
+                        <label class="radio-inline">
+                          <input type="radio" name="optradio">Female
+                        </label>
+                  </div>
+                </div>
+            </div>-->
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="netwr">Doctors Mobile Number</label>
+                  <div class="col-sm-7">          
+                    <input type="text" class="form-control" id="doctor_mobile" placeholder="Doctor Mobile Number" name="doctor_mobile" >
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 1</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="ll_num2" placeholder="Landline Number" name="ll_num1" >
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 2</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="ll_num2" placeholder="Landline Number" name="ll_num2" >
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Receptionst Name</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="receptionist_name" name="receptionist_name"  placeholder="Receptionist Name" >
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Receptionst Mobile Number</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="receptionist_mobile" name="receptionist_mobile" placeholder="Receptionist Number">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">City</label>
+          <div class="col-sm-7">          
+            <!--<select class="selectpicker col-sm-12" data-style="btn-primary">
+                  <option>Mumbai</option>
+                  <option>Delhi</option>
+                  <option>Gurgaon</option>
+            </select>-->
+            <input type="text" class="form-control" id="city" name="city"  placeholder="city">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">State</label>
+          <div class="col-sm-7">          
+            <!--<select class="selectpicker col-sm-12" data-style="btn-primary">
+                  <option>Mumbai</option>
+                  <option>Delhi</option>
+                  <option>Gurgaon</option>
+                </select>-->
+            <input type="text" class="form-control" id="state" name="state" placeholder="State">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Pincode</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="pincode" name="pincode" placeholder="Pincode">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Address</label>
+          <div class="col-sm-7">          
+            <textarea class="form-control" rows="5" id="address" name="address"></textarea>
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Morning) From :</label>
+          <!--<div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickermf'>
+        <input type='text' class="form-control"  />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+          <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="mornfrom" type="text" class="form-control" />-->
+                <input id="mornfrom" name="mornfrom" type="text" class="form-control" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Morning) To :</label>
+          <!--<div class="col-sm-7">          
+            <div class='input-group date' >
+        <input type='text' class="form-control" id='datetimepickermt' name='datetimepickermt' value=""/>
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+          <div class="input-group bootstrap-timepicker col-sm-7">
+                <input id="mornto" name="mornto" type="text" class="form-control" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+              <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) From :</label>
+          <!--
+          <div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickeref'>
+        <input type='text' class="form-control" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>
+          -->
+            <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="evenfrom" type="text" class="form-control" />-->
+                <input id="evenfrom" name="evenfrom" type="text" class="form-control" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+        <div class="col-sm-6">
+        <div class="form-group">
+          <!--<label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) To :</label>
+          <div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickeret'>
+        <input type='text' class="form-control" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+            <label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) To :</label>
+            <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="evento" type="text" class="form-control" value="21:00" />-->
+                <input id="evento" name="evento" type="text" class="form-control" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+          
+          </div>
+        </div>
+        <!--    <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Added Date:</label>
+          <div class="col-sm-7">
+    <div class='input-group date' id='datetimepicker1'>
+        <input type='text' class="form-control" value="21:00"/>
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    </div>
+          </div>
+        </div>
+        </div>-->
+            <div class="col-sm-6">
+        <div class="form-group">        
+          <div class="col-sm-offset-5 col-sm-7">
+            <button type="button" onClick="AddDoctor();" class="btn btn-default col-lg-12 col-md-12 col-sm-12 col-xs-12">Update</button>
+          </div>
+        </div><!--end form-group-->
+    </div>
+</div>
+</form>
+											
+                                </div>
+
+                                <div class="modal-footer no-margin-top">
+                                </div><!--end modal-footer no-margin-top -->
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- PAGE CONTENT ENDS -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.page-content -->
+    </div>
+</div>
+<!-- /.main-content -->
+
+
+{% endblock %}
+{% block javascripts %}
+    <script>
+
+$(function(){
+  Dropzone.options.dropzone = {
+    //maxFilesize: 5,
+    addRemoveLinks: true,
+    dictResponseError: 'Server not Configured',
+    acceptedFiles: ".csv",
+    init:function(){
+      var self = this;
+      // config
+      self.options.addRemoveLinks = true;
+      self.options.dictRemoveFile = "Ok";
+      //New file added
+      self.on("addedfile", function (file) {
+        console.log('new file added ', file);
+      });
+      // Send file starts
+      self.on("sending", function (file) {
+        console.log('upload started', file);
+        $('.meter').show();
+      });
+      
+      // File upload Progress
+      self.on("totaluploadprogress", function (progress) {
+        console.log("progress ", progress);
+        $('.roller').width(progress + '%');
+      });
+
+      self.on("queuecomplete", function (progress) {
+        $('.meter').delay(999).slideUp(999);
+      });
+      
+      // On removing file
+      self.on("removedfile", function (file) {
+        console.log(file);
+      });
+    },
+    success:function(file, response)
+        {
+            // Do what you want to do with your response
+            // This return statement is necessary to remove progress bar after uploading.
+            return file.previewElement.classList.add("dz-success");
+        }
+  };
+})
+
+
+$('#datetimepickeret').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickeref').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickermt').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickermf').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepicker1').datetimepicker();
+                $('#datepicker').datepicker({
+                  uiLibrary: 'bootstrap'
+                });
+                
+                $('#mornto').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#mornto').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#mornfrom').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#mornfrom').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#evenfrom').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#evenfrom').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#evento').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#evento').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+function AddDoctor(){
+    if($('#location_id').val() == ""){
+        alert('Location ID cannot be left blank.');
+        return false;
+    }
+    //network_id
+    if($('#network_id').val() == ""){
+        alert('Netwok ID cannot be left blank.');
+        return false;
+    }
+    if($('#doctor_name').val() == ""){
+        alert('Doctor name cannot be left blank.');
+        return false;
+    }
+    if($('#doctor_mobile').val() == ""){
+        alert('Doctor Mobile cannot be left blank.');
+        return false;
+    }
+    if($('#receptionist_name').val() == ""){
+        alert('Receptionist name cannot be left blank.');
+        return false;
+    }
+    if($('#receptionist_mobile').val() == ""){
+        alert('Receptionist mobile cannot be left blank.');
+        return false;
+    }
+    if($('#city').val() == ""){
+        alert('City cannot be left blank.');
+        return false;
+    }
+    if($('#state').val() == ""){
+        alert('State cannot be left blank.');
+        return false;
+    }
+    if($('#pincode').val() == ""){
+        alert('Doctor name cannot be left blank.');
+        return false;
+    }
+    $.ajax({
+          type: "POST",
+          dataType: "json",
+          url: "{{path('doctors_addlocationdata')}}",
+          data: $('#insertdoctorform').serialize(),
+          success: function(data){
+            if(data.error == 1){
+              alert(data.msg);
+            }else{
+              alert("Doctor added successfully.");
+              $('#modal-table123').modal('hide');
+              window.location.href = {{path('doctors_upload')}};
+            }                
+          }
+    });
+}
+                </script>
+{% endblock %}

@@ -1,0 +1,277 @@
+{% extends 'base_main.html.twig' %}
+{% block title %}WayBeyond - Doctors Listing{% endblock %}
+{% block body %}
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Playerlog</a>
+                </li>
+                <li class="active">Listing</li>
+            </ul>
+            <!-- /.breadcrumb -->
+            <!--<div class="nav-search" id="nav-search">
+                <form class="form-search">
+                    <span class="input-icon">
+                    <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+                    <i class="ace-icon fa fa-search nav-search-icon"></i>
+                    </span>
+                </form>
+            </div>-->
+            <!-- /.nav-search -->
+        </div>
+        <div class="page-content">
+            <!-- /.page-header -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <form class="form-horizontal" action="" method="POST" id='searchForm' role="form">
+
+                        <div class="col-md-offset-2 col-lg-7 col-md-7 col-sm-7 col-xs-7">
+	                        <div class="col-lg-12 col-md-12 col-sms-12 col-xs-12">
+		                        <div class="form-group">
+		                        	<label for="date-timepicker1">Date Range 1:</label>
+			                        <div class="input-group">
+                                                    <span class="input-group-addon">
+                                                        <i class="fa fa-calendar bigger-110"></i>
+                                                    </span>
+                                                    <input class="form-control" type="text" name="date-range-picker1" id="id-date-range-picker-1" />
+                                                </div>
+
+				                <!--<div class="form-group">-->
+		                        	<label for="date-timepicker1">Date Range 2:</label>
+					            <div class="input-group">
+                                                        <span class="input-group-addon">
+                                                            <i class="fa fa-calendar bigger-110"></i>
+                                                        </span>
+                                                        <input class="form-control" type="text" name="date-range-picker2" id="id-date-range-picker-2" />
+                                                    </div>
+                                                <!--</div><!--end form-group-->
+			                </div><!--end col-lg-12 col-md-12 col-sms-12 col-xs-12-->
+		                </div><!--end col-md-offset-2 col-md-6-->
+	                </div>
+                    
+               
+                       
+                        <div class="clearfix">
+                            <div class="col-md-offset-3 col-md-9">
+                                <button onClick='$( "#searchForm" ).submit();' class="btn btn-info" type="button">
+                                <i class="ace-icon fa fa-check bigger-110"></i>
+                                Search
+                                </button>
+                                &nbsp; &nbsp; &nbsp;
+                                <button onClick='reset2();' class="btn" type="reset">
+                                <i class="ace-icon fa fa-undo bigger-110"></i>
+                                Reset
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                     </div>
+            </div>
+            <div class="hr hr-18 dotted hr-double"></div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="tabbable">
+                    <ul class="nav nav-tabs padding-12 tab-color-blue background-blue" id="myTab4">
+                        <li class="active">
+                            <a data-toggle="tab" href="#home4">In-Active Devices</a>
+                        </li>
+                        <li>
+                            <a data-toggle="tab" href="#profile4">New Devices</a>
+                        </li>
+                    </ul>
+                    <div class="tab-content">
+			<div id="home4" class="tab-pane in active">
+                            <table id="simple-table" class="table  table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Sr. No.</th>
+                                        <th>Location ID</th>
+                                        <th>Network ID</th>
+                                        <th>Dr Name</th>
+                                        <th>Mobile</th>
+                                        <th>City</th>
+                                        <th>State</th>
+                                        <th>Address</th>
+                                    </tr>
+                                </thead>
+                                {% if data.inactiveDeviceID  is defined %}
+                                <tbody>
+                                    {% if data.inactiveDeviceID|length > 0 %}
+                                        {% set undefinedInactive = [] %}
+                                        {% set counter = 1 %}
+                                        {% for inactiveDeviceID_val in data.inactiveDeviceID %}
+                                            {% if data.inactiveDeviceData[inactiveDeviceID_val] is defined %}
+                                                {% set dataHere = data.inactiveDeviceData[inactiveDeviceID_val] %}
+                                                <tr>
+                                                    <td>{{ counter }}</td>
+                                                    <td>{{ dataHere['location_id'] }} </td>
+                                                    <td>{{ dataHere['network_id'] }} </td>
+                                                    <td>{{ dataHere['name'] }} </td>
+                                                    <td>{{ dataHere['mobile'] }} </td>
+                                                    <td>{{ dataHere['city'] }} </td>
+                                                    <td>{{ dataHere['state'] }} </td>
+                                                    <td>{{ dataHere['address'] }} </td>
+                                                </tr>
+                                                {% set counter = counter + 1 %}
+                                            {% else %}
+                                                {% set undefinedInactive = undefinedInactive|merge([inactiveDeviceID_val]) %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        {% if undefinedInactive|length > 0 %}
+                                            {% for undefinedInactive_val in undefinedInactive %}
+                                                <tr>
+                                                    <td>{{ counter }}</td>
+                                                    <td>{{ undefinedInactive_val }} </td>
+                                                    <td colspan="6">No Data Available</td>
+                                                </tr>
+                                                {% set counter = counter + 1 %}
+                                            {% endfor %}
+                                        {% endif %}
+                                    {% endif %}
+                                </tbody>
+                                {% endif %}
+                            </table>
+                        </div>
+
+                        <div id="profile4" class="tab-pane">
+                            <table id="simple-table" class="table  table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Sr. No.</th>
+                                        <th>Location ID</th>
+                                        <th>Network ID</th>
+                                        <th>Dr Name</th>
+                                        <th>Mobile</th>
+                                        <th>City</th>
+                                        <th>State</th>
+                                        <th>Address</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% set counter = 1 %}
+                                    {% if data.newDeviceID  is defined %}
+                                    {% if data.newDeviceID|length > 0 %}
+                                        {% set undefinednew = [] %}
+                                        {% for newDeviceID_val in data.newDeviceID %}
+                                            {% if data.newDeviceData[newDeviceID_val] is defined %}
+                                                {% set dataHere = data.newDeviceData[newDeviceID_val] %}
+                                                <tr>
+                                                    <td>{{ counter }}</td>
+                                                    <td>{{ dataHere['location_id'] }} </td>
+                                                    <td>{{ dataHere['network_id'] }} </td>
+                                                    <td>{{ dataHere['name'] }} </td>
+                                                    <td>{{ dataHere['mobile'] }} </td>
+                                                    <td>{{ dataHere['city'] }} </td>
+                                                    <td>{{ dataHere['state'] }} </td>
+                                                    <td>{{ dataHere['address'] }} </td>
+                                                </tr>
+                                                {% set counter = counter + 1 %}
+                                            {% else %}
+                                                {% set undefinednew = undefinednew|merge([newDeviceID_val]) %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        {% if undefinednew|length > 0 %}
+                                            {% for undefinednew_val in undefinednew %}
+                                                <tr>
+                                                     <td>{{ counter }}</td>
+                                                    <td>{{ undefinednew_val }} </td>
+                                                    <td colspan="6">No Data Available</td>
+                                                </tr>
+                                                {% set counter = counter + 1 %}
+                                            {% endfor %}
+                                        {% endif %}
+                                    {% endif %}
+                                    {% endif %}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+                </div>
+        <!-- /.page-content -->
+    </div>
+</div>
+<!-- /.main-content -->
+
+{% endblock %}
+{% block javascripts %}
+    <script>
+$(document).ready(function(){
+                  //  alert('asdasd');
+                  //  setTimeout(getpag(), 3000);
+                    function reset2(){
+                        $('.search-choice-close')[0].click();
+                    }
+                 
+                                if(!ace.vars['old_ie']) $('#date-timepicker1').datetimepicker({
+				 //format: 'MM/DD/YYYY h:mm:ss A',//use this option to display seconds
+				 icons: {
+					time: 'fa fa-clock-o',
+					date: 'fa fa-calendar',
+					up: 'fa fa-chevron-up',
+					down: 'fa fa-chevron-down',
+					previous: 'fa fa-chevron-left',
+					next: 'fa fa-chevron-right',
+					today: 'fa fa-arrows ',
+					clear: 'fa fa-trash',
+					close: 'fa fa-times'
+				 }
+				}).next().on(ace.click_event, function(){
+					$(this).prev().focus();
+				});
+                                
+                                if(!ace.vars['old_ie']) $('#date-timepicker2').datetimepicker({
+				 //format: 'MM/DD/YYYY h:mm:ss A',//use this option to display seconds
+				 icons: {
+					time: 'fa fa-clock-o',
+					date: 'fa fa-calendar',
+					up: 'fa fa-chevron-up',
+					down: 'fa fa-chevron-down',
+					previous: 'fa fa-chevron-left',
+					next: 'fa fa-chevron-right',
+					today: 'fa fa-arrows ',
+					clear: 'fa fa-trash',
+					close: 'fa fa-times'
+				 }
+				}).next().on(ace.click_event, function(){
+					$(this).prev().focus();
+				});
+                                
+                });
+               //to translate the daterange picker, please copy the "examples/daterange-fr.js" contents here before initialization
+				$('input[name=date-range-picker1]').daterangepicker({
+					'applyClass' : 'btn-sm btn-success',
+					'cancelClass' : 'btn-sm btn-default',
+					locale: {
+						applyLabel: 'Apply',
+						cancelLabel: 'Cancel',
+                                                format: 'YYYY-MM-DD',
+					}
+				})
+				.prev().on(ace.click_event, function(){
+					$(this).next().focus();
+				});
+                                
+                                $('input[name=date-range-picker2]').daterangepicker({
+					'applyClass' : 'btn-sm btn-success',
+					'cancelClass' : 'btn-sm btn-default',
+					locale: {
+						applyLabel: 'Apply',
+						cancelLabel: 'Cancel',
+                                                format: 'YYYY-MM-DD',
+					}
+				})
+				.prev().on(ace.click_event, function(){
+					$(this).next().focus();
+				});
+                </script>
+{% endblock %}

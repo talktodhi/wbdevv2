@@ -1,0 +1,964 @@
+{% extends 'base_main.html.twig' %}
+{% block title %}WayBeyond - Doctors Listing{% endblock %}
+{% block body %}
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Playlist</a>
+                </li>
+                <li class="active">Listing</li>
+            </ul>
+            <!-- /.breadcrumb -->
+            <!--<div class="nav-search" id="nav-search">
+                <form class="form-search">
+                    <span class="input-icon">
+                    <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+                    <i class="ace-icon fa fa-search nav-search-icon"></i>
+                    </span>
+                </form>
+            </div>-->
+            <!-- /.nav-search -->
+        </div>
+        <div class="page-content">
+            <!-- /.page-header -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <form class="form-horizontal" action="{{ path('playlist_listing') }}" id='searchForm' role="form">
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Playlist :</label>
+                            <div class="col-sm-9">
+                                <!--<input type="text" id="form-field-1" placeholder="Username" class="col-xs-10 col-sm-5" />-->
+                                <select data-placeholder="Choose a Playlist Name..." name="playlist_id[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['playlist_id'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['playlist_id'] is defined %}
+                                    {% set checkFlag = location_id_val|twigCheckInArry(data.get['playlist_id']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                                {#
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Doctor Name :</label>
+                            <div class="col-sm-9">
+                                <select data-placeholder="Choose a Doctor..." name="doctor_name[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['doctor_name'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['doctor_name'] is defined %}    
+                                        {% set checkFlag = location_id_val|twigCheckInArry(data.get['doctor_name']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> City :</label>
+                            <div class="col-sm-9">
+                                 <select data-placeholder="Choose City..." name="city[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['city'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['city'] is defined %}
+                                        {% set checkFlag = location_id_val|twigCheckInArry(data.get['city']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                                #}
+                        <div class="clearfix">
+                            <div class="col-md-offset-3 col-md-9">
+                                <button onClick='$( "#searchForm" ).submit();' class="btn btn-info" type="button">
+                                <i class="ace-icon fa fa-check bigger-110"></i>
+                                Search
+                                </button>
+                                &nbsp; &nbsp; &nbsp;
+                                <button onClick='reset2();' class="btn" type="reset">
+                                <i class="ace-icon fa fa-undo bigger-110"></i>
+                                Reset
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    
+                    <div class="hr hr-18 dotted hr-double"></div>
+                    <span class="col-sm-4">
+                        <a class='north' href="{{ asset('uploaded_docs/playlist/playlist_novdec.csv') }}" target="_blank">Download Sample</a>
+                    </span>
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <table id="simple-table" class="table  table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="detail-col">Sr. No.</th>
+                                        <th class="detail-col">Playlist Sr. No.</th>
+                                        <th>Film</th>
+                                        <th>Content Id</th>
+                                        <th class="hidden-480">Playlist Name</th>
+                                        <th>
+                                            Audio
+                                        </th>
+                                        <th>Sub-Titles</th>
+                                        <th class="hidden-480">Genre</th>
+                                        <th>Topic</th>
+                                        <th>Animation / Live Action</th>
+                                        <th>Brand</th>
+                                        <th>Product</th>
+                                        <th>Start Date</th>
+                                        <th>End Date</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% set Count =  data['countSrNo'] %}
+                                    {% for playlist_list_val in data.playlist_list %}
+                                    <tr>
+                                        <td class="center">
+                                            {{ Count }}
+                                        </td>
+                                        <td class="center">
+                                            {{ playlist_list_val['sr_no'] }}
+                                        </td>
+                                        <td>{{ playlist_list_val['film'] }}</td>
+                                        <td>{{ playlist_list_val['content_id'] }}</td>
+                                        <td>{{ playlist_list_val['playlist_name'] }}</td>
+                                        <td>{{ playlist_list_val['audio'] }}</td>
+                                        <td>{{ playlist_list_val['sub_titles'] }}</td>
+                                        <td>{{ playlist_list_val['genre'] }}</td>
+                                        <td>{{ playlist_list_val['topic'] }}</td>
+                                        <td>{{ playlist_list_val['video_type'] }}</td>
+                                        <td>{{ playlist_list_val['brand'] }}</td>
+                                        <td>{{ playlist_list_val['product'] }}</td>
+                                        <td>{{ playlist_list_val['start_date'] }}</td>
+                                        <td>{{ playlist_list_val['end_date'] }}</td>
+                                        
+                                        <!--
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-info">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>
+                                            </div>
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        -->
+                                    </tr>
+                                    {% set Count = Count + 1 %}
+                                    {% endfor %}
+                                    <!--
+                                    <tr class="detail-row">
+                                        <td colspan="8">
+                                            <div class="table-detail">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <div class="text-center">
+                                                            <img height="150" class="thumbnail inline no-margin-bottom" alt="Domain Owner's Avatar" src="assets/images/avatars/profile-pic.jpg" />
+                                                            <br />
+                                                            <div class="width-80 label label-info label-xlg arrowed-in arrowed-in-right">
+                                                                <div class="inline position-relative">
+                                                                    <a class="user-title-label" href="#">
+                                                                    <i class="ace-icon fa fa-circle light-green"></i>
+                                                                    &nbsp;
+                                                                    <span class="white">Alex M. Doe</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-7">
+                                                        <div class="space visible-xs"></div>
+                                                        <div class="profile-user-info profile-user-info-striped">
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Username </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>alexdoe</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Location </div>
+                                                                <div class="profile-info-value">
+                                                                    <i class="fa fa-map-marker light-orange bigger-110"></i>
+                                                                    <span>Netherlands, Amsterdam</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Age </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>38</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Joined </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>2010/06/20</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Last Online </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>3 hours ago</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> About Me </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>Bio</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <div class="space visible-xs"></div>
+                                                        <h4 class="header blue lighter less-margin">Send a message to Alex</h4>
+                                                        <div class="space-6"></div>
+                                                        <form>
+                                                            <fieldset>
+                                                                <textarea class="width-100" resize="none" placeholder="Type something…"></textarea>
+                                                            </fieldset>
+                                                            <div class="hr hr-dotted"></div>
+                                                            <div class="clearfix">
+                                                                <label class="pull-left">
+                                                                <input type="checkbox" class="ace" />
+                                                                <span class="lbl"> Email me a copy</span>
+                                                                </label>
+                                                                <button class="pull-right btn btn-sm btn-primary btn-white btn-round" type="button">
+                                                                Submit
+                                                                <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+                                                                </button>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">
+                                            <label class="pos-rel">
+                                            <input type="checkbox" class="ace" />
+                                            <span class="lbl"></span>
+                                            </label>
+                                        </td>
+                                        <td class="center">
+                                            <div class="action-buttons">
+                                                <a href="#" class="green bigger-140 show-details-btn" title="Show Details">
+                                                <i class="ace-icon fa fa-angle-double-down"></i>
+                                                <span class="sr-only">Details</span>
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="#">base.com</a>
+                                        </td>
+                                        <td>$35</td>
+                                        <td class="hidden-480">2,595</td>
+                                        <td>Feb 18</td>
+                                        <td class="hidden-480">
+                                            <span class="label label-sm label-success">Registered</span>
+                                        </td>
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-info">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>
+                                            </div>
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="detail-row">
+                                        <td colspan="8">
+                                            <div class="table-detail">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <div class="text-center">
+                                                            <img height="150" class="thumbnail inline no-margin-bottom" alt="Domain Owner's Avatar" src="assets/images/avatars/profile-pic.jpg" />
+                                                            <br />
+                                                            <div class="width-80 label label-info label-xlg arrowed-in arrowed-in-right">
+                                                                <div class="inline position-relative">
+                                                                    <a class="user-title-label" href="#">
+                                                                    <i class="ace-icon fa fa-circle light-green"></i>
+                                                                    &nbsp;
+                                                                    <span class="white">Alex M. Doe</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-7">
+                                                        <div class="space visible-xs"></div>
+                                                        <div class="profile-user-info profile-user-info-striped">
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Username </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>alexdoe</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Location </div>
+                                                                <div class="profile-info-value">
+                                                                    <i class="fa fa-map-marker light-orange bigger-110"></i>
+                                                                    <span>Netherlands, Amsterdam</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Age </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>38</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Joined </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>2010/06/20</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Last Online </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>3 hours ago</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> About Me </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>Bio</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <div class="space visible-xs"></div>
+                                                        <h4 class="header blue lighter less-margin">Send a message to Alex</h4>
+                                                        <div class="space-6"></div>
+                                                        <form>
+                                                            <fieldset>
+                                                                <textarea class="width-100" resize="none" placeholder="Type something…"></textarea>
+                                                            </fieldset>
+                                                            <div class="hr hr-dotted"></div>
+                                                            <div class="clearfix">
+                                                                <label class="pull-left">
+                                                                <input type="checkbox" class="ace" />
+                                                                <span class="lbl"> Email me a copy</span>
+                                                                </label>
+                                                                <button class="pull-right btn btn-sm btn-primary btn-white btn-round" type="button">
+                                                                Submit
+                                                                <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+                                                                </button>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">
+                                            <label class="pos-rel">
+                                            <input type="checkbox" class="ace" />
+                                            <span class="lbl"></span>
+                                            </label>
+                                        </td>
+                                        <td class="center">
+                                            <div class="action-buttons">
+                                                <a href="#" class="green bigger-140 show-details-btn" title="Show Details">
+                                                <i class="ace-icon fa fa-angle-double-down"></i>
+                                                <span class="sr-only">Details</span>
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="#">max.com</a>
+                                        </td>
+                                        <td>$60</td>
+                                        <td class="hidden-480">4,400</td>
+                                        <td>Mar 11</td>
+                                        <td class="hidden-480">
+                                            <span class="label label-sm label-warning">Expiring</span>
+                                        </td>
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-info">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>
+                                            </div>
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="detail-row">
+                                        <td colspan="8">
+                                            <div class="table-detail">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <div class="text-center">
+                                                            <img height="150" class="thumbnail inline no-margin-bottom" alt="Domain Owner's Avatar" src="assets/images/avatars/profile-pic.jpg" />
+                                                            <br />
+                                                            <div class="width-80 label label-info label-xlg arrowed-in arrowed-in-right">
+                                                                <div class="inline position-relative">
+                                                                    <a class="user-title-label" href="#">
+                                                                    <i class="ace-icon fa fa-circle light-green"></i>
+                                                                    &nbsp;
+                                                                    <span class="white">Alex M. Doe</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-7">
+                                                        <div class="space visible-xs"></div>
+                                                        <div class="profile-user-info profile-user-info-striped">
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Username </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>alexdoe</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Location </div>
+                                                                <div class="profile-info-value">
+                                                                    <i class="fa fa-map-marker light-orange bigger-110"></i>
+                                                                    <span>Netherlands, Amsterdam</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Age </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>38</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Joined </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>2010/06/20</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Last Online </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>3 hours ago</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> About Me </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>Bio</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <div class="space visible-xs"></div>
+                                                        <h4 class="header blue lighter less-margin">Send a message to Alex</h4>
+                                                        <div class="space-6"></div>
+                                                        <form>
+                                                            <fieldset>
+                                                                <textarea class="width-100" resize="none" placeholder="Type something…"></textarea>
+                                                            </fieldset>
+                                                            <div class="hr hr-dotted"></div>
+                                                            <div class="clearfix">
+                                                                <label class="pull-left">
+                                                                <input type="checkbox" class="ace" />
+                                                                <span class="lbl"> Email me a copy</span>
+                                                                </label>
+                                                                <button class="pull-right btn btn-sm btn-primary btn-white btn-round" type="button">
+                                                                Submit
+                                                                <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+                                                                </button>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">
+                                            <label class="pos-rel">
+                                            <input type="checkbox" class="ace" />
+                                            <span class="lbl"></span>
+                                            </label>
+                                        </td>
+                                        <td class="center">
+                                            <div class="action-buttons">
+                                                <a href="#" class="green bigger-140 show-details-btn" title="Show Details">
+                                                <i class="ace-icon fa fa-angle-double-down"></i>
+                                                <span class="sr-only">Details</span>
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="#">best.com</a>
+                                        </td>
+                                        <td>$75</td>
+                                        <td class="hidden-480">6,500</td>
+                                        <td>Apr 03</td>
+                                        <td class="hidden-480">
+                                            <span class="label label-sm label-inverse arrowed-in">Flagged</span>
+                                        </td>
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-info">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>
+                                            </div>
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="detail-row">
+                                        <td colspan="8">
+                                            <div class="table-detail">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <div class="text-center">
+                                                            <img height="150" class="thumbnail inline no-margin-bottom" alt="Domain Owner's Avatar" src="assets/images/avatars/profile-pic.jpg" />
+                                                            <br />
+                                                            <div class="width-80 label label-info label-xlg arrowed-in arrowed-in-right">
+                                                                <div class="inline position-relative">
+                                                                    <a class="user-title-label" href="#">
+                                                                    <i class="ace-icon fa fa-circle light-green"></i>
+                                                                    &nbsp;
+                                                                    <span class="white">Alex M. Doe</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-7">
+                                                        <div class="space visible-xs"></div>
+                                                        <div class="profile-user-info profile-user-info-striped">
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Username </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>alexdoe</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Location </div>
+                                                                <div class="profile-info-value">
+                                                                    <i class="fa fa-map-marker light-orange bigger-110"></i>
+                                                                    <span>Netherlands, Amsterdam</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Age </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>38</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Joined </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>2010/06/20</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Last Online </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>3 hours ago</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> About Me </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>Bio</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <div class="space visible-xs"></div>
+                                                        <h4 class="header blue lighter less-margin">Send a message to Alex</h4>
+                                                        <div class="space-6"></div>
+                                                        <form>
+                                                            <fieldset>
+                                                                <textarea class="width-100" resize="none" placeholder="Type something…"></textarea>
+                                                            </fieldset>
+                                                            <div class="hr hr-dotted"></div>
+                                                            <div class="clearfix">
+                                                                <label class="pull-left">
+                                                                <input type="checkbox" class="ace" />
+                                                                <span class="lbl"> Email me a copy</span>
+                                                                </label>
+                                                                <button class="pull-right btn btn-sm btn-primary btn-white btn-round" type="button">
+                                                                Submit
+                                                                <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+                                                                </button>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="center">
+                                            <label class="pos-rel">
+                                            <input type="checkbox" class="ace" />
+                                            <span class="lbl"></span>
+                                            </label>
+                                        </td>
+                                        <td class="center">
+                                            <div class="action-buttons">
+                                                <a href="#" class="green bigger-140 show-details-btn" title="Show Details">
+                                                <i class="ace-icon fa fa-angle-double-down"></i>
+                                                <span class="sr-only">Details</span>
+                                                </a>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <a href="#">pro.com</a>
+                                        </td>
+                                        <td>$55</td>
+                                        <td class="hidden-480">4,250</td>
+                                        <td>Jan 21</td>
+                                        <td class="hidden-480">
+                                            <span class="label label-sm label-success">Registered</span>
+                                        </td>
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-info">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>
+                                            </div>
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr class="detail-row">
+                                        <td colspan="8">
+                                            <div class="table-detail">
+                                                <div class="row">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <div class="text-center">
+                                                            <img height="150" class="thumbnail inline no-margin-bottom" alt="Domain Owner's Avatar" src="assets/images/avatars/profile-pic.jpg" />
+                                                            <br />
+                                                            <div class="width-80 label label-info label-xlg arrowed-in arrowed-in-right">
+                                                                <div class="inline position-relative">
+                                                                    <a class="user-title-label" href="#">
+                                                                    <i class="ace-icon fa fa-circle light-green"></i>
+                                                                    &nbsp;
+                                                                    <span class="white">Alex M. Doe</span>
+                                                                    </a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-7">
+                                                        <div class="space visible-xs"></div>
+                                                        <div class="profile-user-info profile-user-info-striped">
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Username </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>alexdoe</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Location </div>
+                                                                <div class="profile-info-value">
+                                                                    <i class="fa fa-map-marker light-orange bigger-110"></i>
+                                                                    <span>Netherlands, Amsterdam</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Age </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>38</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Joined </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>2010/06/20</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> Last Online </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>3 hours ago</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="profile-info-row">
+                                                                <div class="profile-info-name"> About Me </div>
+                                                                <div class="profile-info-value">
+                                                                    <span>Bio</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <div class="space visible-xs"></div>
+                                                        <h4 class="header blue lighter less-margin">Send a message to Alex</h4>
+                                                        <div class="space-6"></div>
+                                                        <form>
+                                                            <fieldset>
+                                                                <textarea class="width-100" resize="none" placeholder="Type something…"></textarea>
+                                                            </fieldset>
+                                                            <div class="hr hr-dotted"></div>
+                                                            <div class="clearfix">
+                                                                <label class="pull-left">
+                                                                <input type="checkbox" class="ace" />
+                                                                <span class="lbl"> Email me a copy</span>
+                                                                </label>
+                                                                <button class="pull-right btn btn-sm btn-primary btn-white btn-round" type="button">
+                                                                Submit
+                                                                <i class="ace-icon fa fa-arrow-right icon-on-right bigger-110"></i>
+                                                                </button>
+                                                            </div>
+                                                        </form>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.span -->
+                    </div>
+                                    <div id="showPagination"></div>
+                                    
+                    <input type="hidden" name="pageDiv" id="pageDiv" value="{{ data['paginations'] }}" />
+                    <!-- /.row -->
+                    <div class="hr hr-18 dotted hr-double"></div>
+                </div>
+                    <nav><ul class='pagination'></ul></nav>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.page-content -->
+    </div>
+</div>
+<!-- /.main-content -->
+
+{% endblock %}
+{% block javascripts %}
+    <script>
+$(document).ready(function(){
+                  //  alert('asdasd');
+                    $('.pagination').pagination({
+                        items: '{{ data['total_records'] }}',
+                        itemsOnPage: '{{ data['limit'] }}',
+                        cssStyle: 'light-theme',
+                        currentPage : '{{ data['current_page'] }}',
+                        hrefTextPrefix : '{{ data['url'] }}'
+                    });
+
+                  //  setTimeout(getpag(), 3000);
+                    function reset2(){
+                        $('.search-choice-close')[0].click();
+                    }
+                 
+                });
+                </script>
+{% endblock %}

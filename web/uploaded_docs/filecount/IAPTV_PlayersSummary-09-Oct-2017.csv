@@ -1,0 +1,1053 @@
+PlayerStatus,TokenId,PlayerNo,PlayerName,Location,PlayerGroup,FileCount,PlayerVersion
+Offline,720,720,IAP TV Test 1,IAP TV Test 1,,42/41,1.1
+Offline,721,721,IAP TV Test 2,IAP TV Test 2,,1/2,1.1
+Offline,722,722,IAP TV Test 3,IAP TV Test 3,,42/41,1.1
+Offline,723,FHRD-FEPF-AGFM-AOPD-DPWL,IAP TV Test 4,IAP TV Test 4,,0/41,1.0
+Offline,724,FQRV-DXCJ-BYAX-FIYI-BZCM,IAP TV Test 5,IAP TV Test 5,,0/41,1.0
+Offline,725,FRIT-DQSH-BSNN-BPNP-EQVM,IAP TV Test 6,IAP TV Test 6,,0/41,1.0
+Offline,726,FRVA-ATWQ-CXQH-BTNV-ASKQ,IAP TV Test 7,IAP TV Test 7,,0/41,1.0
+Offline,727,IAPTV0000001,Rashmi Anandani,Apollo Clinic Plot No. 7 Sector 110 Block A Noida,,8/41,1.1
+Offline,728,IAPTV0000002,Tejaswini Jadhav,Nirmiti Horizone   Shop No 4  Near Reliance Fresh  Sus Pashan Link Road,,0/41,1.0
+Recent,729,IAPTV0000003,Dr. Kusum Gupta,101-Inderprastha Plaza Shopping Complex Patparganj,,42/41,1.1
+Offline,750,IAPTV0000004,Amit Jain,G 8 Mayur Plaza Mayur Vihar Phase 1,,0/41,1.0
+Online,751,IAPTV0000005,Sabiha Gulammohiuddin Shaikh,14Bramhamajestic Nibm Road Kondhwa Pune411048,,41/41,1.1
+Offline,752,IAPTV0000006,Nilima Patil,Nilima Patil Shop No 27 Maruti Enclave Yash Paradise Sec 8  Airoli,,20/41,1.1
+Offline,753,IAPTV0000007,Kanav Anand,Anand Nursing Home 17/12  West Patel Nagar,,0/41,1.0
+Offline,754,IAPTV0000008,Dilip Pawar,Am82 Shalimar Bagh,,0/41,1.0
+Offline,755,IAPTV0000009,Ajay Kumar Tiwari,Child Clinic 106  Block H3 Dda Lal Market  Vikaspuri,,0/41,1.0
+Offline,756,IAPTV0000010,Dr. Veenu Singhal,Get Well Clinic  Bg6/245A  Paschim Vihar  New Delhi 110063,,0/41,1.0
+Offline,757,IAPTV0000011,Lalit Mani,D-7  Karampura  Near Post Office .,,0/41,1.0
+Offline,758,IAPTV0000012,Vijay Hedao,Shri Gajanan Clinic  Shop No. 5 A  Periwinkle Society  S. No. 41/1/1  Opp. Pashankar Auto. Baner,,41/41,1.1
+Offline,759,IAPTV0000013,Ankur Sethi,Shop No. 7 Sethi Max Royal Arcade  Sector 76,,0/41,1.0
+Recent,760,IAPTV0000014,Ujjwala Keskar,Child Care Clinic  Shop No. 107  Sai Cristal Hdfc Bank Building  Vishal Nagar   Pimple Nilakh,,0/41,1.0
+Offline,761,IAPTV0000015,Piyush Gupta,98   Raj Nagar Pitampura,,20/41,1.1
+Offline,762,IAPTV0000016,Vishal Vaidya,F64 651St Floor Manish Global Mall Sector 22 Dwarka,,0/41,1.0
+Offline,763,IAPTV0000017,Ramesh Aggarwal,Kids Care Clinic Flat No -77 Ground Floor Pocket -13 Sector -20 Rohini,,0/41,1.0
+Recent,764,IAPTV0000018,Chaya Gupta,North Delhi Nursing Home  3  Community Centre-2  Ashok Vihar   Phase-3,,41/41,1.1
+Offline,765,IAPTV0000019,Bharat Bhusan,B-47 Lic Colony Paschim Vihar,,42/41,1.1
+Offline,766,IAPTV0000020,K K Verma,10A  Pocket 1  Paschim Vihar,,0/41,1.0
+Offline,767,IAPTV0000021,Sanjay Modi,Building No.2  Community Centre-2  Ashok Vihar,,0/41,1.0
+Offline,768,IAPTV0000022,Seema Gavali,Off No 106 Sai Vision A Kunal Icon Road Nr Nkgsb Bank Pimple Saudagar,,41/41,1.1
+Offline,769,IAPTV0000023,Dr. Piyush Jain,143Rishab Vihar  Delhi,,0/41,1.0
+Offline,770,IAPTV0000024,Dr. Nishant Bhalla,E-21/ 150   Sector -3  Rohini,,1/41,1.1
+Offline,771,IAPTV0000025,Vaibhav Kashinath Gode,Navjeevan Clinic  Poona Link Road  Katemanivali ,,0/41,1.0
+Offline,772,IAPTV0000026,Dhanashree Deshmukh,Angel Child Care  Shop No. 2  Neptune Bldg.  Dosti Estate  S M Rd.  Wadala (E),,42/41,1.1
+Offline,773,IAPTV0000027,Satvinder Kapoor,428 Basement Behra Enclave  Paschim Vihar,,0/41,1.0
+Offline,774,IAPTV0000028,M K Jhamb,Bp-59 Shalimar Bagh ,,41/41,1.1
+Offline,775,IAPTV0000029,Rajeev D. Joshi,Shree J Hospital Opp Chintamaninagar Bibwewadi,,1/41,1.1
+Online,776,IAPTV0000030,Vipul Baweja,B-3/399 Paschim Vihar,,0/41,1.0
+Offline,777,IAPTV0000031,Ajay Achyut Pendse,Shree Siddhivinayak Nursing Home. 1 Ram Mansion Chs. S.K.Bole Rd. Dadar Mumbai 400028,,0/41,1.0
+Offline,778,IAPTV0000032,Dinesh Kumar Singh,Chiranjeevi Childcare & Gen. N.H.  Vidhya Vila  Nagardas Cross Road  Andheri East,,42/41,1.1
+Offline,779,IAPTV0000033,Ashish Sahani,38  East Punjabi Bagh  G Inni Devi Marg,,0/41,1.0
+Offline,780,IAPTV0000034,Dr. Vinay Kumar Rai,Rejoice Clinic  Basement Hotel Sheesh Mahal  A Block -28   South Extension-2,,0/41,1.0
+Offline,781,IAPTV0000035,Richa Arora Agarwal,C-5/76 Sector -11  Rohini,,41/41,1.1
+Offline,782,IAPTV0000036,Rohit Goyal,Rishi Medical Centre Gh 5&7 Flat No 813,,0/41,1.0
+Online,783,IAPTV0000037,Mahesh Dilip Shinde,Ramanand Complex  Hadapsar Gadital,,41/41,1.1
+Offline,784,IAPTV0000038,Vikas Deep Madan,Wz-1193  Nangal Raya ,,0/41,1.0
+Recent,785,IAPTV0000039,Mumtaz Sharif,Kids Clinic  Dr Mumtaz Sharif  Shop No 4  Sector 23 Nerul East,,41/41,1.1
+Offline,786,IAPTV0000040,Rajiv Goel,Pocket-6 Plot No-10 Sector-22 Rohini,,0/41,1.0
+Offline,787,IAPTV0000041,Dr. Saurabh Khanna,114  New Vardhman Market West Enclave Pitampura,,0/41,1.0
+Offline,788,IAPTV0000042,Nidhish Kumar Gupta,Shop No. 10 Top Of Tyagi Medical Store Vds Market 1  Sector 93,,41/41,1.1
+Online,789,IAPTV0000043,Sarika Shinde,Shinde Clinic  Shop No. 8  Opp. Sanjay Sports Accadamy Near Hotel Rajwada  Someshwarwadi  Pashan,,41/41,1.1
+Online,790,IAPTV0000044,Gopal Samdani,Pravin Child Clinic & Vaccination Centre  Rose Icon  Off No 310' Pimple Saudagar,,41/41,1.1
+Offline,791,IAPTV0000045,Ajit Saxena,A.N Child Care  H 60  Sector 11  Noida,,5/41,1.1
+Online,792,IAPTV0000046,Manish Gupta,E-1066 Palam Extn. Ramphal Chowk  Sector -7  Dwarka,,0/41,1.0
+Offline,793,IAPTV0000047,Dr. Rashi Signal Rustagi,B-6/ 85 Sector-11 Rohini,,0/41,1.0
+Offline,794,IAPTV0000048,Mohan Bhagwant Zambre,Saraswati Gulmohar Path 72/11 Erandwane Pune 411004,,42/41,1.1
+Offline,795,IAPTV0000049,Sunil Bhatnagar,C4A/52A  Janakpuri,,0/41,1.0
+Offline,796,IAPTV0000050,Manjoo Gupta,E-174  Kamla Nagar ,,0/41,1.0
+Offline,797,IAPTV0000051,Dina Nath Virmani,House No. - H1/137 Vikaspuri,,0/41,1.0
+Offline,798,IAPTV0000052,Dr. U. B. Lall,L-11  Kailash Colony,,8/41,1.1
+Online,799,IAPTV0000053,Sunil Mehendiratta,Shop No.4  A5B/A5C Market   Janak Puri,,0/41,1.0
+Recent,800,IAPTV0000054,Dr. Manu Agarwal,B 5&6 / 4473  Vasant Kunj  New Delhi 110070,,41/41,1.1
+Offline,801,IAPTV0000055,Beena Thomas,Child Care Clinic  55 Hiramani Shopping Centre   Banger Nagar Goregaon West,,0/41,1.0
+Offline,802,IAPTV0000056,Amol Manohar Jawale,Pushpak Child Care  Dr Kodre Hospital  Keshavnagar  Manjari Road  No Florida Estate  Mundhwa  Pune,,0/41,1.0
+Offline,803,IAPTV0000057,Zahid Ali,C-281  German Lane  Shaheen Bagh  New Delhi,,42/41,1.1
+Offline,804,IAPTV0000058,J P Singh,The Child Clinic  28/4  Nangia Park  Shakti Nagar,,18/41,1.1
+Offline,805,IAPTV0000059,Dr. Arun Fotedar,A-52  Swasthya Vihar,,0/41,1.0
+Offline,806,IAPTV0000060,Dushyant V Punwani,C/4  Geeta Prakash  J P Road  Near 4 Bungalows Bus Stop  Andheri West,,42/41,1.1
+Offline,807,IAPTV0000061,Dr. Atul Kumar Sirohi,Sundarlal Hospital  R-9  Sector-12  Pratap Vihar,,42/41,1.1
+Offline,808,IAPTV0000062,Krishan Autar,Fa-353 Mansarowar Garden,,0/41,1.0
+Offline,809,IAPTV0000063,Mubashshir Muzammil Khan,Aims Hospital  Midc  Dombivli (E),,1/41,1.1
+Online,810,IAPTV0000064,Parul Gupta,116  Najafgarh Road Nangloi,,0/41,1.0
+Offline,811,IAPTV0000065,Dr. Rajeev Gupta,F-3/5 First Floor Krishna Nagar Delhi-110051,,0/41,1.0
+Offline,812,IAPTV0000066,Dr. Deen Dayal Shakya,188' Ground Floor  Pocket-14  Behind Balaji Babusha Mandir Sector -24  Rohini,,24/41,1.1
+Offline,813,IAPTV0000067,SP Sharma,B-176 Sector 51 Noida,,0/41,1.0
+Offline,814,IAPTV0000068,Atul Kumar Maheshwari,D292 Sector 108 Noida,,0/41,1.0
+Online,815,IAPTV0000069,Rajiv Arora,11  Shakti Vihar ,,41/41,1.1
+Offline,816,IAPTV0000070,Vasant Y Mahajan,Shwelpa N/H Ganesh Ashish  Wadavali Section Ambernath(E),,42/41,1.1
+Online,817,IAPTV0000071,Arun Gupta,Aj-54B Opp. Ever Bake Shalimar Bagh,,0/41,1.0
+Online,818,IAPTV0000072,Sonali Amit Mutha,Shreyas Poly Clinic  Nadkar Complex A Wing 104  Near Tanwar Nagar ,,41/41,1.1
+Offline,819,IAPTV0000073,Nandini Aggarwal,B-453 New Friends Colony  New Delhi,,42/41,1.1
+Offline,820,IAPTV0000074,Manish Chopra,Flat 4  Sector 11  Pocket 4  Dwarka,,0/41,1.0
+Offline,821,IAPTV0000075,Hemajyoti Pahwa,110A  Shipra Sun City  Indirapuram,,0/41,1.0
+Offline,822,IAPTV0000076,Gurudutt S Bhat,Shop No.9 Gagangiri Khadakpada,,0/41,1.0
+Online,823,IAPTV0000077,Dr. Raghavendra Narayan Singh,Shop No-1  Pocket H -17 Csc-3  Sector-7  Rohini,,41/41,1.1
+Online,824,IAPTV0000078,Dr. Kuldeep Khanna,39 Md Mkt  Pitampura,,41/41,1.1
+Offline,825,IAPTV0000079,Dr. Deepak Chandra Pande,J-11Krishna Nagar Delhi-110051,,0/41,1.0
+Offline,826,IAPTV0000080,Tina Goel,144First Floor Vardhman Dee Cee Plot-7  Sector-11  Dwarka,,41/41,1.1
+Online,827,IAPTV0000081,Pankaj Garg,Shashi'S New Born & Child Care Clinic  Shop No. 4  Siddeshwar Park  Opp. Nandanvan Homes Parsik Nagar ,,41/41,1.1
+Offline,828,IAPTV0000082,Manish Ashok Shah,Durval Clinic Shop 4  Manik Apt.  Sinhagad Road Pune,,0/41,1.0
+Recent,829,IAPTV0000083,Devidas Mate,Gauranga Children'S Clinic  Gala No. 2  Near J. J Gupta Sizing  Opp. Citizen Hospital Kaneri  Bhiwandi,,0/41,1.0
+Offline,830,IAPTV0000084,Namrata Patel,Shop No-8 Rashmi Prime Corner Opp.Kanakia Police Station Below Hdfc Bank Becpverli Park ,,41/41,1.1
+Offline,831,IAPTV0000085,M M Gupta,87/7255  Prem Nagar   Near Shakti Nagar Chowk,,8/41,1.1
+Offline,832,IAPTV0000086,Anil Bajaj,Growth Nutrition And Development H-4  Kirti Nagar,,0/41,1.0
+Offline,833,IAPTV0000087,Dr. Dinesh Agarwal,A121 First Floor Gali No.-8  Madhu Vihar Market Patparganj,,41/41,1.1
+Offline,834,IAPTV0000088,Sandeep Gupta,B-1  Rohit Kunj   Pitampura,,0/41,1.0
+Offline,835,IAPTV0000089,Pooja Gupta,M-7  Satyavati Colony  Ashok Vihar   Phase-3.,,41/41,1.1
+Offline,836,IAPTV0000090,Subhash C Sapra,13/39  Shakti Nagar,,0/41,1.0
+Offline,837,IAPTV0000091,Shweta Gupta,F-8  1St Floor  Plot-3 Manish Twin Plaza Sec-4  Market  Dwarka,,42/41,1.1
+Offline,838,IAPTV0000092,Priyanka Jain,Tulipclinic D-30 Sector-52,,0/41,1.0
+Online,839,IAPTV0000093,Jasjit Singh Bhasin,Preet Clinic 4D/17 Old Rajinder Nagar,,0/41,1.0
+Offline,840,IAPTV0000094,R K Malik Malik,D-2/4 Paschimi Marg  Vasant Vihar,,0/41,1.0
+Online,841,IAPTV0000095,Samir Sheikh,Wockhardt Hospital  Opp Rassaz Theatre  Off Mira Bhayandar Highway,,41/41,1.1
+Online,842,IAPTV0000096,Naveen Garg,T-22 Sector 12,,41/41,1.1
+Offline,843,IAPTV0000097,Raminder Ruby Ruby,H.No.852  Sec.15,,0/41,1.0
+Offline,844,IAPTV0000098,Vikram Mardhekar,Siddhivinayak. Clinic Arthur Road Naka Near Santoshi Maata Temple Chinchpokli West,,21/41,1.1
+Offline,845,IAPTV0000099,Dharamvir Sharma,Maharaja Agrasain Plaza  Shop No.-2  Rz-B12/1  Mahavir Enclave  Dabri Palam Road,,0/41,1.0
+Offline,846,IAPTV0000100,Anju Bhasin,D-7/7371  Vasant Kunj,,0/41,1.0
+Offline,847,IAPTV0000101,Prakash Vir Tyagi,95  Bhagwan Nagar   Opp. Maharani Bagh  New Delhi-110014,,0/41,1.0
+Online,848,IAPTV0000102,Dr. Manbir Singh Sarna,104  Sushma Tower   Central Market D Block  Prashnat Vihar,,41/41,1.1
+Offline,849,IAPTV0000103,Dr. Anuj Jain,A-1/35  Prashant Vihar,,0/41,1.0
+Offline,850,IAPTV0000104,Dr. Amit Garg,D-5/50 Sector-15 Rohini,,1/41,1.1
+Online,851,IAPTV0000105,Dr. A. H Chowdhury,1088/1  First Floor  ( Near Amar Sons ) Near Mehrauli Bas Stand,,41/41,1.1
+Offline,852,IAPTV0000106,Dr. Shekhar Biswas,A-1/ 8   Sector -17   Rohini  Delhi,,41/41,1.1
+Offline,853,IAPTV0000107,Dr. Nagendra Gupta,A-3/174  Sector -16  Rohini,,42/41,1.1
+Recent,854,IAPTV0000108,Dr. Kaushal Kumar Pandey,517-Ground Floor  Sahayog Lane Opp.Tiwari Eye Centre Sector -5   Vaishali Gzb.,,41/41,1.1
+Offline,855,IAPTV0000109,Anupama Patki,Kids N Teens Clinic  4   Mangesh Appartment   Opp. Vinayak Market  Sanewadi  Aundh,,42/41,1.1
+Online,856,IAPTV0000110,Dr. Rashmi Sujay Naik,Bindu Speciality Clinic  Abc Building  Bhel Chowk  Above Cafe Coffee Day Nigdi Pradhikaran,,41/41,1.1
+Offline,857,IAPTV0000111,Dr. Ravinder Singh Bajaj,71  Dda Mkt 1St Floor  Sector-13  Rohini,,41/41,1.1
+Offline,858,IAPTV0000112,Rachana Wagmare,Natalie Clinic  Sai Haritage Building  Lane No. 6   Tingre Nagar,,32/41,1.1
+Offline,859,IAPTV0000113,Deepak Anand Mulay,Shop No 8&9 Mulay Clinic Bhagyatare Enclave Vadgaon Budruk Sinhagad Rd,,41/41,1.1
+Online,860,IAPTV0000114,Manjusha Amol Goje,Children Clinic T-18 Third Floor Destination Centre Magarpatta City,,41/41,1.1
+Offline,861,IAPTV0000115,Amit Kumar Tyagi,10/3 West Patel Nagar,,4/41,1.1
+Offline,862,IAPTV0000116,Nalin Agarwal,Flat No. 999 Sector 29 Noida,,0/41,1.0
+Offline,863,IAPTV0000117,Pallav Rastogi,Kl-44 Kavi Nagar,,0/41,1.0
+Offline,864,IAPTV0000118,Kamlesh Haria,Asha Polyclinic Rk Building Mn Marg Near Star City Cinema Matunga West Mumbai 16,,0/41,1.0
+Offline,865,IAPTV0000119,Ninad Shivaji Mahale,Eira Clinic For Children Shop No.3 Bhalerao Corner Near Vijay Sales In Pimple Saudagar Rahatni Pune17,,0/41,1.0
+Offline,866,IAPTV0000120,Sushmita Gupta,Newborn And Child Specialist   Row House Plot 62 Sec15 Koperkhairane,,0/41,1.0
+Offline,867,IAPTV0000121,Krishnamohan Jonnalagadda,Shop No 1  Building No. 2  Konark Nagar  Viman Nagar.,,42/41,1.1
+Offline,868,IAPTV0000122,Mugdha Khapre,Tulip Fertility & Children Clinic R.K Life Spaces Dutt Mandir -Euro Kids School Road Wakad.,,0/41,1.0
+Offline,869,IAPTV0000123,Pavan Daga Suryawanshi,Sai Vishwa Clinic Plot No 177 Koynanagar Saykar Building Sane Chowk Chikhalikar Road ,,0/41,1.0
+Offline,870,IAPTV0000124,Yogita Arora,Child Clinic 1/56  Moti Nagar,,0/41,1.0
+Offline,871,IAPTV0000125,Ramesh Subramanian Iyer,The Kids Clinic  301  Ajit Darshan Building  Teen Petrol Pump Naupada  Thane (W),,42/41,1.1
+Offline,872,IAPTV0000126,Anil Sachdeva,63/12  Old Rajender Nagar,,0/41,1.0
+Offline,873,IAPTV0000127,Vipin Jain,C-96 Sector 49,,41/41,1.1
+Offline,874,IAPTV0000128,Surender Yadav,Shree Hospital  Plot No.54 Sector 12A  Dwarka,,0/41,1.0
+Online,875,IAPTV0000129,Abhijit Kale,Shop No-7  Naskar Avenue  Next To Axis Bank  Pashan Nda Road  Bavdhan,,41/41,1.1
+Offline,876,IAPTV0000130,Seema Shekhar Sudame,Sudame Hospital  Vivek Nagar Opp Bajaj Auto Ltd Akurdi .,,42/41,1.1
+Offline,877,IAPTV0000131,Deepak Kumar Singla,H-14  Rajapuri  Main Road Gali No.21  Uttam Nagar,,0/41,1.0
+Offline,878,IAPTV0000132,Tushar Parikh,Office 107  First Floor  Chinar Building   East Ave. Kalyani Nagar,,0/41,1.0
+Recent,879,IAPTV0000133,Barnali Bhattacharya,Children'S Clinic Flat No 10  " C " Mayanagari Opp Alfa Laval Mumbai Pune Road ,,41/41,1.1
+Offline,880,IAPTV0000134,Nitin Verma,A/150  New Friends Colony  New Delhi,,1/41,1.1
+Offline,881,IAPTV0000135,Anuradha Mittal,Sc 58  Jaipuria Sunrise Greens  Indirapuram  Ghaziabad,,0/41,1.0
+Offline,882,IAPTV0000136,Leena Murugesh Hiremath,1St Floor Connaught Plaza  Opp Gpo Camp,,0/41,1.0
+Online,883,IAPTV0000137,Pravin Dharaskar,Dharaskar Children'S Clinic Sudam Avatar Complex Near Bansal Hospital Dehu Road,,41/41,1.1
+Offline,884,IAPTV0000138,Anuj Sehgal,62  Harsh Vihar   Pitampura,,41/41,1.1
+Online,885,IAPTV0000139,Dr. R. K. GUPTA,C-6/463 Yamuna Vihar,,41/41,1.1
+Recent,886,IAPTV0000140,Pramey Mehta,73  Pocket-6 Sector-12  Dwarka,,0/41,1.0
+Recent,887,IAPTV0000141,Nvnath Jadhav,Saideep Children'S Clinic   Sr. No. 73  Near Mamta Sweet Corner  Sambhajiraje Chowk  Dighi,,41/41,1.1
+Offline,888,IAPTV0000142,Chetan Govind Chaudhari,Ansh Clinic Nakshatram L-18 Prem Lok Park Chinchwad,,0/41,1.0
+Offline,889,IAPTV0000143,Sanjeev Ahuja,G-14  Mall Apartment  Gate No.2  Mall Road  Near Khalsa College  North Campusdelhi University.,,0/41,1.0
+Online,890,IAPTV0000144,Hemant Jain,1/9  Roop Nagar ,,0/41,1.0
+Offline,891,IAPTV0000145,Shishir Bhatnagar,D-28 Sector 52 Noida,,0/41,1.0
+Online,892,IAPTV0000146,Rakesh Sharma,177 Ashoka Enclave Main Sector 35,,41/41,1.1
+Offline,893,IAPTV0000147,Dr. R.D. Srivastava,1B/Ed Block  Madhuban Chowk Pitampura,,5/41,1.1
+Offline,894,IAPTV0000148,Dr. Sunil Gupta,E-1/58 Sector -7  Rohini  Delhi,,0/41,1.0
+Offline,895,IAPTV0000149,Dr. Kanwal Kumar Khanna,Opp. Catholic Church  18 Ramakrishna Colony  G.T. Road,,0/41,1.0
+Online,896,IAPTV0000150,Rajiv Kamdar,Kamdar Children'S Hospital  2/56  Indralaya  Opp.Vijay Chemist  Sion Main Road  Sion West,,11/41,1.1
+Online,897,IAPTV0000151,Dr. Sushil Tyagi,D-9  Patel Nagar 2,,41/41,1.1
+Offline,898,IAPTV0000152,Nitin Date,Sai Crest Mauli Chowk No Datta Mandir Wakad-Dange Chowk Road ,,0/41,1.0
+Offline,899,IAPTV0000153,Rajendra Pandharinath Bhujbal,Ankur Hospital  Talegaon Road  Shikrapur  Tal-Shirur   Dist-Pune,,0/41,1.0
+Online,900,IAPTV0000154,Dr. Parul Gupta,83/2 West Model Town,,41/41,1.1
+Offline,901,IAPTV0000155,Ritu Gupta,A-7 Sector 17 Noida,,32/41,1.1
+Offline,902,IAPTV0000156,Rajiv Garg,R-5/44  Raj Nagar,,42/41,1.1
+Offline,903,IAPTV0000157,Satyajit D Pathak,Suman Nursing Home  1194/19B  Ghose Road  Shivajinagar,,42/41,1.1
+Offline,904,IAPTV0000158,Rushikesh Sham Damle,505 Narayan Peth Patrya Maruti Chowk,,0/41,1.0
+Offline,905,IAPTV0000159,Shalini Tyagi,Shop No. Af-04  1St Floor Tot Mall Sector 62 Noida,,42/41,1.1
+Offline,906,IAPTV0000160,Ravindra Khetre,Wadgaon Sheri,,21/41,1.1
+Offline,907,IAPTV0000161,Dr. Manoj Anand Gupta,358  Opposite Icici Bank  Alipur Road  Narela,,0/41,1.0
+Offline,908,IAPTV0000162,Dr. Shishir Srivastava,Shiv Krishna Hospital  D-494  Lazpat Nagar  Sahibabad,,0/41,1.0
+Online,909,IAPTV0000163,Meena Dhama,C46 Sector 34 Noida,,41/41,1.1
+Offline,910,IAPTV0000164,Ashish Dhongade,Shamshad Children'S Hospital  Ghule Square  Opp. High Class Residency  Near Suryadatt College Of Mangle The  Dsk Ranware Road   Bavdhan,,18/41,1.1
+Offline,911,IAPTV0000165,Pramod Prabhakar Jog,Sagar Appartments Parihar Chowk Near Iti  Aundh,,0/41,1.0
+Online,912,IAPTV0000166,Anil Kumar Pant,Be-376 Gali No-0  Near Rattan Dairy Hari Nagar,,41/41,1.1
+Offline,913,IAPTV0000167,Dr. Pradeep Kumar Agarwal,Shop No. -44  First Floor  D Block Mkt. Puspanjali Enclave  Pitampura,,0/41,1.0
+Offline,914,IAPTV0000168,Shweta Pathak,2368/Sector 7A   7-8 Dividing Road Faridabad,,42/41,1.1
+Offline,915,IAPTV0000169,Shailaja Vijaykumar Mane,Siddhi Children'S Clinic Gajanan Complex Plot No Gp-161 Opp D.Y.Patil School Shahunagar Midc G-Block Chinchwad,,37/41,1.1
+Offline,916,IAPTV0000170,Manish Vilasrao Dadpe,Abc Paediatric Clinic Tathavade Udayan Chowk Karvenagar,,0/41,1.0
+Offline,917,IAPTV0000171,Dr. Pankaj Vohra,62 Khan Market,,0/41,1.0
+Offline,918,IAPTV0000172,Dr. Naresh Mongia,Ad-19 B   Pitampura,,0/41,1.0
+Online,919,IAPTV0000173,Vivek Goswami,Flat No. 1047  Sector 29  Mall Road,,41/41,1.1
+Offline,920,IAPTV0000174,Dr. Sunil Mehra,F-70  East Of Kailash,,0/41,1.0
+Offline,921,IAPTV0000175,Anil Govindrao Chavan,3 2Nd Floor Aryan Centre  Pune-Solapur Road Hadapsar 411028,,0/41,1.0
+Offline,922,IAPTV0000176,Swapnil Taranath Janbandhu,Orion Hospital Akruti Avenues Datta Mandir Road Wakad,,41/41,1.1
+Offline,923,IAPTV0000177,Awanish Chandra Mishra,32 A Pocket-2 Sector-6 Dwarka ,,0/41,1.0
+Offline,924,IAPTV0000178,Tarun Gera,Arogaya Clinic B-256  Derawal Nagar ,,0/41,1.0
+Online,925,IAPTV0000179,Parag Chandrakant Bhole,Vandana Child Clinic  Shop No-11/12  Phoenix Blooms  Rmc Garden Gate  Behind Moze College  Bail Road  Wagholi,,41/41,1.1
+Online,926,IAPTV0000180,Rahul Nagpal,4025  Vasant Kunj Sector-D  Delhi - 110070  Pocketd,,41/41,1.1
+Offline,927,IAPTV0000181,Rajashree Narawane,Shivam Polyclinic 2Nd Floor  Pradhan Building  Above Mango Showroom  Naupada Rd. Thane(W),,0/41,1.0
+Offline,928,IAPTV0000182,Bharat Balani,42  E Kamla Nagar,,0/41,1.0
+Offline,929,IAPTV0000183,Rajat Agarwal,Agarwal Nursing Home   2528 Tri Nagar,,42/41,1.1
+Online,930,IAPTV0000184,Anil Mehta,Dr Mehta Child Care Clinic  Saubhagya  Jeevan Vikas Kendra Marg  Koldongri  Andheri East,,41/41,1.1
+Offline,931,IAPTV0000185,Durgaprasad Dhudaku Marathe,Dr.Marathe'S Children Clinic Om Sai Market Shop No 10 A Wing Chikhalikar Road Chinchwad Pune,,42/41,1.1
+Away,932,IAPTV0000186,Neelam Shishir Deshpande,Ashwin Clinic Park Venus Appt Yamuna Nagar Sector No 21 Plot No 356 Durganagar Chowk Pradhikaran Nigdi Pune,,1/41,1.1
+Offline,933,IAPTV0000187,Archana RajenDr.a Latkar,Latkar Hospital Niyoshi Park 2  Sanghvi Nagar Opp Puma Showroom D.P Road Aundh ,,41/41,1.1
+Offline,934,IAPTV0000188,Rajinder Khanna,Child Medicare   1K Ssi Plot No.6  Market No.1  Nit  Faridabad,,42/41,1.1
+Offline,935,IAPTV0000189,Ruchira Maheshwari Gupta,B190 Sector 19,,0/41,1.0
+Offline,936,IAPTV0000190,Dr. Dilip Kumar,Well Baby Clinic  Lg-24  Reliable City Centre  Sector-6  Vasundhra,,3/41,1.1
+Online,937,IAPTV0000191,Dr. Sudhakar Mohan,420/7 Urban Estate  Near Arya Public School  Gurgaon.,,0/41,1.0
+Recent,938,IAPTV0000192,Dr. K.K. Singhal,16/25  Vasundhra,,41/41,1.1
+Offline,939,IAPTV0000193,Dr. Mridu Jain Sehgal,Sehgal New Hospital B 364 Meera Bagh,,0/41,1.0
+Offline,940,IAPTV0000194,Dr. Puneet Madan,380-A Bhim Nagar Near Ramleela Ground Opp:Union Bank New Rail.Road,,41/41,1.1
+Online,941,IAPTV0000195,Sanjay Chavan,Sai Children'S Clinic Off No 22  2Nd Floor B Wing Heritage Plaza Opp Moraya Hospital Tanajinagar Chinchwadgoan,,41/41,1.1
+Online,942,IAPTV0000196,Dr. Mahavir Singh Tomar,A-11/89 Sector-18  Rohini,,41/41,1.1
+Online,943,IAPTV0000197,Dr. Anil Kumar Seth,B-164 Shalimar Garden Main  Sahibabad,,41/41,1.1
+Offline,944,IAPTV0000198,Geeta Rajendra Karambelkar,Karambalekar Children'S Clinic  B.G Corner  2Nd Floor Behind Nigdi Bus Stop ,,0/41,1.0
+Offline,945,IAPTV0000199,Dr. Ramesh Kumar Goyal,Smt. Bimla Devi Memorial Clinic 888-Saraswati Vihar M.G. Road,,0/41,1.0
+Offline,946,IAPTV0000200,Subhash Sidramappa Malge,Oasis Shree Radha Krishna Chs Shop No 9 Plot No 33 Sec42A Near Way 2 Health/Central Bank Of India Seawood Navi Mumbai,,0/41,1.0
+Offline,947,IAPTV0000201,Dr. Bharat Bhushan,Delhi Children Clinic Opp: St. Michael Church  Bhimnagar Old Rail. Road,,0/41,1.0
+Offline,948,IAPTV0000202,Amit Gupta,Apollo Pharmacy  Sector 41 Market,,0/41,1.0
+Offline,949,IAPTV0000203,Alok Dwivedi,Mahagun Mart Shop No. 7 Ugf Sector 78,,42/41,1.1
+Recent,950,IAPTV0000204,Padmaja Amol Kirtane,Child Care Clinic  Chradralok Building Ground Floor Near Dav College Bhandup East Mumbai,,41/41,1.1
+Offline,951,IAPTV0000205,Gopal Krishan Saini,G-55Pushkar Enclave Paschim Vihar New Delhi -110063,,0/41,1.0
+Offline,952,IAPTV0000206,Sanjay Aggarwal,25/6 Jacobpura Gurgaon,,0/41,1.0
+Offline,953,IAPTV0000207,Sagar Lad,The Children'S Clinic  The Capital  203/A Baner Pashan Link Road ,,0/41,1.0
+Online,954,IAPTV0000208,H P Singh,101  First Floor  Nikunj Plaza  Sec-4  Main Market Vaishali,,41/41,1.1
+Online,955,IAPTV0000209,Subhash Patil,Shree Krishna Clinic  F-C1  First Floor  Laxmi Classic Building  Mohan Wadi  Opposite Shetiya Hospital  Vishrantwadi,,41/41,1.1
+Offline,956,IAPTV0000210,Dr. Ashwani Bansal,Satyam Hospital  173/27  Gali No.-3  Nr. Hanuman Mandir Madanpuri,,0/41,1.0
+Offline,957,IAPTV0000211,Amita Shenoy,Kanti Terrace S V Road   Kandivali West,,0/41,1.0
+Away,958,IAPTV0000212,Sanjay Bansode,Child Care Clinic B.G.Corner Ground Floor Nigdi Chowk Nigdi,,0/41,1.0
+Online,959,IAPTV0000213,Kalpana Sangle,5/2 Neeta Park  Airport Road  Yerwada.,,41/41,1.1
+Offline,960,IAPTV0000214,Sanjay Vasantrao Bagade,Utkarsha Clinic Prestige Complex Opp Midc Office Telco Road Chinchwad Pune,,31/41,1.1
+Offline,961,IAPTV0000215,Pralhad Dnyanoba Pote,Noble Hospital  153  Magarpatta City Road  Hadapsar,,41/41,1.1
+Offline,962,IAPTV0000216,Dr. Naveen Jain,155-157 Aggarwal Chambers Cd Block  Pitampura Nr. Power House,,32/41,1.1
+Offline,963,IAPTV0000217,Dr. Deepak Ahuja,D-17 Supermart-2 Phase-4 Dlf City,,0/41,1.0
+Offline,964,IAPTV0000218,Vipul Jain,Bf 107  Janak Puri,,0/41,1.0
+Offline,965,IAPTV0000219,Meera Singhal,Child Care Clinic  Flatno.2  First Floor  Prachi Residency  Opp. Kapil Malhar  Baner,,0/41,1.0
+Offline,966,IAPTV0000220,Kamlesh Uday Patil,Shree Patil Hospital Himganga Apartment C Wing Nandivali Nakia Hajimalang Road Pisavali,,29/41,1.1
+Online,967,IAPTV0000221,Parmeshwar Manohar Chandwade,Tanisha Children'S Clinic  Shop No 2  Shubhada Complex  Kalepadal  Hadapsar,,41/41,1.1
+Online,968,IAPTV0000222,Ajit Oak,Oak Hospital  1St Floor  Mahavir Jyot Bldg  Manpada Road  Dombivli (East),,0/41,1.0
+Offline,969,IAPTV0000223,Amol Bhor,Shop No. 16  Celestino Socity   Near Canara Bank  Dhanori,,0/41,1.0
+Offline,970,IAPTV0000224,Yogesh Vasudeo Satav,Vatshalya Child Care Clinic  Oxygen Valley  Pune Solapur Road  Manjari Bk.,,42/41,1.1
+Offline,971,IAPTV0000225,Shilpi Jain Rajgarhia,209  Basement  Sec. 9  Huda Market  Faridabad,,0/41,1.0
+Offline,972,IAPTV0000226,Arvind Dhar,Mumbadevi Clinic  Shop No 2   Sneha Sadan  Adarsh Nagar  Kurar Naka  Malad East,,0/41,1.0
+Online,973,IAPTV0000227,Abhimanyu Sengupta,Apple Tree Clinic B-1 Sant Hsg Society Parihar Chowk Aundh,,41/41,1.1
+Offline,974,IAPTV0000228,Dr. Anil Agarwal,3Rd B/9  Nehru Nagar,,0/41,1.0
+Offline,975,IAPTV0000229,Dr.Shivdhani Yadav,Yashoda Polyclinic Opp.Saibaba Temple Silver Park Miraroad-East.,,42/41,1.1
+Recent,976,IAPTV0000230,Kamlesh Kumar Verma,Shop No.3  Neelkanth Appartment  Opp. To Bank Of Baroda,,41/41,1.1
+Offline,977,IAPTV0000231,Vivek Bagga,A 87 Anand Vihar,,0/41,1.0
+Offline,978,IAPTV0000232,Dr. V.P. Dhobhal,Shop No-8  Upper Ground Floor  Mahiveer Arcade,,24/41,1.1
+Offline,979,IAPTV0000233,Mamta Verma,Mamata' Childcare Clinic Opp Sonigra Kesar Gate Kaspate Wasti Wakad ,,41/41,1.1
+Offline,980,IAPTV0000234,Dilip Nanal,254  Mig Dda Flats Rajouri Garden,,0/41,1.0
+Offline,981,IAPTV0000235,Prashant Darandale,Dr Darandale'S New Born And Child Health Care Centre  M-101  1St Floor  Yashraj Park  Kasarvadavli Naka  Gb Rd  Thane (W),,0/41,1.0
+Offline,982,IAPTV0000236,Dr. Sanjay Gupta,H-79  Sector-12  Pratap Vihar,,42/41,1.1
+Offline,983,IAPTV0000237,Uma Venkateswaran,Dr Venkateswaran'S Eye And Child Clinic,,31/41,1.1
+Offline,984,IAPTV0000238,Dr. Pankaj Garg,180/24  Sector-16 B  Vasundhra,,42/41,1.1
+Offline,985,IAPTV0000239,Bhanudas Namdeo Kalamkar,Niramay Childrens Clinic Ajanta Empress Chs Shop No 19'Ground Floor Plot No 52 Sec19,,42/41,1.1
+Online,986,IAPTV0000240,Arun Chander Dhup,Rz613B(Shop No. 17) Syndicate Market Raj Nagar Part I  Palam Coloney,,0/41,1.0
+Offline,987,IAPTV0000241,Dr. Subhash Chandra,Bmr Clinic  Shop No. Ff-12  Galleria Shoping Complex  Crossing Republic,,0/41,1.0
+Online,988,IAPTV0000242,Praveenkumar Jain,7 Shanti Centre Near Navratna Hotel 1St Floor Sector 17 Vashi Navi Mumbai,,41/41,1.1
+Online,989,IAPTV0000243,Anees Ansari,Dr. Anees Children'S Hospital  Ground Floor  Next To Anand Talkies  Gaibi Nagar  Bhiwandi,,41/41,1.1
+Offline,990,IAPTV0000244,Suresh Goyal,Jeevan Jyoti Hospital Zojwala Shopping Centre Above Ramdev Hotel Agra Road,,31/41,1.1
+Offline,991,IAPTV0000245,Sameer Mhatre,1St Floor   Neyati Millennium  Apollo Clinic  Vimannagar,,0/41,1.0
+Offline,992,IAPTV0000246,Sunil Devichand Lohade,Lohade Hospital Behind Raka Gas Agencies Chinchwad Station ,,0/41,1.0
+Offline,993,IAPTV0000247,Dr. Dinesh Kumar Tyagi,Shop No. E-15  Gda Market  Patel Nagar 2,,41/41,1.1
+Online,994,IAPTV0000248,Dr. Mohit Ghai,B-22  Sector-9  New Vijay Nagar,,41/41,1.1
+Offline,995,IAPTV0000249,Pradyumna Jayant Ratnakar,Shaishav  Clinic Diagonal Mall Sector 16  Raje Shivaji Nagar  Chikhali Pradhikaran Spine Road.,,0/41,1.0
+Offline,996,IAPTV0000250,RajenDr.a P Karambelkar,Opp Bansal Hospital Bombay Pune Highway Dehu Road Pune,,42/41,1.1
+Online,997,IAPTV0000251,Manoj Jagmohanlal Mahajan,Meenakshi Clinic  Shop No 10   Parvati Shop Complex  Shivdham,,41/41,1.1
+Offline,998,IAPTV0000252,Mateen Pervez,F-78 Shaheen Bagh  New Delhi,,0/41,1.0
+Offline,999,IAPTV0000253,Absar Ahmad,25-B/1 First Floor  Batla House Chowk  Jamia Nagar,,0/41,1.0
+Offline,1000,IAPTV0000254,Parag Bajirao Gaikwad,Olive Clinic Manik Moti Building 1St Floor Karaj Cook More Baugh.,,42/41,1.1
+Offline,1001,IAPTV0000255,Dr. Shashi Grover,Shop No-36 Csc-5 Dda Mkt.   Pocket B-10 Sector-3,,0/41,1.0
+Offline,1002,IAPTV0000256,K V Chaudhari,Rainbow Kidz Hospital  Shop No.16/17  Shoppe Link  Doshi Acres  Antop Hill,,41/41,1.1
+Offline,1003,IAPTV0000257,Aparana Rajesh Mishra,Parmar Pavan 1St Floor  Office Number 4  Opposite Rupee Bank Kondwa Road.,,42/41,1.1
+Online,1004,IAPTV0000258,Dr. Pankaj Mehta,H.No.-843  Sec-9A  Near Esic Hospital,,0/41,1.0
+Offline,1005,IAPTV0000259,Dr. N.K. Jain,Dr. N.K. Jain Clinic 592/16 Civil Lines  Adjoining Gurudwara,,0/41,1.0
+Offline,1006,IAPTV0000260,Truptan Niranjan Mehta,Mehta Child Care Clinic J.M.Hieghts 1St Floor Nehrunagar Main Road Pimpri,,0/41,1.0
+Online,1007,IAPTV0000261,Dr. Rajkumar Samb Ganacharya,Kondhwa,,41/41,1.1
+Offline,1008,IAPTV0000262,Milind Manikrao Kanjalkar,Sewadham Hospital Samsun Nagar Talegoan Station ,,0/41,1.0
+Offline,1009,IAPTV0000263,Sanjay Nayyar,Tender Touch Child Care Centre "Suprem" Pushpak Park Baner -Iti Road Aundh,,0/41,1.0
+Recent,1010,IAPTV0000264,Dr. Rajesh Kumar,C-53 1St Floor Near Post Office Palam Vyapar Kendra Palam Vihar,,41/41,1.1
+Offline,1011,IAPTV0000265,Dr. R. P. Soni,Soni Medical Centre B-329  Mig Flats  East Off Loni Road Shahdara Delhi,,20/41,1.1
+Online,1012,IAPTV0000266,Ashok Dubey,Shri Children Clinic Above Krishnai Medical Pooja Complex Near Kolsewadi Police Station,,41/41,1.1
+Offline,1013,IAPTV0000267,Sonia Mittal,Bm 53 East Shalimar Bagh,,0/41,1.0
+Offline,1014,IAPTV0000268,Vikas More,More Children Hospital Plot No 3 S No 79/E First Floor Anandnagar  Uran,,21/41,1.1
+Offline,1015,IAPTV0000269,Chunilal Malde,Sagar Hospital  186  Telipada  Padma Nagar Road  1St Floor  Bhairi Nissan  Bhiwandi,,0/41,1.0
+Offline,1016,IAPTV0000270,Dr. Arun Kumar,2Nd-F/3  Opp. Express Market  Ambedkar Road  Nehru Nagar,,0/41,1.0
+Offline,1017,IAPTV0000271,Sham Shivaji Bhosale,Kakde Plaza 1St Floor Opp.Kakde City Karvenagar,,5/41,1.1
+Online,1018,IAPTV0000272,Shashikant Dudhgaonkar,Health Centre  University Of Pune  Ganesh Khandwa Pune Sadan,,41/41,1.1
+Offline,1019,IAPTV0000273,Samir Shinde,Dr Shinde'S Child Speciality Clinic  Shop No. 10  Jaibhavani Chs  Satellite Garden Phase Ii  Next To Ryan International School  Aarey Bhaskar Road  Gokuldham  Goregaon East,,42/41,1.1
+Offline,1020,IAPTV0000274,Subhash Narendra Rao,Child Care Clinic   Landmark Bldg  Shop -16  Sector 14  Vashi,,41/41,1.1
+Offline,1021,IAPTV0000275,Dr. Arun Kumar Agrawal,Chandra Laxmi Hospital 4  Danna Road  Maliwara Chawk,,42/41,1.1
+Offline,1022,IAPTV0000276,Chhaya Lad,Dr.Lad Children'S Clinic First Floor Shop No 7 Arun Plaza Near Dange Chowk Thergoan ,,41/41,1.1
+Offline,1023,IAPTV0000277,Ramesh Venkatraman Iyer,Dr Iyer Clinic 13 Cypress Opposite Mainland China Restaurant  Hiranandani Garden Powai,,0/41,1.0
+Online,1024,IAPTV0000278,Harish Lapsia,Usha N/H 118 Kansai Section Ambernath(E).,,41/41,1.1
+Offline,1025,IAPTV0000279,Arun Dubey,Broadway Avenue Jangid Circle Mira Road,,42/41,1.1
+Offline,1026,IAPTV0000280,Dr.Ashish Ashok Vora,101 1St Floor Sankalpgad Beside Bank Of Maharashtra Vandevi Karvenaga,,42/41,1.1
+Offline,1027,IAPTV0000281,Rahul K More,Dr More'S Children'S Hospital 2Nd Floor Atharva Heights Katepuram Chowk Navisangavi,,0/41,1.0
+Offline,1028,IAPTV0000282,Durwas Bhausahebh Kurkute,Vaishali Heights 1St Floor Malwadi Road Hadapsar,,22/41,1.1
+Online,1029,IAPTV0000283,Ashok Bhowalka,Kj-15 Kavi Nagar,,41/41,1.1
+Offline,1030,IAPTV0000284,Lala M Jadhav,Jadhav Hospital  Padamchaya Co-Op Hsg Soc  Opp. Balaji Hights  Near Vaidyanathan Bank  Kharadi Road  Chandan Nagar,,13/41,1.1
+Offline,1031,IAPTV0000285,Madhav Sheshrao Chavan,New Life Child Care Hospital Opp D Mart  Kalewadi Main Road Pune,,0/41,1.0
+Online,1032,IAPTV0000286,Dr. Uttam Narsingrao Kotambe,Ratnadeep Children'S Hospital Lodha Heaven Nilje Dombivli (E),,41/41,1.1
+Recent,1033,IAPTV0000287,Ajay Arora,Mianwali Colony Gate New Railway Road,,41/41,1.1
+Online,1034,IAPTV0000288,Mangalmoorti Bhalerao,Dr.Bhalerao Kavitachildren Hospital Shitole Nagar Old Sangvi ,,2/41,1.1
+Online,1035,IAPTV0000289,Nikhil Prabhakar Burute,Burute Children'S Clinic Opp Pimpri Railway Station Pimpri Colony,,41/41,1.1
+Online,1036,IAPTV0000290,Prabhakar Burute,Burute Children'S Clinic Opp Pimpri Railway Station Pimpri Colony,,41/41,1.1
+Offline,1037,IAPTV0000291,Jagadish Vasant Dhekne,Kartik Hospital 451/27A Opp Ashoka Bus Stop Nigdi Pradhikaran.,,0/41,1.0
+Offline,1038,IAPTV0000292,Jyoti Bhatia,A 353  Sector 47  Noida,,41/41,1.1
+Offline,1039,IAPTV0000293,Amar shah,17 Heritage Plaza Opp Moraya Hospital Link Road Chinchwadgoan,,0/41,1.0
+Offline,1040,IAPTV0000294,Dr. Sunil Kumar Nakra,S-305  Greater Kailash-2,,0/41,1.0
+Offline,1041,IAPTV0000295,Nisha Deshpande,Dr Nisha Deshpande'S Paediatric Neurology Clinic Off No 301 Wellness Hub Opp  Ambience Hotel Wakad,,0/41,1.0
+Offline,1042,IAPTV0000296,Sanjay bafna,Kent Exclusive  A Wing   1St Floor  Shivaratri Road  Fatimanagar.,,0/41,1.0
+Offline,1043,IAPTV0000297,Jaipratibha Varshney,Noblehospital Hadapsar,,41/41,1.1
+Offline,1044,IAPTV0000298,Dr. Purnima Adlakha,Jd-23A  Pitampura ,,42/41,1.1
+Online,1045,IAPTV0000299,Sushma Vaidya,8/A  Vaibhav Appartment  Opp. Kolte Patil Dew Drop Project  Vishrantwadi,,41/41,1.1
+Offline,1046,IAPTV0000300,Dr. Rucha Dattatraya Pachunde Hambire,Galaxy Children'S Clinic And Vaccination Centre  Survey No. 15 Near Indian Petrol Pump  Pune Solapur Highway,,0/41,1.0
+Offline,1047,IAPTV0000301,Mayur SubhashchanDr.a Agrawal,Agrawal Children Clinic Main Road Chandani Chowk  A/P Saswad Tal-Purandar  Dist Pune,,0/41,1.0
+Online,1048,IAPTV0000302,Amol Madhukarrao Saswade,Aarambh Commercial Complex  Ivy Estate  Wagholi,,0/41,1.0
+Offline,1049,IAPTV0000303,Vikas Jain,H.No. 488  Sec.46  Opp. Eicher School,,0/41,1.0
+Online,1050,IAPTV0000304,Nirmala Dharap,"Samarth"  1018 Shivajinagar   Near Deep Bungalow Chowk,,41/41,1.1
+Online,1051,IAPTV0000305,Mahendrakumar Bangar,Saee Children'S And Dental Hospital.Ratnajyot Building .Near Sabji Market.Lodha Heaven.,,41/41,1.1
+Offline,1052,IAPTV0000306,Hemant Chikale,Prajakta Children'S Hospital Maitri Park Society  Mulewadi Road  Manchar,,0/41,1.0
+Online,1053,IAPTV0000307,Rajiv R Balan,Nurture Child Clinic  Royal Accord Bldg  Tarun Bharat Road  Chakala  Andheri East,,41/41,1.1
+Online,1054,IAPTV0000308,Anand K Shandilya,B8  Ground Floor  Raj Ratan Chs  Service Road  Jogeshwari E  Mumbai 60,,42/41,1.1
+Offline,1055,IAPTV0000309,Dr. Arun Wadhwa,G-10  Masjid Moth  Greater Kailash-2  New Delhi,,42/41,1.1
+Recent,1056,IAPTV0000310,Anil K Kalra,Gh-1/77  Paschim Vihar ,,41/41,1.1
+Offline,1057,IAPTV0000311,Deepak Gautam,C-5A/94  Janakpuri,,0/41,1.0
+Online,1058,IAPTV0000312,Ankur Mittal,2974 Old Bus Stand  Tri Nagar,,41/41,1.1
+Offline,1059,IAPTV0000313,Mumtaz Doongerwala,607  Samarth Aishwarya  Off New Link Road  Oshiwara  Andheri West,,42/41,1.1
+Offline,1060,IAPTV0000314,Sunil Shah,Sanyog Cooperative Society 2Nd Floor Lj Road Mahim West .,,42/41,1.1
+Offline,1061,IAPTV0000315,Rajkumar Sharma,Sanjeevani Hospital 4/8 Indira Complex 60Ft Road Bhayandar West,,0/41,1.0
+Offline,1062,IAPTV0000316,Anurag Budhiraja,Om Clinic  A-2 Block  Main Road  Near Bus Stop  Sant Nagar  West Burari.,,0/41,1.0
+Offline,1063,IAPTV0000317,Dr. Praveen Makhija,19/515  Dda Flats  Madangir,,0/41,1.0
+Offline,1064,IAPTV0000318,Hemraj Ingale,Padmaraj R.P Rd.  Shiv Mandir Chowk  Near Leva Bhavan Hall  Ram Nagar ,,0/41,1.0
+Offline,1065,IAPTV0000319,Sunil Khivasara,Pranjal Hospital  Shatabdi Complex  Manchar,,0/41,1.0
+Offline,1066,IAPTV0000320,Dr. Praveen Mody,Airoli,,0/41,1.0
+Offline,1067,IAPTV0000321,Dr. Sooja Moorthy,Andheri East,,0/41,1.0
+Offline,1068,IAPTV0000322,Dr. Jamil S Mukaddam,Andheri East,,0/41,1.0
+Offline,1069,IAPTV0000323,Dr. Balkrishna N Maheshwari,Andheri East,,42/41,1.1
+Offline,1070,IAPTV0000324,Dr. Bharat Sangani,Andheri west,,42/41,1.1
+Online,1071,IAPTV0000325,Dr. Indu Khosla,Andheri west,,41/41,1.1
+Online,1072,IAPTV0000326,Dr. Tushar H Maniar,Andheri West,,41/41,1.1
+Offline,1073,IAPTV0000327,Dr. Sandeep R Thorat,Bandra East,,0/41,1.0
+Offline,1074,IAPTV0000328,Dr. Rajesh R Chokhani,Bandra West,,42/41,1.1
+Offline,1075,IAPTV0000329,Dr. K Bothra,Bhandhup West,,0/41,1.0
+Offline,1076,IAPTV0000330,Dr. K Anil Mohan 
+,Bhandhup West,,42/41,1.1
+Offline,1077,IAPTV0000332,Dr. Radha Balaji,Bhandhup West,,39/41,1.1
+Offline,1078,IAPTV0000333,Dr. Rajeev B Agarwal,Bhayander West,,0/41,1.0
+Offline,1079,IAPTV0000334,Dr. Anuradha A Joshi,Bhayander East,,0/41,1.0
+Offline,1080,IAPTV0000335,Dr. Amod S Potnis,Borivali East,,42/41,1.1
+Offline,1081,IAPTV0000336,Dr. Pooja Parikh
+,Borivali west,,0/41,1.0
+Online,1082,IAPTV0000338,Dr. Ramnath Aiyer ,Borivali west,,41/41,1.1
+Online,1083,IAPTV0000339,Dr. Hema S Rane 
+,Borivali west,,41/41,1.1
+Offline,1084,IAPTV0000341,Dr. Amardeep P Garad,CBD Belapur,,0/41,1.0
+Offline,1085,IAPTV0000342,Dr. Sheenu Gupta,CBD Belapur,,0/41,1.0
+Offline,1086,IAPTV0000343,Dr. Bharat J Parmar,Charni Road,,0/41,1.0
+Offline,1087,IAPTV0000344,Dr. Chhaya A Kushwaha,Chembur,,41/41,1.1
+Offline,1088,IAPTV0000345,Dr. Anjana Thadhani,Chembur,,1/41,1.1
+Offline,1089,IAPTV0000346,Dr. Uday Pai,Chembur,,0/41,1.0
+Offline,1090,IAPTV0000347,Dr. GajenDr.a K Raote,Chembur,,25/41,1.1
+Online,1091,IAPTV0000348,Dr. Shrihari D Patwardhan,Chembur,,41/41,1.1
+Online,1092,IAPTV0000349,Dr. Vivasvan B Parekh,Chembur,,41/41,1.1
+Offline,1093,IAPTV0000350,Dr. Vijay G Tuteja,Chembur,,42/41,1.1
+Offline,1094,IAPTV0000351,Dr. Sunil N Kamat,Dombivali East,,11/41,1.1
+Offline,1095,IAPTV0000352,Dr. Rahul P Bhirud,Dombivali East,,0/41,1.0
+Offline,1096,IAPTV0000353,Dr. Nilesh S Kawathekar,Dombivali East,,0/41,1.0
+Online,1097,IAPTV0000354,Dr. Kapil Ashok Magare,Dombivali West,,0/41,1.0
+Offline,1098,IAPTV0000355,Dr. Kiran G Maheshwari,Ghansoli,,0/41,1.0
+Offline,1099,IAPTV0000356,Dr. Bakul Jayant Parekh,Ghatkopar East,,41/41,1.1
+Online,1100,IAPTV0000357,Dr. Ketan Parikh,Ghatkopar East,,41/41,1.1
+Offline,1101,IAPTV0000358,Dr. Pravin J Mehta,Ghatkopar East,,42/41,1.1
+Offline,1102,IAPTV0000359,Dr. Deep Parekh,Ghatkopar East,,5/41,1.1
+Online,1103,IAPTV0000360,Dr. Bharat M Parekh,Ghatkopar East,,41/41,1.1
+Offline,1104,IAPTV0000361,Dr. Sanjaykumar R Pathak,Ghatkopar West,,0/41,1.0
+Offline,1105,IAPTV0000362,Dr.. Alpa Shah,Govandi,,0/41,1.0
+Online,1106,IAPTV0000363,Dr. Amol S Deshmukh,Kamothe,,0/41,1.0
+Offline,1107,IAPTV0000364,Dr. Vidya Kamath,Jogeshwari East,,5/41,1.1
+Offline,1108,IAPTV0000365,Dr. Cyril D'Souza,Kharghar,,42/41,1.1
+Offline,1109,IAPTV0000366,Dr. Uddhav Jalnikar (Khilare),Kharghar,,0/41,1.0
+Offline,1110,IAPTV0000367,Dr. Santosh Biradar,Kharghar,,25/41,1.1
+Offline,1111,IAPTV0000368,Dr. Pankaj Saste,Kharghar,,41/41,1.1
+Offline,1112,IAPTV0000369,Dr. Prashant S Moralwar,Kharghar,,0/41,1.0
+Online,1113,IAPTV0000370,Dr. Prabhakar B Pande,Kopar Khairane,,41/41,1.1
+Online,1114,IAPTV0000371,Dr. Hemprabha Dwivedi,Kopar Khairane,,41/41,1.1
+Online,1115,IAPTV0000372,Dr.. Bharti Gurnani,Kopar Khairane,,41/41,1.1
+Offline,1116,IAPTV0000373,Dr. Rupesh R Mendadkar,Kurla East,,0/41,1.0
+Offline,1117,IAPTV0000374,Dr. Jayant R Nadkarni,Kurla East,,10/41,1.1
+Online,1118,IAPTV0000375,Dr. Madhura Mali,Kurla West,,41/41,1.1
+Offline,1119,IAPTV0000376,Dr. Maulik Shah,Malad West,,42/41,1.1
+Offline,1120,IAPTV0000377,Dr. Chirag Shah,Malad West,,42/41,1.1
+Offline,1121,IAPTV0000378,Dr. Vinay Mishra,Mulund west,,42/41,1.1
+Offline,1122,IAPTV0000379,Dr. Jayesh N Sheth 
+,Mulund west,,42/41,1.1
+Online,1123,IAPTV0000381,Dr. Nandini Shah
+,Mulund west,,41/41,1.1
+Offline,1124,IAPTV0000383,Dr. Jaya M Chaturvedi,Mumbra,,0/41,1.0
+Offline,1125,IAPTV0000384,Dr. Raksha Tate,Nalasopara west,,0/41,1.0
+Offline,1126,IAPTV0000385,Dr. UpenDr.a S Kinjawadekar,Nerul,,0/41,1.0
+Offline,1127,IAPTV0000386,Dr. Asma N Mujawar,Panvel,,42/41,1.1
+Recent,1128,IAPTV0000387,Dr. Mahesh Sambhare,Panvel,,41/41,1.1
+Offline,1129,IAPTV0000388,Dr.. Mangai Sinha,Sanapda,,41/41,1.1
+Offline,1130,IAPTV0000389,Dr. Aparna S Pakale,Sanpada,,32/41,1.1
+Online,1131,IAPTV0000390,Dr. Madhavi R Ingale,Sanpada,,41/41,1.1
+Offline,1132,IAPTV0000391,Dr. Ks Vaswani,Sanpada,,0/41,1.0
+Online,1133,IAPTV0000392,Dr. Sanjeevani S Masavkar,Sion,,41/41,1.1
+Offline,1134,IAPTV0000393,Dr. Dignath Jagger,Thane East,,42/41,1.1
+Offline,1135,IAPTV0000394,Dr. Abhay K Marathe,Thane West,,0/41,1.0
+Offline,1136,IAPTV0000395,Dr. Shanta Haridas,Thane West,,0/41,1.0
+Online,1137,IAPTV0000396,Dr. Neeta Sane,Thane West,,0/41,1.0
+Offline,1138,IAPTV0000397,Dr. Ashok Kumar Vij,Thane West,,41/41,1.1
+Offline,1139,IAPTV0000398,Dr. Bhavesh Mithiya
+,Thane West,,42/41,1.1
+Online,1140,IAPTV0000400,Dr. Kashish Panjwani,Thane West,,41/41,1.1
+Online,1141,IAPTV0000401,Dr. Meenal N Chitnis,Thane West,,41/41,1.1
+Offline,1142,IAPTV0000402,Dr. Sneha M Kokate,Thane West,,0/41,1.0
+Online,1143,IAPTV0000403,Dr. Ujwala Rajesh Pathak,Thane West,,41/41,1.1
+Offline,1144,IAPTV0000404,Dr. Grivita M Raikar,Thane West,,0/41,1.0
+Online,1145,IAPTV0000405,Dr. Sandeep M Kelkar,Thane West,,31/41,1.1
+Offline,1146,IAPTV0000406,Dr. Sachin A Biradar,Thane West,,0/41,1.0
+Offline,1147,IAPTV0000407,Dr. Anirddha S Bhayekar,Thane West,,42/41,1.1
+Recent,1148,IAPTV0000408,Dr. Sundarsingh F Rathod,Titwala,,0/41,1.0
+Offline,1149,IAPTV0000409,Dr. Dinesh G Lodha,Turbhe,,0/41,1.0
+Online,1150,IAPTV0000410,Dr. Bhujang V Deonikar,Uran,,41/41,1.1
+Offline,1151,IAPTV0000411,Dr. Aparna R Sathe,Uran,,3/41,1.1
+Offline,1152,IAPTV0000412,Dr. Madhavi D Gosavi,Uran,,5/41,1.1
+Offline,1153,IAPTV0000413,Dr. Ajay M Koli,Uran,,4/41,1.1
+Online,1154,IAPTV0000414,Dr. Venkatesh R Giri,Uran,,41/41,1.1
+Offline,1155,IAPTV0000415,Dr. Gauri A Aloz,Vasai West,,0/41,1.0
+Online,1156,IAPTV0000416,Dr. Dorab R Daruwalla,Vashi,,41/41,1.1
+Online,1157,IAPTV0000417,Dr. Sadanand S Shetye,Vashi,,41/41,1.1
+Online,1158,IAPTV0000418,Dr.. Ravinder Wattal,Vashi,,41/41,1.1
+Offline,1159,IAPTV0000419,Dr. Vijay N Yewale,Vashi,,0/41,1.0
+Offline,1160,IAPTV0000420,Dr. JeetenDr.a B Gavhane,Vashi,,0/41,1.0
+Offline,1161,IAPTV0000421,Dr. Nirav Shah,Vashi,,0/41,1.0
+Offline,1162,IAPTV0000422,Dr. Nutan Sawant,Vikhroli East,,0/41,1.0
+Offline,1163,IAPTV0000423,Dr. Smita B Dhruva,Vile Parle East,,0/41,1.0
+Online,1164,IAPTV0000424,Dr. Sandeep  Rawal,Delhi,,41/41,1.1
+Offline,1165,IAPTV0000425,Dr Neha Bansal,Delhi,,42/41,1.1
+Online,1166,IAPTV0000426,Parvinder Singh Narang,Delhi,,41/41,1.1
+Offline,1167,IAPTV0000427,Dr Jai Pal Kapoor,Delhi,,0/41,1.0
+Offline,1168,IAPTV0000428,Jaspreet  Singh,Delhi,,0/41,1.0
+Offline,1169,IAPTV0000429,Kapil  Kapoor,Delhi,,0/41,1.0
+Offline,1170,IAPTV0000430,Nafees  Ahmed,Delhi,,0/41,1.0
+Offline,1171,IAPTV0000431,Dr Pankaj  Paul,Delhi,,36/41,1.1
+Offline,1172,IAPTV0000432,Rama K Sabharwal,Delhi,,0/41,1.0
+Online,1173,IAPTV0000433,Surinder Kumar Mehta,Delhi,,41/41,1.1
+Offline,1174,IAPTV0000434,Dr Charu  Garg,Delhi,,0/41,1.0
+Offline,1175,IAPTV0000435,Dr Piyush  Na,Delhi,,5/41,1.1
+Offline,1176,IAPTV0000436,Nitin D Gupta,Delhi,,0/41,1.0
+Offline,1177,IAPTV0000437,Dr Madhur Gupta,Delhi,,0/41,1.0
+Offline,1178,IAPTV0000438,Dr Vishnu D Agrawal,Delhi,,0/41,1.0
+Offline,1179,IAPTV0000439,Dr Anil Kumar,Delhi,,3/41,1.1
+Offline,1180,IAPTV0000440,Dr Meenakshi Batra,Delhi,,42/41,1.1
+Offline,1181,IAPTV0000441,Dr Tilak Dangwal,Delhi,,0/41,1.0
+Offline,1182,IAPTV0000442,Dr L N Taneja,Delhi,,0/41,1.0
+Offline,1183,IAPTV0000443,Pradeep  Garg,New Delhi,,0/41,1.0
+Offline,1184,IAPTV0000444,C P Sachdev,New Delhi,,0/41,1.0
+Offline,1185,IAPTV0000445,Asha  Chouhan,New Delhi,,0/41,1.0
+Online,1186,IAPTV0000446,Dr Ashima  Aggarwal,New Delhi,,41/41,1.1
+Offline,1187,IAPTV0000447,Satish  Mangal,New Delhi,,0/41,1.0
+Offline,1188,IAPTV0000448,Dr Rajiv  Uttam,New Delhi,,0/41,1.0
+Offline,1189,IAPTV0000449,Dr Chandra Mohan Kumar,New Delhi,,0/41,1.0
+Offline,1190,IAPTV0000450,Dr Krishan  Chugh,New Delhi,,0/41,1.0
+Online,1191,IAPTV0000451,Dr Mahima  Anurag,New Delhi,,41/41,1.1
+Offline,1192,IAPTV0000452,Dr Shambhavi  Seth,New Delhi,,42/41,1.1
+Offline,1193,IAPTV0000453,Dr Naval Kumar Gupta,New Delhi,,0/41,1.0
+Online,1194,IAPTV0000454,Harshita  Tripathi,New Delhi,,0/41,1.0
+Offline,1195,IAPTV0000455,Dr Sanjeev Gulati,New Delhi,,0/41,1.0
+Offline,1196,IAPTV0000456,Dr Dhiren  Gupta,New Delhi,,0/41,1.0
+Offline,1197,IAPTV0000457,Dr Ashish Goel,New Delhi,,0/41,1.0
+Offline,1198,IAPTV0000458,Dr Kamlesh Chopra,New Delhi,,0/41,1.0
+Offline,1199,IAPTV0000459,Dr Kamak Kumar Jain,New Delhi,,0/41,1.0
+Offline,1200,IAPTV0000460,Dr Neeraj  Gupta,New Delhi,,0/41,1.0
+Online,1201,IAPTV0000461,Dr Sandhya K Gupta,New Delhi,,41/41,1.1
+Offline,1202,IAPTV0000462,Ashish Tahilyani,New Delhi,,41/41,1.1
+Offline,1203,IAPTV0000463,Dr Sanjay  Chattree,Pritampura,,0/41,1.0
+Offline,1204,IAPTV0000464,Dr Anjali  Jain,Faribadad,,0/41,1.0
+Offline,1205,IAPTV0000465,Dr Vishal  Soni,Faribadad,,42/41,1.1
+Offline,1206,IAPTV0000466,Chandra Kant Mishra,Faridabad,,0/41,1.0
+Offline,1207,IAPTV0000467,Dr Ashok Grover,Faridabad,,0/41,1.0
+Offline,1208,IAPTV0000468,Harpreet Singh,Faridabad,,0/41,1.0
+Online,1209,IAPTV0000469,Ashok Aggarwal,Faridabad ,,41/41,1.1
+Online,1210,IAPTV0000470,Vaneet  Parmaar,Gurgaon,,41/41,1.1
+Offline,1211,IAPTV0000471,Umang  Mann,Gurgaon,,42/41,1.1
+Offline,1212,IAPTV0000472,Devender Kumar Arora,Gurgaon,,0/41,1.0
+Recent,1213,IAPTV0000473,Surendra Prasad Garg,Gurgaon,,41/41,1.1
+Offline,1214,IAPTV0000474,Tripti Singh,Gurgaon,,0/41,1.0
+Offline,1215,IAPTV0000475,Dr Atul  Ahuja,Gurgaon,,0/41,1.0
+Recent,1216,IAPTV0000476,Dr  Poonam  Mehrotra,Gurgaon,,0/41,1.0
+Offline,1217,IAPTV0000477,Anurag  Nagar,Haryana,,0/41,1.0
+Offline,1218,IAPTV0000478,Anthony Thekkinedath,Haryana,,0/41,1.0
+Offline,1219,IAPTV0000479,Pratap S Kanwar,Haryana,,42/41,1.1
+Online,1220,IAPTV0000480,Dr Rahul  Yadav,Haryana,,41/41,1.1
+Offline,1221,IAPTV0000481,Dr  Santosh  Goyal,Palwal,,0/41,1.0
+Offline,1222,IAPTV0000482,Dr.Alka  Bhadbhade,Boisar,,0/41,1.0
+Offline,1223,IAPTV0000483,Waseem Rafimiya Kazi,Boisar,,0/41,1.0
+Offline,1224,IAPTV0000484,Harshal Nimkande,Kalyan,,0/41,1.0
+Online,1225,IAPTV0000485,Swati Hande,Kamothe,,41/41,1.1
+Online,1226,IAPTV0000486,Pramod  Patil,Mumbai,,41/41,1.1
+Offline,1227,IAPTV0000487,Neeta Rajesh Nathani,Mumbai,,0/41,1.0
+Offline,1228,IAPTV0000488,Salil Sanmukhlal Choksi,Mumbai,,0/41,1.0
+Offline,1229,IAPTV0000489,Shiv Kumar Lalwani,Mumbai,,0/41,1.0
+Online,1230,IAPTV0000490,Prakash Vasant Vaidya,Mumbai,,41/41,1.1
+Offline,1231,IAPTV0000491,Vishal Baldua,Mumbai,,0/41,1.0
+Online,1232,IAPTV0000492,V Santosh Siddappa,Mumbai,,0/41,1.0
+Offline,1233,IAPTV0000493,Dr Dipti Bhagat,Mumbai,,0/41,1.0
+Offline,1234,IAPTV0000494,Dr.Namrata V Jagdale,Mumbai,,0/41,1.0
+Online,1235,IAPTV0000495,Dr Isha Satish Bhagat,Mumbai,,41/41,1.1
+Offline,1236,IAPTV0000496,Dr Deepa D Shetty,Mumbai,,0/41,1.0
+Offline,1237,IAPTV0000497,Dr Sunila M Nagvekar ,Mumbai,,42/41,1.1
+Offline,1238,IAPTV0000498,Dr Kishorekumar P Sanghvi,Mumbai,,0/41,1.0
+Offline,1239,IAPTV0000499,Alenka Test,Alenka Test,,0/41,1.0
+Offline,1240,IAPTV0000500,Dr Mangesh Y Kasle,Mumbai,,0/41,1.0
+Offline,1241,IAPTV0000501,Gaurav A Sharma,Mumbai,,0/41,1.0
+Offline,1242,IAPTV0000502,Dr Indu Devchand Gada,Mumbai,,42/41,1.1
+Offline,1243,IAPTV0000503,Dr Rajesh Patel,Mumbai,,0/41,1.0
+Offline,1244,IAPTV0000504,Kamlesh Shrivastava,Mumbai,,42/41,1.1
+Offline,1245,IAPTV0000505,Dr Madhumita Agrawal,Mumbai,,0/41,1.0
+Offline,1246,IAPTV0000506,Shilpa Ranade,Mumbai,,0/41,1.0
+Offline,1247,IAPTV0000507,Dr Sagar S Warankar,Mumbai,,0/41,1.0
+Offline,1248,IAPTV0000508,Dr Arpit Doshi,Mumbai,,42/41,1.1
+Offline,1249,IAPTV0000509,Dr Shivali Joshi,Mumbai,,42/41,1.1
+Offline,1250,IAPTV0000510,Pranav Sanghavi,Mumbai,,42/41,1.1
+Offline,1251,IAPTV0000511,Cyprian D'Souza,Mumbai,,0/41,1.0
+Offline,1252,IAPTV0000512,Chaitanya Pande,Mumbai,,0/41,1.0
+Offline,1253,IAPTV0000513,Dr Nimain C Mohanty,Navi Mumbai,,41/41,1.1
+Online,1254,IAPTV0000514,Dr Shanthala V Murthy,Navi Mumbai,,41/41,1.1
+Offline,1255,IAPTV0000515,Dr Santosh S Kangule,Navi Mumbai,,4/41,1.1
+Offline,1256,IAPTV0000516,Vinay Patil,Panvel,,8/41,1.1
+Recent,1257,IAPTV0000517,Sachin  Shah,Pune,,41/41,1.1
+Offline,1258,IAPTV0000518,Dipti  Pujari,Pune,,0/41,1.0
+Offline,1259,IAPTV0000519,Pranjali Sadawarte Deshpande,Pune,,0/41,1.0
+Offline,1260,IAPTV0000520,Priya Nikhil Diwan,Pune,,0/41,1.0
+Offline,1261,IAPTV0000521,Nandkumar Banait,Pune,,0/41,1.0
+Offline,1262,IAPTV0000522,Sudhir  Nikam,Pune,,0/41,1.0
+Offline,1263,IAPTV0000523,Mahesh Ashok Sancheti,Pune,,0/41,1.0
+Offline,1264,IAPTV0000524,Mayur Khedekar,Pune,,0/41,1.0
+Offline,1265,IAPTV0000525,Shrikant Rukmangad Khair,Pune,,0/41,1.0
+Offline,1266,IAPTV0000526,Neelam Nitin Dhamale,Pune,,8/41,1.1
+Offline,1267,IAPTV0000527,Rajeev  Telang,Pune,,0/41,1.0
+Offline,1268,IAPTV0000528,Sanjay V Mankar,Pune,,0/41,1.0
+Offline,1269,IAPTV0000529,Suhas  Chougule,Pune,,0/41,1.0
+Offline,1270,IAPTV0000530,Pranami P Mehta,Pune,,32/41,1.1
+Offline,1271,IAPTV0000531,Rajendra P Karambelkar,Pune,,0/41,1.0
+Offline,1272,IAPTV0000532,Dr Yogesh Nimonkar,Pune,,0/41,1.0
+Offline,1273,IAPTV0000533,Dr Nitin Pawar,Pune,,0/41,1.0
+Offline,1274,IAPTV0000534,Dr Subhash Poyekar,Pune,,13/41,1.1
+Offline,1275,IAPTV0000535,Vijayalaxmi Shaharao,Pune,,0/41,1.0
+Online,1276,IAPTV0000536,Anil Mohan Khamkar,Pune,,41/41,1.1
+Offline,1277,IAPTV0000537,Mithun  Somani,Thane,,0/41,1.0
+Offline,1278,IAPTV0000538,Veena  Pathak,Thane,,0/41,1.0
+Offline,1279,IAPTV0000539,Dattatray L Maraskolhe,Thane,,0/41,1.0
+Offline,1280,IAPTV0000540,Ms.Gauri S Kulkarni,Thane,,0/41,1.0
+Offline,1281,IAPTV0000541,Dr Rehan Mohsin Hawai,Thane,,0/41,1.0
+Online,1282,IAPTV0000542,Tejbir Som,Ghaziabad,,41/41,1.1
+Offline,1283,IAPTV0000543,Dr Narendra Kumar Jha,Ghaziabad,,0/41,1.0
+Offline,1284,IAPTV0000544,Rajeev Jain,Uttar Pradesh,,41/41,1.1
+Offline,1285,IAPTV0000545,Dr Naveen Kumar Saxsena,Uttar Pradesh,,10/41,1.1
+Offline,1296,1296,,,,1/41,1.1
+Offline,1297,1297,,,,0/41,1.0
+Offline,1298,1298,,,,0/41,1.0
+Offline,1299,1299,,,,0/41,1.0
+Online,1300,1300,,,,41/41,1.1
+Online,1301,1301,,,,41/41,1.1
+Offline,1302,1302,,,,0/41,1.0
+Offline,1303,1303,,,,0/41,1.0
+Offline,1304,1304,,,,0/41,1.0
+Offline,1305,1305,,,,0/41,1.0
+Online,1306,1306,,,,41/41,1.1
+Offline,1307,1307,,,,42/41,1.1
+Offline,1308,1308,,,,1/41,1.1
+Offline,1309,1309,,,,0/41,1.0
+Offline,1310,1310,,,,0/41,1.0
+Online,1311,1311,,,,41/41,1.1
+Offline,1312,FBUD-AZUP-CHEP-ELBY-AOTH,,,,42/41,1.1
+Online,1313,1313,,,,41/41,1.1
+Offline,1314,1314,,,,0/41,1.0
+Offline,1315,1315,,,,0/41,1.0
+Online,1316,1316,,,,41/41,1.1
+Offline,1317,1317,,,,0/41,1.0
+Offline,1318,1318,,,,0/41,1.0
+Offline,1319,1319,,,,0/41,1.0
+Offline,1320,1320,,,,0/41,1.0
+Offline,1321,1321,,,,0/41,1.0
+Offline,1322,1322,,,,0/41,1.0
+Recent,1323,1323,,,,41/41,1.1
+Offline,1324,1324,,,,1/41,1.1
+Recent,1325,1325,,,,41/41,1.1
+Offline,1326,1326,,,,0/41,1.0
+Offline,1327,1327,,,,0/41,1.0
+Offline,1328,1328,,,,0/41,1.0
+Offline,1329,1329,,,,0/41,1.0
+Recent,1330,1330,,,,41/41,1.1
+Offline,1331,1331,,,,0/41,1.0
+Offline,1332,EMIK-CLVF-EGSZ-ELTK-CDDL,,,,0/41,1.0
+Offline,1333,1333,,,,0/41,1.0
+Offline,1334,1334,,,,0/41,1.0
+Offline,1335,1335,,,,42/41,1.1
+Online,1336,1336,,,,41/41,1.1
+Offline,1337,1337,,,,0/41,1.0
+Offline,1338,1338,,,,41/41,1.1
+Offline,1339,1339,,,,42/41,1.1
+Online,1340,1340,,,,41/41,1.1
+Offline,1341,1341,,,,0/41,1.0
+Offline,1342,1342,,,,0/41,1.0
+Online,1343,1343,,,,0/41,1.0
+Offline,1344,1344,,,,0/41,1.0
+Recent,1345,1345,,,,41/41,1.1
+Offline,1346,1346,,,,41/41,1.1
+Offline,1347,1347,,,,0/41,1.0
+Online,1348,1348,,,,0/41,1.0
+Online,1349,1349,,,,41/41,1.1
+Offline,1350,1350,,,,42/41,1.1
+Online,1351,1351,,,,0/41,1.0
+Offline,1352,1352,,,,0/41,1.0
+Offline,1353,1353,,,,1/41,1.1
+Offline,1354,1354,,,,0/41,1.0
+Offline,1355,1355,,,,0/41,1.0
+Offline,1356,1356,,,,0/41,1.0
+Offline,1357,1357,,,,42/41,1.1
+Online,1358,1358,,,,41/41,1.1
+Online,1359,1359,,,,0/41,1.0
+Offline,1360,1360,,,,0/41,1.0
+Online,1361,1361,,,,41/41,1.1
+Offline,1362,1362,,,,0/41,1.0
+Online,1363,1363,,,,0/41,1.0
+Offline,1364,1364,,,,0/41,1.0
+Offline,1365,1365,,,,0/41,1.0
+Offline,1366,1366,,,,31/41,1.1
+Offline,1367,1367,,,,0/41,1.0
+Offline,1368,1368,,,,0/41,1.0
+Offline,1369,1369,,,,0/41,1.0
+Offline,1370,1370,,,,0/41,1.0
+Offline,1371,1371,,,,0/41,1.0
+Offline,1372,1372,,,,42/41,1.1
+Offline,1373,1373,,,,0/41,1.0
+Offline,1374,1374,,,,0/41,1.0
+Offline,1375,1375,,,,0/41,1.0
+Offline,1376,1376,,,,0/41,1.0
+Offline,1377,FCND-EHKC-DCOR-AIVM-CPZE,,,,0/41,1.0
+Offline,1378,1378,,,,0/41,1.0
+Offline,1379,1379,,,,21/41,1.1
+Offline,1380,1380,,,,0/41,1.0
+Offline,1381,1381,,,,0/41,1.0
+Offline,1382,1382,,,,21/41,1.1
+Online,1383,1383,,,,41/41,1.1
+Offline,1384,1384,,,,42/41,1.1
+Offline,1385,1385,,,,0/41,1.0
+Offline,1386,1386,,,,41/41,1.1
+Offline,1387,1387,,,,0/41,1.0
+Offline,1388,1388,,,,0/41,1.0
+Offline,1389,1389,,,,0/41,1.0
+Offline,1390,DYWF-DEFG-APGS-CKWZ-CQUC,,,,0/41,1.0
+Offline,1391,1391,,,,0/41,1.0
+Offline,1392,1392,,,,0/41,1.0
+Offline,1393,1393,,,,42/41,1.1
+Offline,1394,1394,,,,42/41,1.1
+Offline,1395,1395,,,,0/41,1.0
+Offline,1396,1396,,,,41/41,1.1
+Offline,1397,1397,,,,0/41,1.0
+Offline,1398,1398,,,,42/41,1.1
+Offline,1399,1399,,,,42/41,1.1
+Online,1400,1400,,,,0/41,1.0
+Online,1401,1401,,,,0/41,1.0
+Online,1402,1402,,,,41/41,1.1
+Offline,1403,1403,,,,42/41,1.1
+Offline,1404,1404,,,,0/41,1.0
+Online,1405,1405,,,,41/41,1.1
+Offline,1406,1406,,,,42/41,1.1
+Online,1407,1407,,,,41/41,1.1
+Offline,1408,1408,,,,0/41,1.0
+Offline,1409,1409,,,,0/41,1.0
+Offline,1410,1410,,,,0/41,1.0
+Offline,1411,1411,,,,0/41,1.0
+Offline,1412,1412,,,,0/41,1.0
+Offline,1413,1413,,,,41/41,1.1
+Online,1414,1414,,,,0/41,1.0
+Offline,1415,1415,,,,0/41,1.0
+Offline,1416,1416,,,,42/41,1.1
+Offline,1417,1417,,,,42/41,1.1
+Offline,1418,1418,,,,1/41,1.1
+Offline,1419,1419,,,,0/41,1.0
+Online,1420,1420,,,,41/41,1.1
+Offline,1421,1421,,,,0/41,1.0
+Offline,1422,1422,,,,4/41,1.1
+Online,1423,1423,,,,42/41,1.1
+Offline,1424,1424,,,,0/41,1.0
+Offline,1425,1425,,,,0/41,1.0
+Online,1426,1426,,,,41/41,1.1
+Online,1427,1427,,,,0/41,1.0
+Online,1428,1428,,,,0/41,1.0
+Offline,1429,1429,,,,41/41,1.1
+Offline,1430,1430,,,,0/41,1.0
+Offline,1431,1431,,,,0/41,1.0
+Offline,1432,1432,,,,0/41,1.0
+Online,1433,1433,,,,41/41,1.1
+Offline,1434,1434,,,,42/41,1.1
+Offline,1435,1435,,,,0/41,1.0
+Online,1436,1436,,,,41/41,1.1
+Offline,1437,1437,,,,41/41,1.1
+Offline,1438,1438,,,,0/41,1.0
+Online,1439,1439,,,,41/41,1.1
+Offline,1440,1440,,,,0/41,1.0
+Online,1441,1441,,,,0/41,1.0
+Online,1442,1442,,,,41/41,1.1
+Offline,1443,1443,,,,0/41,1.0
+Offline,1444,1444,,,,41/41,1.1
+Offline,1445,1445,,,,8/41,1.1
+Offline,1446,1446,,,,42/41,1.1
+Offline,1447,1447,,,,42/41,1.1
+Offline,1448,1448,,,,0/41,1.0
+Offline,1449,1449,,,,5/41,1.1
+Offline,1450,1450,,,,0/41,1.0
+Online,1451,1451,,,,41/41,1.1
+Online,1452,1452,,,,41/41,1.1
+Offline,1453,1453,,,,0/41,1.0
+Offline,1454,1454,,,,0/41,1.0
+Offline,1455,1455,,,,0/41,1.0
+Offline,1456,1456,,,,0/41,1.0
+Offline,1457,1457,,,,0/41,1.0
+Offline,1458,1458,,,,25/41,1.1
+Offline,1459,1459,,,,0/41,1.0
+Offline,1460,1460,,,,42/41,1.1
+Offline,1461,1461,,,,0/41,1.0
+Offline,1462,1462,,,,42/41,1.1
+Offline,1463,1463,,,,0/41,1.0
+Offline,1464,1464,,,,0/41,1.0
+Offline,1465,1465,,,,0/41,1.0
+Offline,1466,1466,,,,0/41,1.0
+Online,1467,1467,,,,41/41,1.1
+Offline,1468,1468,,,,0/41,1.0
+Online,1469,1469,,,,41/41,1.1
+Online,1470,1470,,,,41/41,1.1
+Offline,1471,1471,,,,0/41,1.0
+Offline,1472,1472,,,,0/41,1.0
+Offline,1473,1473,,,,1/41,1.1
+Online,1474,1474,,,,0/41,1.0
+Offline,1475,1475,,,,42/41,1.1
+Offline,1476,1476,,,,0/41,1.0
+Offline,1477,1477,,,,0/41,1.0
+Recent,1478,1478,,,,41/41,1.1
+Online,1479,1479,,,,41/41,1.1
+Offline,1480,1480,,,,0/41,1.0
+Online,1481,1481,,,,41/41,1.1
+Offline,1482,1482,,,,0/41,1.0
+Offline,1483,1483,,,,0/41,1.0
+Online,1484,1484,,,,41/41,1.1
+Offline,1485,1485,,,,0/41,1.0
+Offline,1486,1486,,,,42/41,1.1
+Offline,1487,1487,,,,0/41,1.0
+Online,1488,1488,,,,41/41,1.1
+Offline,1489,1489,,,,0/41,1.0
+Offline,1490,1490,,,,0/41,1.0
+Offline,1491,1491,,,,0/41,1.0
+Offline,1492,1492,,,,21/41,1.1
+Offline,1493,1493,,,,42/41,1.1
+Offline,1494,AOXD-EACM-CGRA-BRZF-AWKD,,,,42/41,1.1
+Offline,1495,1495,,,,0/41,1.0
+Offline,1496,1496,,,,0/41,1.0
+Offline,1497,1497,,,,42/41,1.1
+Offline,1498,1498,,,,1/41,1.1
+Offline,1499,1499,,,,42/41,1.1
+Offline,1500,1500,,,,0/41,1.0
+Online,1501,1501,,,,41/41,1.1
+Offline,1502,1502,,,,0/41,1.0
+Online,1503,1503,,,,41/41,1.1
+Offline,1504,1504,,,,42/41,1.1
+Offline,1505,1505,,,,0/41,1.0
+Offline,1506,1506,,,,42/41,1.1
+Offline,1507,1507,,,,4/41,1.1
+Offline,1508,1508,,,,42/41,1.1
+Offline,1509,1509,,,,20/41,1.1
+Offline,1510,1510,,,,0/41,1.0
+Online,1511,1511,,,,0/41,1.0
+Online,1512,1512,,,,41/41,1.1
+Offline,1513,1513,,,,25/41,1.1
+Offline,1514,1514,,,,0/41,1.0
+Offline,1515,1515,,,,0/41,1.0
+Online,1516,1516,,,,41/41,1.1
+Offline,1517,1517,,,,0/41,1.0
+Offline,1518,1518,,,,0/41,1.0
+Offline,1519,1519,,,,41/41,1.1
+Offline,1520,1520,,,,0/41,1.0
+Offline,1521,1521,,,,0/41,1.0
+Online,1522,1522,,,,0/41,1.0
+Offline,1523,1523,,,,0/41,1.0
+Offline,1524,1524,,,,42/41,1.1
+Offline,1525,1525,,,,42/41,1.1
+Offline,1526,1526,,,,42/41,1.1
+Offline,1527,1527,,,,0/41,1.0
+Offline,1528,1528,,,,0/41,1.0
+Online,1529,1529,,,,41/41,1.1
+Online,1530,1530,,,,41/41,1.1
+Offline,1531,1531,,,,0/41,1.0
+Offline,1532,1532,,,,0/41,1.0
+Offline,1533,1533,,,,0/41,1.0
+Offline,1534,1534,,,,0/41,1.0
+Online,1535,1535,,,,0/41,1.0
+Offline,1536,1536,,,,0/41,1.0
+Offline,1537,1537,,,,1/41,1.1
+Offline,1538,1538,,,,41/41,1.1
+Offline,1539,1539,,,,0/41,1.0
+Offline,1540,1540,,,,0/41,1.0
+Offline,1541,1541,,,,0/41,1.0
+Offline,1542,1542,,,,42/41,1.1
+Offline,1543,1543,,,,42/41,1.1
+Offline,1544,1544,,,,0/41,1.0
+Offline,1545,1545,,,,42/41,1.1
+Offline,1546,1546,,,,0/41,1.0
+Offline,1547,1547,,,,0/41,1.0
+Offline,1548,1548,,,,0/41,1.0
+Offline,1549,1549,,,,0/41,1.0
+Recent,1550,1550,,,,42/41,1.1
+Offline,1551,1551,,,,15/41,1.1
+Offline,1552,1552,,,,41/41,1.1
+Offline,1553,1553,,,,25/41,1.1
+Offline,1554,1554,,,,0/41,1.0
+Offline,1555,1555,,,,42/41,1.1
+Offline,1556,1556,,,,0/41,1.0
+Offline,1557,1557,,,,0/41,1.0
+Offline,1558,1558,,,,0/41,1.0
+Offline,1559,1559,,,,0/41,1.0
+Offline,1560,1560,,,,41/41,1.1
+Offline,1561,1561,,,,0/41,1.0
+Offline,1562,1562,,,,0/41,1.0
+Offline,1563,1563,,,,0/41,1.0
+Offline,1564,1564,,,,42/41,1.1
+Online,1565,1565,,,,41/41,1.1
+Offline,1566,1566,,,,0/41,1.0
+Offline,1567,1567,,,,0/41,1.0
+Online,1568,1568,,,,41/41,1.1
+Offline,1569,1569,,,,41/41,1.1
+Offline,1570,1570,,,,0/41,1.0
+Offline,1571,1571,,,,0/41,1.0
+Offline,1572,1572,,,,42/41,1.1
+Offline,1573,1573,,,,0/41,1.0
+Online,1574,1574,,,,42/41,1.1
+Offline,1575,1575,,,,0/41,1.0
+Offline,1576,1576,,,,0/41,1.0
+Offline,1577,1577,,,,29/41,1.1
+Offline,1578,1578,,,,24/41,1.1
+Offline,1579,1579,,,,41/41,1.1
+Offline,1580,1580,,,,42/41,1.1
+Offline,1581,1581,,,,0/41,1.0
+Online,1582,1582,,,,0/41,1.0
+Offline,1583,1583,,,,20/41,1.1
+Offline,1584,1584,,,,41/41,1.1
+Online,1585,1585,,,,41/41,1.1
+Offline,1586,1586,,,,42/41,1.1
+Offline,1587,1587,,,,42/41,1.1
+Offline,1588,1588,,,,0/41,1.0
+Offline,1589,1589,,,,5/41,1.1
+Offline,1590,1590,,,,0/41,1.0
+Offline,1591,1591,,,,1/41,1.1
+Offline,1592,1592,,,,0/41,1.0
+Online,1593,1593,,,,41/41,1.1
+Offline,1594,1594,,,,41/41,1.1
+Offline,1595,1595,,,,0/41,1.0
+Offline,1596,1596,,,,0/41,1.0
+Offline,1597,1597,,,,0/41,1.0
+Online,1598,1598,,,,41/41,1.1
+Offline,1599,1599,,,,42/41,1.1
+Offline,1600,DRCM-BFWS-EJVS-DOZU-BWZN,,,,0/41,1.0
+Offline,1601,1601,,,,42/41,1.1
+Offline,1602,1602,,,,41/41,1.1
+Offline,1603,1603,,,,0/41,1.0
+Recent,1604,1604,,,,42/41,1.1
+Offline,1605,1605,,,,0/41,1.0
+Offline,1606,1606,,,,0/41,1.0
+Offline,1607,1607,,,,0/41,1.0
+Offline,1608,1608,,,,0/41,1.0
+Offline,1609,1609,,,,41/41,1.1
+Offline,1610,1610,,,,0/41,1.0
+Offline,1611,1611,,,,42/41,1.1
+Offline,1612,1612,,,,0/41,1.0
+Offline,1613,1613,,,,0/41,1.0
+Offline,1614,1614,,,,0/41,1.0
+Offline,1615,1615,,,,0/41,1.0
+Offline,1616,1616,,,,41/41,1.1
+Offline,1617,1617,,,,0/41,1.0
+Offline,1618,1618,,,,42/41,1.1
+Offline,1619,1619,,,,0/41,1.0
+Offline,1620,1620,,,,1/41,1.1
+Online,1621,1621,,,,41/41,1.1
+Offline,1622,1622,,,,0/41,1.0
+Offline,1623,1623,,,,0/41,1.0
+Offline,1624,1624,,,,0/41,1.0
+Offline,1625,1625,,,,42/41,1.1
+Offline,1626,1626,,,,41/41,1.1
+Offline,1627,1627,,,,7/41,1.1
+Offline,1628,1628,,,,0/41,1.0
+Offline,1629,1629,,,,0/41,1.0
+Offline,1630,1630,,,,41/41,1.1
+Offline,1631,1631,,,,0/41,1.0
+Offline,1632,1632,,,,1/41,1.1
+Offline,1633,1633,,,,0/41,1.0
+Offline,1634,1634,,,,18/41,1.1
+Offline,1635,1635,,,,42/41,1.1
+Offline,1636,1636,,,,42/41,1.1
+Online,1637,1637,,,,0/41,1.0
+Offline,1638,1638,,,,42/41,1.1
+Offline,1639,1639,,,,42/41,1.1
+Offline,1640,1640,,,,42/41,1.1
+Offline,1641,CURJ-AQTG-APPJ-CABE-CVTW,,,,0/41,1.0
+Offline,1642,1642,,,,0/41,1.0
+Recent,1643,1643,,,,41/41,1.1
+Offline,1644,1644,,,,0/41,1.0
+Offline,1645,1645,,,,0/41,1.0
+Offline,1646,1646,,,,5/41,1.1
+Offline,1647,1647,,,,0/41,1.0
+Online,1648,1648,,,,41/41,1.1
+Offline,1649,1649,,,,0/41,1.0
+Offline,1650,1650,,,,0/41,1.0
+Offline,1651,1651,,,,0/41,1.0
+Offline,1652,1652,,,,0/41,1.0
+Offline,1653,1653,,,,0/41,1.0
+Offline,1654,1654,,,,42/41,1.1
+Recent,1655,1655,,,,41/41,1.1
+Offline,1656,1656,,,,42/41,1.1
+Online,1657,1657,,,,0/41,1.0
+Online,1658,1658,,,,41/41,1.1
+Offline,1659,1659,,,,41/41,1.1
+Offline,1660,1660,,,,0/41,1.0
+Offline,1661,1661,,,,42/41,1.1
+Offline,1662,1662,,,,42/41,1.1
+Offline,1663,1663,,,,0/41,1.0
+Online,1664,1664,,,,41/41,1.1
+Offline,1665,1665,,,,5/41,1.1
+Offline,1666,1666,,,,0/41,1.0
+Offline,1667,1667,,,,42/41,1.1
+Offline,1668,1668,,,,0/41,1.0
+Offline,1669,1669,,,,0/41,1.0
+Offline,1670,DBUB-FOCR-FMLP-EHKE-BSRI,,,,0/41,1.0
+Offline,1671,1671,,,,41/41,1.1
+Offline,1672,1672,,,,42/41,1.1
+Offline,1673,1673,,,,0/41,1.0
+Offline,1674,DEKI-EQDQ-AQWA-AWGO-EAUX,,,,0/41,1.0
+Offline,1675,1675,,,,42/41,1.1
+Offline,1676,1676,,,,0/41,1.0
+Offline,1677,1677,,,,41/41,1.1
+Offline,1678,1678,,,,0/41,1.0
+Away,1679,1679,,,,42/41,1.1
+Offline,1680,1680,,,,41/41,1.1
+Offline,1681,1681,,,,0/41,1.0
+Offline,1682,1682,,,,0/41,1.0
+Offline,1683,1683,,,,42/41,1.1
+Online,1684,1684,,,,0/41,1.0
+Offline,1685,1685,,,,42/41,1.1
+Offline,1686,1686,,,,42/41,1.1
+Offline,1687,1687,,,,0/41,1.0
+Online,1688,1688,,,,0/41,1.0
+Offline,1689,1689,,,,0/41,1.0
+Offline,1690,1690,,,,42/41,1.1
+Offline,1691,1691,,,,0/41,1.0
+Offline,1692,1692,,,,21/41,1.1
+Online,1693,1693,,,,0/41,1.0
+Offline,1694,1694,,,,42/41,1.1
+Online,1695,1695,,,,41/41,1.1
+Offline,1696,1696,,,,0/41,1.0
+Offline,1697,1697,,,,0/41,1.0
+Offline,1698,1698,,,,0/41,1.0
+Offline,1699,1699,,,,0/41,1.0
+Offline,1700,1700,,,,0/41,1.0
+Offline,1701,1701,,,,0/41,1.0
+Offline,1702,1702,,,,0/41,1.0
+Offline,1703,1703,,,,42/41,1.1
+Offline,1704,1704,,,,42/41,1.1
+Offline,1705,1705,,,,41/41,1.1
+Offline,1706,1706,,,,0/41,1.0
+Offline,1707,1707,,,,0/41,1.0
+Offline,1708,1708,,,,1/41,1.1
+Online,1709,1709,,,,41/41,1.1
+Recent,1710,1710,,,,0/41,1.0
+Recent,1711,1711,,,,41/41,1.1
+Offline,1712,1712,,,,0/41,1.0
+Offline,1713,1713,,,,42/41,1.1
+Offline,1714,1714,,,,42/41,1.1
+Offline,1715,1715,,,,0/41,1.0
+Offline,1716,1716,,,,41/41,1.1
+Offline,1717,1717,,,,0/41,1.0
+Offline,1718,1718,,,,0/41,1.0
+Online,1719,1719,,,,0/41,1.0
+Offline,1720,1720,,,,41/41,1.1
+Offline,1721,1721,,,,0/41,1.0
+Online,1722,1722,,,,41/41,1.1
+Offline,1723,1723,,,,0/41,1.0
+Offline,1724,1724,,,,0/41,1.0
+Offline,1725,1725,,,,42/41,1.1
+Offline,1726,1726,,,,41/41,1.1
+Recent,1727,1727,,,,41/41,1.1
+Online,1728,1728,,,,0/41,1.0
+Offline,1729,1729,,,,42/41,1.1
+Offline,1730,1730,,,,42/41,1.1
+Offline,1731,1731,,,,0/41,1.0
+Offline,1732,1732,,,,0/41,1.0
+Offline,1733,1733,,,,42/41,1.1
+Offline,1734,1734,,,,41/41,1.1
+Online,1735,1735,,,,41/41,1.1
+Online,1736,1736,,,,0/41,1.0
+Offline,1737,1737,,,,21/41,1.1
+Online,1738,1738,,,,32/41,1.1
+Offline,1739,1739,,,,0/41,1.0
+Online,1740,1740,,,,41/41,1.1
+Offline,1741,1741,,,,0/41,1.0
+Offline,1742,1742,,,,41/41,1.1
+Recent,1743,1743,,,,0/41,1.0
+Offline,1744,1744,,,,5/41,1.1
+Offline,1745,1745,,,,0/41,1.0
+Offline,1746,1746,,,,1/41,1.1
+Online,1747,1747,,,,0/41,1.0
+Offline,1748,1748,,,,0/41,1.0
+Offline,1749,1749,,,,0/41,1.0
+Offline,1750,1750,,,,0/41,1.0
+Recent,1751,1751,,,,41/41,1.1
+Offline,1752,1752,,,,0/41,1.0
+Offline,1753,1753,,,,0/41,1.0
+Online,1754,1754,,,,41/41,1.1
+Online,1755,1755,,,,41/41,1.1
+Offline,1756,FHRC-BJSU-BXLD-FDCK-EHFV,,,,0/41,1.0
+Offline,1757,BSHX-BZRM-AHHP-CDUQ-CQYB,,,,0/41,1.0
+Offline,1758,FHSF-AZGT-CCBU-BAFD-BESI,,,,0/41,1.0
+Offline,1759,AWJF-FNVR-BVEY-BJXE-AOXF,,,,0/41,1.0
+Offline,1760,DLWW-FCXM-CHIZ-FFLS-BKFN,,,,0/41,1.0
+Offline,1761,FHTJ-AOUT-CGSL-CPFZ-DUCZ,,,,0/41,1.0
+Offline,1762,AAKN-DKBT-DJCG-APZT-EEUM,,,,0/41,1.0
+Offline,1763,FHUL-BPZG-EONW-CZZB-ELCD,,,,0/41,1.0
+Offline,1764,EXTQ-BTAU-DAGU-APVK-DHWO,,,,0/41,1.0
+Offline,1765,APOB-DVCR-DKIQ-DCTP-ANQO,,,,0/41,1.0
+Offline,1766,FHMK-ELFK-DIBG-DIPE-DJAD,,,,0/41,1.0
+Offline,1767,FDMK-FJOC-DQVX-AHFK-AUIF,,,,0/41,1.0
+Offline,1768,FHNM-FMJX-FPWR-DTIF-DZZH,,,,0/41,1.0
+Offline,1769,EIXJ-DSNE-DIAL-AHBB-FPIL,,,,0/41,1.0
+Offline,1770,FHOQ-FBXX-ACPE-FIJC-AXLU,,,,0/41,1.0
+Offline,1771,DMYQ-BOTF-EVXU-FFBT-DNHP,,,,0/41,1.0
+Offline,1772,BLZU-DSTP-AWDP-BQIU-FOFF,,,,0/41,1.0
+Offline,1773,FHPU-ERLW-AHFV-BFLV-DMWL,,,,0/41,1.0
+Offline,1774,CQZY-FCXL-ARWY-ELEH-BLGS,,,,0/41,1.0
+Offline,1775,FISJ-BTMD-BEMX-FJLD-DULH,,,,0/41,1.0
+Offline,1776,EJIR-DEVD-DBAE-DDDQ-BWXE,,,,0/41,1.0
+Offline,1777,FITN-BJAD-BJDO-BGNW-ARXU,,,,0/41,1.0
+Offline,1778,DNJZ-BBBF-EOXM-CJGE-FMUM,,,,0/41,1.0
+Offline,1779,DEXG-CEHO-CAYG-FKVJ-FPHL,,,,0/41,1.0
+Offline,1780,FIUR-AYOC-BNUF-CVOT-DHIL,,,,0/41,1.0
+Offline,1781,CRLH-EPFK-AKWQ-BPIS-DKTP,,,,0/41,1.0
+Offline,1782,FIVT-BZSQ-DVPQ-DGHU-DYHP,,,,0/41,1.0
+Offline,1783,BWWG-CYEL-ACBF-BPEJ-CNVR,,,,0/41,1.0
+Offline,1784,FINS-EUYT-CPDA-DOXX-CWFP,,,,0/41,1.0
+Offline,1785,CCPA-AWTQ-ASQH-BGOJ-AAHI,,,,0/41,1.0
+Offline,1786,EBIZ-CBYM-FERI-DYKO-EXXY,,,,0/41,1.0
+Offline,1787,FIOU-AEFC-EWYL-DZQZ-DNET,,,,0/41,1.0
+Offline,1788,BHZZ-EXQV-AJUW-BGKA-EVHO,,,,0/41,1.0
+Offline,1789,FIPY-FLRG-FBPC-FORW-AKRG,,,,0/41,1.0
+Offline,1790,AMBH-CTWX-BXSE-AMMP-CTGS,,,,0/41,1.0
+Offline,1791,BFAE-AUDR-APSV-BVSL-EBJA,,,,0/41,1.0
+Offline,1792,FIRC-FBFG-FGFU-BLUP-DABX,,,,0/41,1.0
+Offline,1793,FIAS-AQCY-DLPM-FKNH-ARFV,,,,0/41,1.0
+Offline,1794,CHLO-DBBF-DOSS-AYGN-BPFH,,,,0/41,1.0
+Offline,1795,FIIZ-DQDT-AKZU-AQCW-FRMO,,,,0/41,1.0

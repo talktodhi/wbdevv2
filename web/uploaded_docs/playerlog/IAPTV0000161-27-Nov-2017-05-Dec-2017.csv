@@ -1,0 +1,680 @@
+TokenId,DateTime,Title,ArtistName,Playlistname,CategoryName
+907,05-12-2017 16:23:06,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 16:16:11,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:14:19,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:14:16,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:13:35,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:10:49,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 16:09:42,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:09:39,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:05:33,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:05:30,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:04:29,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 16:01:04,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:59:22,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:58:39,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:58:36,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:45:57,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,05-12-2017 15:44:32,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:42:53,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:39:17,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:39:14,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:37:47,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:34:14,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:33:01,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:31:17,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 15:27:08,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 15:27:05,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:25:35,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:22:56,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 15:21:56,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 15:19:17,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 15:19:15,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:16:01,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:15:43,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:15:35,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:15:29,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:13:25,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:09:32,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:09:29,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:05:22,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:05:20,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:04:19,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 15:02:19,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:59:12,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:58:29,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:58:26,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:57:03,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:57:00,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:56:02,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:49:04,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:49:01,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:42:43,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:39:06,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:39:04,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:32:51,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:31:07,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:28:21,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:26:58,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:26:55,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:25:25,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:21:46,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:15:51,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:15:33,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:15:25,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:15:18,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:13:15,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:10:29,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 14:09:22,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:05:12,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:05:10,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:04:09,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 14:02:09,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:58:19,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:58:16,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:55:52,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:42:33,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:38:57,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:38:54,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:37:27,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:32:41,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:30:57,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:28:11,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:26:48,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:26:45,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:21:36,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:15:15,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:15:09,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:13:49,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:13:46,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:13:05,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:10:19,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 13:09:12,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 13:09:09,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:58:52,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:55:42,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:48:44,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:48:41,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:44:02,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:38:47,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:38:44,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:32:31,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:30:47,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:25:05,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:22:26,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:21:26,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:18:48,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:18:45,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:15:05,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:14:59,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:13:39,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:13:36,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:12:55,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:09:02,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:08:59,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 12:01:49,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 12:00:24,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:56:33,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:56:30,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:55:33,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 11:45:17,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,05-12-2017 11:43:52,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:42:14,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:40:43,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:38:37,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:38:34,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:33:35,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:32:22,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:30:37,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 11:26:28,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 11:26:26,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:22:16,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 11:21:16,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 11:18:35,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:13:29,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:13:26,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:12:45,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 11:00:14,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:58:32,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:55:23,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:48:24,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:48:21,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:40:32,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:36:57,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:33:24,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:32:11,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:30:26,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:26:18,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:26:15,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:24:45,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:22:05,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:21:05,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:15:11,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:14:53,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:14:44,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:14:38,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:09:49,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 10:04:32,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:04:29,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:03:29,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 10:00:04,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:58:21,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:43:31,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:32:00,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:18:17,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 09:18:14,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:13:08,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:13:05,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 09:03:18,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:56:02,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:55:59,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:43:21,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:41:42,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:36:36,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:31:50,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:21:44,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 08:20:44,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 08:14:17,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:08:20,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 08:08:17,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:55:51,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:55:48,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:54:51,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 07:43:10,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:32:53,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:29:55,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 07:24:13,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:17:56,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 07:17:53,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:14:39,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:14:22,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:04:01,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:03:58,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 07:00:57,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:59:32,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:54:41,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:47:42,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:47:39,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:43:00,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:41:22,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:25:36,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:25:33,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:24:03,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:21:24,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:17:46,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:17:43,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:09:07,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 06:08:00,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 06:07:57,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 05:56:57,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 05:56:54,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 05:41:11,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,05-12-2017 05:26:49,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,05-12-2017 05:14:18,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,05-12-2017 05:14:01,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 11:46:40,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 11:39:54,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 11:30:38,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,02-12-2017 11:18:08,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 11:17:49,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 01:21:47,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,02-12-2017 01:21:44,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 01:03:22,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,02-12-2017 01:01:42,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:51:29,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:48:15,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,02-12-2017 00:45:11,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:40:04,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:33:29,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,02-12-2017 00:16:20,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:16:18,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,02-12-2017 00:04:36,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 15:30:47,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 15:30:44,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 09:04:37,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 09:04:35,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:58:26,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:57:43,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:57:39,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:56:17,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:56:14,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:40:26,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:36:49,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:26:11,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 08:26:08,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:18:21,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 08:18:18,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:14:46,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:14:38,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:14:32,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:12:28,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 08:09:42,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 07:41:46,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 07:30:10,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 07:18:10,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 07:18:07,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 07:12:17,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 07:04:14,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 07:04:11,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:57:10,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:57:07,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:44:28,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,01-12-2017 05:29:46,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 05:25:38,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,01-12-2017 05:25:34,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:24:04,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:14:31,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,01-12-2017 05:14:14,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 14:39:47,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 14:39:44,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 14:36:30,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 14:36:12,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:51:30,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:51:28,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:50:30,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 13:43:31,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:43:28,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:38:49,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:37:11,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:27:18,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:22:48,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 13:21:25,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 13:21:22,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:17:13,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 13:13:35,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 13:13:32,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 13:04:56,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 12:56:36,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 12:38:39,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 12:27:08,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 12:25:24,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 12:21:15,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 12:21:12,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 12:08:16,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 12:08:13,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:58:26,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:56:26,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 11:55:01,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:53:19,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:52:36,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:52:33,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:51:10,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:51:07,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:35:19,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:33:14,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:33:11,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:31:44,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:26:58,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:16:53,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 11:08:06,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 11:08:03,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:58:16,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:54:51,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:43:01,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:42:58,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:38:19,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:20:55,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 10:20:52,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:13:04,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 10:13:01,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:09:48,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:09:30,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:09:22,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:09:15,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:07:55,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:07:53,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:04:26,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 10:03:19,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 10:03:16,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:58:06,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:52:16,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:52:13,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:39:34,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,30-11-2017 09:34:59,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:32:53,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:32:50,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:27:51,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:20:45,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,30-11-2017 09:20:42,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:09:38,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 09:09:20,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 02:17:11,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,30-11-2017 02:16:53,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:51:56,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:45:26,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:45:24,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:41:17,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:41:14,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:34:24,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:34:21,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 11:17:07,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:55:02,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 10:54:58,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:41:06,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:41:05,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:36:38,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:34:13,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:34:10,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:32:48,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:32:45,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:14:49,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:14:47,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:09:48,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 10:06:50,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 10:04:05,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 09:57:29,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 09:49:39,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:48:57,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:39:53,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:32:35,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:32:32,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:21:20,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,29-11-2017 09:18:17,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:14:37,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:13:10,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:09:37,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:08:24,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 09:03:54,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 09:00:58,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 08:51:24,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 08:51:05,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 02:07:34,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 02:01:53,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:52:18,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:52:02,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:51:52,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:46:57,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 01:40:37,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:38:37,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 01:32:20,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 01:20:39,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 01:03:15,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,29-11-2017 01:03:12,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:45:38,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:45:36,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:40:26,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:35:18,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:34:35,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:25:10,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:25:07,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,29-11-2017 00:18:50,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 21:07:35,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 20:37:48,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 20:33:39,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 20:33:36,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 20:29:26,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 20:25:48,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 20:25:46,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 20:22:32,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 20:03:34,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 19:50:53,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 19:49:15,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 19:37:38,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 19:34:52,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 19:15:53,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 19:15:50,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 19:08:40,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 19:02:24,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 18:31:46,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 18:21:46,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 18:21:39,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 18:20:19,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 18:20:16,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:55:15,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:55:12,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:50:33,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:48:54,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:37:18,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 17:33:09,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 17:33:06,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:31:36,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:27:57,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 17:22:02,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 17:21:44,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 15:12:46,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 14:59:27,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 14:47:50,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 14:39:30,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 14:18:53,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 14:12:37,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 14:05:38,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 14:05:35,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 13:57:46,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 13:55:40,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 13:55:38,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 13:50:38,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 13:18:43,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 13:12:26,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 12:54:01,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 12:47:30,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 12:32:15,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 12:26:53,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 12:18:33,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 12:15:26,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:50:18,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:41:39,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:37:59,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 11:29:29,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:21:27,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:18:23,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 11:16:58,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:14:33,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:14:30,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 11:00:26,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:57:16,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:53:41,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:35:11,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 10:35:09,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:29:19,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:21:17,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:20:13,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:18:13,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,28-11-2017 10:04:57,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 10:04:54,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 09:58:37,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,28-11-2017 09:57:06,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 09:48:45,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 09:31:45,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,28-11-2017 09:31:27,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 21:18:30,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 21:09:24,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 21:07:24,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 21:01:08,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 20:39:09,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 20:37:56,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 20:33:26,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 20:26:50,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 20:09:14,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 20:04:07,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 20:01:58,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 20:01:55,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 19:37:46,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 19:31:53,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 19:31:51,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 19:24:03,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 19:14:17,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 19:14:14,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 18:50:32,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 18:42:22,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 18:27:30,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 18:26:30,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 18:20:18,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 18:20:10,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 18:05:29,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:53:39,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:53:36,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:47:19,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:38:39,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:35:42,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 17:32:56,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 17:20:26,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 17:20:09,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:40:39,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:40:36,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:36:30,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:36:27,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:35:26,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:33:27,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 16:32:01,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:29:34,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:28:10,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:28:07,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:27:10,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 16:20:11,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:20:08,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:15:29,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:13:51,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:12:20,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:10:14,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:10:11,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:08:44,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:05:12,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 16:03:58,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:58:05,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:58:02,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:56:32,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:53:53,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:52:53,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:50:15,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:50:12,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:46:58,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:46:41,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:46:32,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:46:26,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:45:06,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:45:03,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:44:22,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:41:36,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:40:29,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:40:26,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:36:19,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:36:17,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:35:16,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:33:16,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:31:51,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:28:00,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:27:57,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:26:59,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 15:20:01,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:19:58,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:16:44,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 15:13:40,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:12:09,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:10:03,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:08:34,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:05:01,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 15:03:48,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:59:18,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:57:55,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:57:52,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:53:42,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:52:42,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:50:04,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:50:01,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:46:48,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:46:30,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:46:22,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:46:15,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:44:55,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:44:52,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:44:11,Public Service PMSMA - 2,EC-PS2-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:41:25,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 14:40:18,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:40:15,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:36:09,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:36:06,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:31:40,Yolo - Palak,EC-YP-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:29:15,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:29:13,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:16:34,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 14:11:58,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:09:53,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:09:50,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:08:23,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 14:03:37,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:59:07,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 13:57:44,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 13:57:41,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:56:11,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:46:19,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:46:11,WB Copyright,EC-COPY-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:44:44,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:44:42,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:29:48,Cleanliness Tips,EC-CT-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:27:38,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:27:36,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:19:39,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:19:36,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:14:57,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:11:48,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:08:12,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:04:40,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 13:03:26,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:58:56,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:57:33,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:57:30,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:56:00,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:53:21,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:52:21,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:46:26,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:46:08,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:44:34,Furball 2 - Sleep,EC-F2S-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:44:31,Wipe 9,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:41:04,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:39:57,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:39:54,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:32:44,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:28:54,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:28:51,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:27:28,Furball 1 - Play With Kids,EC-F1P-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:27:25,Wipe 5,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:26:27,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 12:19:29,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:16:12,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 12:14:47,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:13:08,Yolo - Curd,EC-YC-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:11:37,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 12:01:32,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 11:57:23,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 11:57:20,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:53:10,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 11:46:16,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:45:43,Disclaimer,EC-DISC-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:35:37,Time Table,EC-TT-GF-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:35:34,Wipe 7,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:28:44,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:28:41,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:19:19,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:19:16,Wipe 4,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:16:02,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 11:14:36,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:07:52,Vitamin D,EC-VD-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:04:19,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 11:01:21,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 10:58:36,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 10:55:40,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:39:36,Neonatal Lullaby,EC-NL-CH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:39:34,Wipe 8,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:34:24,Exclusive Breastfeeding For Six Months,EC-EBS-CN-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:32:24,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 10:28:33,Public Service PMSMA - 1,EC-PS1-MH-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:28:31,Wipe 6,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:19:08,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:15:51,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+907,27-11-2017 10:14:26,Pregnant Lullaby,EC-PL-MN-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:11:16,Family Cleaning,EC-FC-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:09:11,Sibling Rivalry,EC-SR-PT-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:09:08,Wipe 3,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:04:08,How To Say No,EC-HTSN-PT-H-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:02:55,Outdoor Sports,EC-OS-GF-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 10:01:11,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:58:25,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:57:02,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:56:59,Wipe 2,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 09:55:29,Germ Mascot,EC-GM-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 09:52:50,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:51:50,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:49:12,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+907,27-11-2017 09:49:09,Wipe 1,EC-WIPE-CP-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 09:45:55,Doctors Speak About IAP,EC-DS-GH-E-0617,West and North IAP TV,IAP TV
+907,27-11-2017 09:45:38,Channel ID,EC-CHID-CP-E-0617,West and North IAP TV,IAP TV

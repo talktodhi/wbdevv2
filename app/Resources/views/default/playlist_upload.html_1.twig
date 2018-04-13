@@ -1,0 +1,197 @@
+{% extends 'base_main.html.twig' %}
+{% block title %}WayBeyond - Doctors Listing{% endblock %}
+{% block body %}
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Playlist</a>
+                </li>
+                <li class="active">Upload</li>
+            </ul>
+            <!-- /.breadcrumb -->
+        </div>
+        <div class="page-content">
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <div>
+<form class="form-horizontal message-form col-xs-12" method="post" id="id-message-form">
+									<div>
+
+										<div class="form-group">
+											<label for="form-field-subject" class="col-sm-3 control-label no-padding-right">Playlist Name:</label>
+
+											<div class="col-sm-6 col-xs-12">
+												<div class="input-icon block col-xs-12 no-padding">
+													<input type="text" placeholder="Playlist Name" id="form-field-subject" name="playlist_name" class="col-xs-12" maxlength="100">
+													<!--<i class="ace-icon fa fa-comment-o"></i>-->
+												</div>
+											</div>
+										</div>
+
+
+										<div class="hr hr-18 dotted"></div>
+
+										<div class="form-group no-margin-bottom">
+											<label class="col-sm-3 control-label no-padding-right">Playlist CSV:</label>
+
+											<div class="col-sm-9">
+												<div id="form-attachments">
+													<div class="form-group file-input-container">
+                                                                                                            <div class="col-sm-7">
+                                                                                                                <!--<label class="ace-file-input width-90 inline"><input type="file" name="attachment"><span data-title="Choose" class="ace-file-container"><span data-title="No File ..." class="ace-file-name"><i class=" ace-icon fa fa-upload"></i></span></span><a href="#" class="remove"><i class=" ace-icon fa fa-times"></i></a></label>-->
+                                                                                                                <input name="playlistfile" type="file" id="id-input-file-2" />
+                                                                                                            </div>
+                                                                                                        </div>
+												</div>
+											</div>
+										</div>
+
+										<div class="align-right">
+											<button class="btn btn-sm btn-danger" onClick="submitForm();" type="button" id="id-add-attachment">
+												<i class="ace-icon fa fa-paperclip bigger-140"></i>
+												Save Playlist
+											</button>
+										</div>
+
+										<div class="space"></div>
+									</div>
+								</form>
+                    </div>
+                    <div id="preview-template" class="hide">
+                        <div class="dz-preview dz-file-preview">
+                            <div class="dz-image">
+                                <img data-dz-thumbnail="" />
+                            </div>
+                            <div class="dz-details">
+                                <div class="dz-size">
+                                    <span data-dz-size=""></span>
+                                </div>
+                                <div class="dz-filename">
+                                    <span data-dz-name=""></span>
+                                </div>
+                            </div>
+                            <div class="dz-progress">
+                                <span class="dz-upload" data-dz-uploadprogress=""></span>
+                            </div>
+                            <div class="dz-error-message">
+                                <span data-dz-errormessage=""></span>
+                            </div>
+                            <div class="dz-success-mark">
+                                <span class="fa-stack fa-lg bigger-150">
+                                <i class="fa fa-circle fa-stack-2x white"></i>
+                                <i class="fa fa-check fa-stack-1x fa-inverse green"></i>
+                                </span>
+                            </div>
+                            <div class="dz-error-mark">
+                                <span class="fa-stack fa-lg bigger-150">
+                                <i class="fa fa-circle fa-stack-2x white"></i>
+                                <i class="fa fa-remove fa-stack-1x fa-inverse red"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- PAGE CONTENT ENDS -->
+                </div>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.page-content -->
+    </div>
+</div>
+<!-- /.main-content -->
+
+
+{% endblock %}
+{% block javascripts %}
+    <script>
+
+$(function(){
+  Dropzone.options.dropzone = {
+    //maxFilesize: 5,
+    addRemoveLinks: true,
+    dictResponseError: 'Server not Configured',
+    acceptedFiles: ".csv",
+    init:function(){
+      var self = this;
+      // config
+      self.options.addRemoveLinks = true;
+      self.options.dictRemoveFile = "Ok";
+      //New file added
+      self.on("addedfile", function (file) {
+        console.log('new file added ', file);
+      });
+      // Send file starts
+      self.on("sending", function (file) {
+        console.log('upload started', file);
+        $('.meter').show();
+      });
+      
+      // File upload Progress
+      self.on("totaluploadprogress", function (progress) {
+        console.log("progress ", progress);
+        $('.roller').width(progress + '%');
+      });
+
+      self.on("queuecomplete", function (progress) {
+        $('.meter').delay(999).slideUp(999);
+      });
+      
+      // On removing file
+      self.on("removedfile", function (file) {
+        console.log(file);
+      });
+    },
+    success:function(file, response)
+        {
+            // Do what you want to do with your response
+            // This return statement is necessary to remove progress bar after uploading.
+            return file.previewElement.classList.add("dz-success");
+        }
+  };
+})
+
+				$('#id-input-file-1 , #id-input-file-2').ace_file_input({
+					no_file:'No File ...',
+					btn_choose:'Choose',
+					btn_change:'Change',
+					droppable:false,
+					onchange:null,
+					thumbnail:false //| true | large
+					//whitelist:'gif|png|jpg|jpeg'
+					//blacklist:'exe|php'
+					//onchange:''
+					//
+				});
+                                
+        function submitForm() {
+            console.log("submit event");
+            var fd = new FormData(document.getElementById("id-message-form"));
+            fd.append("label", "WEBUPLOAD");
+            $.ajax({
+              url: "{{ path('playlist_upload_process') }}",
+              type: "POST",
+              data: fd,
+              dataType: "json",
+              processData: false,  // tell jQuery not to process the data
+              contentType: false   // tell jQuery not to set contentType
+            }).done(function( dataArr ) {
+                if(dataArr['error']){
+                    alert(dataArr['error']);
+                }
+                if(dataArr['sucess']){
+                    alert(dataArr['sucess']);
+                    window.location = "{{ path('playlist_upload') }}";
+                }
+            });
+            return false;
+        }
+                </script>
+{% endblock %}

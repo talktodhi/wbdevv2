@@ -1,0 +1,1253 @@
+PlayerStatus,TokenId,PlayerNo,PlayerName,Location,plType,PlayerGroup,FileCount,PlayerVersion,token,CurrentPlaylist,CurrentPlaylistFileCount
+Offline,720,720,IAP TV Test 1,IAP TV Test 1,Android,,42/43,1.1,used,,0/0
+Offline,721,721,IAP TV Test 2,IAP TV Test 2,Android,,1/111,1.1,used,,0/0
+Offline,722,722,IAP TV Test 3,IAP TV Test 3,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,723,FHRD-FEPF-AGFM-AOPD-DPWL,IAP TV Test 4,IAP TV Test 4,Android,,0/43,1.0,FHRD-FEPF-AGFM-AOPD-DPWL,,0/0
+Offline,724,FQRV-DXCJ-BYAX-FIYI-BZCM,IAP TV Test 5,IAP TV Test 5,Android,,0/43,1.0,FQRV-DXCJ-BYAX-FIYI-BZCM,,0/0
+Offline,725,FRIT-DQSH-BSNN-BPNP-EQVM,IAP TV Test 6,IAP TV Test 6,Android,,0/43,1.0,FRIT-DQSH-BSNN-BPNP-EQVM,,0/0
+Offline,726,726,IAP TV Test 7,IAP TV Test 7,Android,,20/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,727,IAPTV0000001,Rashmi Anandani,Sector 110,Android,,10/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,728,IAPTV0000002,Tejaswini Jadhav,Pashan Link Road ,Android,,0/43,1.0,used,,0/0
+Offline,729,IAPTV0000003,Kusum Gupta,Patparganj,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,750,IAPTV0000004,Anil Gulati,Naraina Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,751,IAPTV0000005,Sabiha Gulammohiuddin Shaikh,NIBM road  Kandhwa,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,752,IAPTV0000006,Nilima Patil,Sector 8 Airoli,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,753,IAPTV0000007,Kanav Anand,Patel Nagar,Android,,17/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,754,IAPTV0000008,,,Android,,0/43,1.0,used,,0/0
+Online,755,IAPTV0000009,,,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,756,IAPTV0000010,Veenu Singhal,Paschim Vihar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,757,IAPTV0000011,Lalit Mani,Karampura,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,758,IAPTV0000012,Vijay Hedao,Periwinkle Society,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,759,IAPTV0000013,Ankur Sethi,Sector 76,Android,,0/43,1.0,used,,0/0
+Online,760,IAPTV0000014,Ujjwala Keskar,Vishal Nagar,Android,,25/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Recent,761,IAPTV0000015,Piyush Gupta,Pitampra,Android,,34/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,762,IAPTV0000016,Vishal Vaidya,Sector 22,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,763,IAPTV0000017,Ramesh Aggarwal,Sector 20  Rohini,Android,,0/43,1.0,used,,0/0
+Recent,764,IAPTV0000018,Chaya Gupta,Ashok Vihar  Phase-3,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,765,IAPTV0000019,Bharat Bhusan,Hari Nagar,Android,,42/43,1.1,used,,0/0
+Online,766,IAPTV0000020,K K Verma,Paschim Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,767,IAPTV0000021,,,Android,,0/43,1.0,used,,0/0
+Online,768,IAPTV0000022,Seema Gavali,Kunal Icon Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,769,IAPTV0000023,Piyush Jain,Rishab Vihar,Android,,0/43,1.0,used,,0/0
+Offline,770,IAPTV0000024,Nishant Bhalla,Sector-3  Rohini,Android,,37/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,771,IAPTV0000025,,,Android,,0/43,1.0,CRDX-DLUW-DTXF-CLHB-DSVV,,0/0
+Online,772,IAPTV0000026,Dhanashree Deshmukh,Wadala East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,773,IAPTV0000027,Satvinder Kapoor,Paschim Vihar,Android,,0/43,1.0,used,,0/0
+Offline,774,IAPTV0000028,M K Jhamb,Shalimar Bagh,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,775,IAPTV0000029,Rajeev D. Joshi,Bibwewadi,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Away,776,IAPTV0000030,Vipul Baweja,Paschim Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,777,IAPTV0000031,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,778,IAPTV0000032,Dinesh Kumar Singh,Andheri East,Android,,42/43,1.1,used,,0/0
+Offline,779,IAPTV0000033,Ashish Sahani,Inni Devi Marg,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,780,IAPTV0000034,Vinay Kumar Rai,South Extention-2,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,781,IAPTV0000035,Richa Arora Agarwal,Sector 11  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,782,IAPTV0000036,,,Android,,0/43,1.0,used,,0/0
+Online,783,IAPTV0000037,Mahesh Dilip Shinde,Hadapar Gadital,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,784,IAPTV0000038,,,Android,,10/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,785,IAPTV0000039,Mumtaz Sharif,Sector 23  Nerul ast,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,786,IAPTV0000040,Rajiv Goel,Sector-22  Rohini,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,787,IAPTV0000041,,,Android,,0/43,1.0,used,,0/0
+Online,788,IAPTV0000042,Nidhish Kumar Gupta,Sector 93,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,789,IAPTV0000043,Sarika Shinde,Someshwarwadi  Pashan,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Online,790,IAPTV0000044,Gopal Samdani,Pimple Saudagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,791,IAPTV0000045,Ajit Saxena,Sector 11,Android,,5/43,1.1,used,,0/0
+Offline,792,IAPTV0000046,Manish Gupta,Sector 7 Dwarka,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,793,IAPTV0000047,Manjoo Gupta,Kamla Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,4/43
+Online,794,IAPTV0000048,Mohan Bhagwant Zambre,Erandwane,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,795,IAPTV0000049,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,796,IAPTV0000050,,,Android,,0/43,1.0,used,,0/0
+Offline,797,IAPTV0000051,,,Android,,23/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,798,IAPTV0000052,U. B Lall,Kailash Colony,Android,,29/43,1.1,used,,0/0
+Offline,799,IAPTV0000053,Sunil Mehendiratta,Janak Puri,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,800,IAPTV0000054,Manu Agarwal,Vasant Kunj,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,801,IAPTV0000055,,,Android,,0/43,1.0,used,,0/0
+Offline,802,IAPTV0000056,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,803,IAPTV0000057,Zahid Ali,Shaheen Bagh,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,804,IAPTV0000058,J P Singh,Shakti Nagar,Android,,31/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,805,IAPTV0000059,,,Android,,1/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,806,IAPTV0000060,Dushyant V Punwani,Andheri West,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,807,IAPTV0000061,Atul Kumar Sirohi,Pratab Viha,Android,,41/43,1.1,used,,0/0
+Offline,808,IAPTV0000062,Deepak Chana Pande,Krishna Nagar,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,809,IAPTV0000063,Mubashshir Muzammil Khan,Dombivili East,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,810,IAPTV0000064,Parul Gupta,Nangloi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,811,IAPTV0000065,,,Android,,0/43,1.0,used,,0/0
+Offline,812,IAPTV0000066,Deen Dayal Shakya,Sector-24  Rohini,Android,,24/43,1.1,used,,0/0
+Offline,813,IAPTV0000067,Sp Sharma,Sector 51,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,814,IAPTV0000068,Atul Kumar Maheshwari,Sector 108,Android,,0/43,1.0,used,,0/0
+Offline,815,IAPTV0000069,Rajiv Arora,Shakti Vihar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,816,IAPTV0000070,Vasant Y Mahajan,Ambernath East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,817,IAPTV0000071,Arun Gupta,Shalimar Bagh,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,818,IAPTV0000072,Sonali Amit Mutha,Near Tanwar Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/129
+Offline,819,IAPTV0000073,Nandini Aggarwal,Friends Colony,Android,,42/43,1.1,used,,0/0
+Offline,820,IAPTV0000074,,,Android,,0/43,1.0,used,,0/0
+Offline,821,IAPTV0000075,Hemajyoti Pahwa,Indirapuram,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,822,IAPTV0000076,,,Android,,0/43,1.0,used,,0/0
+Offline,823,IAPTV0000077,Raghavena Narayan Singh,Sector-7  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,824,IAPTV0000078,Kuldeep Khanna,Pitampura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,825,IAPTV0000079,,,Android,,0/43,1.0,used,,0/0
+Offline,826,IAPTV0000080,Tina Goel,Sector-11  Dwarkar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,827,IAPTV0000081,Pankaj Garg,Kavi Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,828,IAPTV0000082,Manish Ashok Shah,Sinhagad Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,829,IAPTV0000083,Devidas Mate,Kaneri Biwandi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,830,IAPTV0000084,Namrata Patel,Becpverli Park,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,831,IAPTV0000085,M M Gupta,Shakti Nagar Chowk,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,832,IAPTV0000086,,,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,833,IAPTV0000087,Dinesh Agarwal,Patparganj,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,834,IAPTV0000088,Sandeep Gupta,Pitampura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,835,IAPTV0000089,Anupam Sachdeva,Madhuban Chowk,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,836,IAPTV0000090,Subhash C Sapra,Shakti Nagar,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,837,IAPTV0000091,Shweta Gupta,Sector-4  Dwarka,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,838,IAPTV0000092,Priyanka Jain,Sector-52,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,839,IAPTV0000093,Jasjit Singh Bhasin,Rajinder Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,840,IAPTV0000094,R K Malik Malik,Vasant Vihar,Android,,0/43,1.0,used,,0/0
+Offline,841,IAPTV0000095,Samir Sheikh,Mira Bhayandar Highway,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,842,IAPTV0000096,Naveen Garg,Sector-12,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,843,IAPTV0000097,,,Android,,34/43,1.1,used,,0/0
+Offline,844,IAPTV0000098,Vikram Mardhekar,Chinpokli West,Android,,21/43,1.1,used,,0/0
+Offline,845,IAPTV0000099,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,846,IAPTV0000100,,,Android,,41/43,1.1,used,,0/0
+Offline,847,IAPTV0000101,Prakash Vir Tyagi,Maharani Bagh,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,848,IAPTV0000102,Manbir Singh Sarna,Prashant Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,849,IAPTV0000103,Bharat Balani,Kamla Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,850,IAPTV0000104,Rajeev Gupta,Krishna Nagar,Android,,1/43,1.1,used,,0/0
+Offline,851,IAPTV0000105,A. H Chowdhury,Mehrauli Bus Stand,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,852,IAPTV0000106,Shekhar Biswas,Sector-16  Rohini,Android,,38/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,853,IAPTV0000107,Nagena Gupta,Sector-16  Rohini,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,854,IAPTV0000108,Kaushal Kumar Pandey,Sector-5,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,855,IAPTV0000109,Anupama Patki,Sanewadi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,856,IAPTV0000110,Rashmi Sujay Naik,Nighi Pradhikaran,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,857,IAPTV0000111,Ravinder Singh Bajaj,Sector-13  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,858,IAPTV0000112,Rachana Wagmare,Tingre Nagar,Android,,32/43,1.1,used,,0/0
+Offline,859,IAPTV0000113,Deepak Anand Mulay,Sinhagad Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,860,IAPTV0000114,Manjusha Amol Goje,Magarpatta City,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,861,IAPTV0000115,Anthony Thekkinedath,Sector 57,Android,,4/43,1.1,used,,0/0
+Offline,862,IAPTV0000116,,,Android,,0/43,1.0,used,,0/0
+Offline,863,IAPTV0000117,Pallav Rastogi,Kavi Nagar,Android,,0/43,1.0,used,,0/0
+Offline,864,IAPTV0000118,,,Android,,0/43,1.0,used,,0/0
+Offline,865,IAPTV0000119,Ninad Shivaji Mahale,Pimple Saudagar,Android,,0/43,1.0,used,,0/0
+Online,866,IAPTV0000120,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,867,IAPTV0000121,Krishnamohan Jonnalagadda,Viman Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,868,IAPTV0000122,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,869,IAPTV0000123,Pavan Daga Suryawanshi,Chikhalikar Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,870,IAPTV0000124,,,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/86
+Online,871,IAPTV0000125,Ramesh Subramanian Iyer,Thane West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,872,IAPTV0000126,Anil Sachdeva,Rajinder Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,873,IAPTV0000127,Vipin Jain,Sector-49,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,874,IAPTV0000128,Surender Yadav,Sector-12A  Dwarka,Android,,11/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,875,IAPTV0000129,Abhijit Kale,Bavdhan,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,876,IAPTV0000130,Seema Shekhar Sudame,Akurdi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,877,IAPTV0000131,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,878,IAPTV0000132,Tushar Parikh,Kalyani Nagar,Android,,0/43,1.0,used,,0/0
+Online,879,IAPTV0000133,Barnali Bhattacharya,Mumbai Pune Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,880,IAPTV0000134,Anuj Jain,Prashant Vihar,Android,,1/43,1.1,used,,0/0
+Offline,881,IAPTV0000135,Anuradha Mittal,Indirapuram,Android,,41/43,1.1,used,,0/0
+Online,882,IAPTV0000136,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,883,IAPTV0000137,Pravin Dharaskar,Dehu Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,884,IAPTV0000138,Anuj Sehgal,Pitampura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,885,IAPTV0000139,R. K. Gupta,Yamuna Vihar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,886,IAPTV0000140,Pramey Mehta,Sector-12  Dwarka,Android,,18/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,887,IAPTV0000141,Nvnath Jadhav,Dighi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,888,IAPTV0000142,,,Android,,41/43,1.1,used,,0/0
+Offline,889,IAPTV0000143,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,890,IAPTV0000144,Hemant Jain,Roop Nagar,Android,,0/43,1.0,used,,0/0
+Offline,891,IAPTV0000145,Shishir Bhatnagar,Sector-52,Android,,0/43,1.0,used,,0/0
+Online,892,IAPTV0000146,Rakesh Sharma,Sector-35,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,893,IAPTV0000147,R.D Srivastava,Pitampura,Android,,5/43,1.1,used,,0/0
+Offline,894,IAPTV0000148,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,895,IAPTV0000149,,,Android,,0/43,1.0,used,,0/0
+Offline,896,IAPTV0000150, Captain Ramchandani,Ulhashnagar,Android,,22/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,897,IAPTV0000151,Sushil Tyagi,Patel Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,898,IAPTV0000152,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,899,IAPTV0000153,,,Android,,0/43,1.0,used,,0/0
+Offline,900,IAPTV0000154,Parul Gupta,West Model town,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,901,IAPTV0000155,Ritu Gupta,Sector-17,Android,,42/43,1.1,used,,0/0
+Offline,902,IAPTV0000156,Rajiv Garg,Raj Nagar,Android,,42/43,1.1,used,,0/0
+Offline,903,IAPTV0000157,Satyajit D Pathak,Shivajinagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,904,IAPTV0000158,Rushikesh Sham Damle,Patra Maruti Chowk,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,905,IAPTV0000159,Shalini Tyagi,Sector-62,Android,,42/43,1.1,used,,0/0
+Offline,906,IAPTV0000160,Ravina Khetre,Wadgoan,Android,,27/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,907,IAPTV0000161,Manoj Anand Gupta,Alipur Road,Android,,42/43,1.4,used,PL-IAP-01-ENHI-151217-V1,42/43
+Offline,908,IAPTV0000162,Shishir Srivastava,Lazpat Nagar,Android,,0/43,1.0,used,,0/0
+Offline,909,IAPTV0000163,Meena Dhama,Sector-34,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,910,IAPTV0000164,Ashish Dhongade,DSK Ranwane Road,Android,,18/43,1.1,used,,0/0
+Offline,911,IAPTV0000165,Pramod Prabhakar Jog,Aundh,Android,,0/43,1.0,used,,0/0
+Online,912,IAPTV0000166,Anil Kumar Pant,Hari Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,913,IAPTV0000167,,,Android,,0/43,1.0,used,,0/0
+Online,914,IAPTV0000168,Shweta Pathak,Dividing Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,915,IAPTV0000169,Neha Shah,Gorai-2,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,916,IAPTV0000170,Manish Vilasrao Dadpe,Karvnagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,917,IAPTV0000171,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,918,IAPTV0000172,Naresh Mongia,Pitampura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,919,IAPTV0000173,Vivek Goswami,Sector-29,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,920,IAPTV0000174,Sunil Mehra,Kailash Colony,Android,,17/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,921,IAPTV0000175,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,922,IAPTV0000176,Swapnil Taranath Janbandhu,Datta Mandir Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,923,IAPTV0000177,,,Android,,0/43,1.0,used,West & North,0/1
+Offline,924,IAPTV0000178,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,925,IAPTV0000179,Parag Chanakant Bhole,Bail Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,926,IAPTV0000180,Rahul Nagpal,Sector-D,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,927,IAPTV0000181,,,Android,,0/43,1.0,used,,0/0
+Offline,928,IAPTV0000182,Nitin Verma,Friends Colony,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Online,929,IAPTV0000183,Rajat Agarwal,Tri Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,930,IAPTV0000184,Kalyani Patra,Kamothe,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,931,IAPTV0000185,Durgaprasad Dhudaku Marathe,Chikhalikar Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,932,IAPTV0000186,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,933,IAPTV0000187,Archana Rajena Latkar,D.P Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,934,IAPTV0000188,Rajinder Khanna,NIT,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,935,IAPTV0000189,Ruchira Maheshwari Gupta,Secor-19,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,936,IAPTV0000190,Dilip Kumar,Secto-6,Android,,3/43,1.1,used,,0/0
+Online,937,IAPTV0000191,Sudhakar Mohan,Near Arya Public School,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Online,938,IAPTV0000192,K.K. Singhal,Vasundhra,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,939,IAPTV0000193,Mridu Jain Sehgal,Meera Bagh,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,940,IAPTV0000194,Puneet Madan,New Rail Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,941,IAPTV0000195,Sanjay Chavan,Tanajinaagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,942,IAPTV0000196,Mahavir Singh Tomar,Sector-18  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,943,IAPTV0000197,Anil Kumar Seth,Sahibabad,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,944,IAPTV0000198,Rajena Karambelkar,Dehu Road,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,945,IAPTV0000199,,,Android,,0/43,1.0,used,,0/0
+Online,946,IAPTV0000200,Subhash Siamappa Malge,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,947,IAPTV0000201,Bharat Bhushan,Rail Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,948,IAPTV0000202,,,Android,,0/43,1.0,used,,0/0
+Online,949,IAPTV0000203,Alok Dwivedi,Sector-78,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,950,IAPTV0000204,Padmaja Amol Kirtane,Bhandup East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,951,IAPTV0000205,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,952,IAPTV0000206,,,Android,,0/43,1.0,used,,0/0
+Offline,953,IAPTV0000207,Sagar Lad,Pashan Link Road ,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,954,IAPTV0000208,H P Singh,Sector-4,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,955,IAPTV0000209,Subhash Patil,Vishtrantwadi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,956,IAPTV0000210,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,957,IAPTV0000211,Amita Shenoy,Kandivali West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,958,IAPTV0000212,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,959,IAPTV0000213,Kalpana Sangle,Airport road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,960,IAPTV0000214,Sanjay Vasantrao Bagade,Telco Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,961,IAPTV0000215,Pralhad Dnyanoba Pote,Magarpatta City,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,962,IAPTV0000216,Naveen Jain,Pitampura,Android,,41/43,1.1,used,,0/0
+Offline,963,IAPTV0000217,Deepak Ahuja,Phase-4,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,964,IAPTV0000218,Vipul Jain,Janak Puri,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,965,IAPTV0000219,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,966,IAPTV0000220,Kamlesh Uday Patil,Hajimalang Road,Android,,29/43,1.1,used,,0/0
+Online,967,IAPTV0000221,Parmeshwar Manohar Chandwade,Hadapsar ,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,968,IAPTV0000222,Ajit Oak,Dombivili East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,969,IAPTV0000223,Amol Bhor,Dhanori,Android,,41/43,1.1,used,,0/0
+Online,970,IAPTV0000224,Yogesh Vasudeo Satav,Solapur Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,971,IAPTV0000225,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,972,IAPTV0000226,Arvind Dhar,Malad East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,973,IAPTV0000227,Abhimanyu Sengupta,Parihar Chowk,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,974,IAPTV0000228,Anil Agarwal,Nehru Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,975,IAPTV0000229,Shivdhani Yadav,Mira Road East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,976,IAPTV0000230,Kamlesh Kumar Verma,Delhi,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,977,IAPTV0000231,,,Android,,0/43,1.0,used,,0/0
+Offline,978,IAPTV0000232,V.P. Dhobhal,Ghaziabad,Android,,30/43,1.1,used,,0/0
+Offline,979,IAPTV0000233,Mamta Verma,Kaspate Wasti  Wakad,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,980,IAPTV0000234,Dilip Nanal,Rajouri Garden,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,981,IAPTV0000235,Prashant Darandale,Thane West,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,982,IAPTV0000236,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,983,IAPTV0000237,Uma Venkateswaran,Mumbai,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,984,IAPTV0000238,Pankaj Garg,Sector-16,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,985,IAPTV0000239,Bhanudas Namdeo Kalamkar,Secor-19,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,986,IAPTV0000240,Arun Chander Dhup,Raj Nagar Part 1,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,987,IAPTV0000241,Subhash Chana,Crossing Republic,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,988,IAPTV0000242,Praveenkumar Jain,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,989,IAPTV0000243,Anees Ansari,Bhiwandi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,990,IAPTV0000244,Suresh Goyal,Agra Road,Android,,33/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,991,IAPTV0000245,,,Android,,0/43,1.0,used,,0/0
+Offline,992,IAPTV0000246,Sunil Devichand Lohade,Chinchwad Station,Android,,0/43,1.0,used,,0/0
+Online,993,IAPTV0000247,Dinesh Kumar Tyagi,Patel Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,994,IAPTV0000248,Mohit Ghai,New Vijay Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,995,IAPTV0000249,Pradyumna Jayant Ratnakar,Raje Shivaji Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,996,IAPTV0000250,,,Android,,41/43,1.1,used,,0/0
+Online,997,IAPTV0000251,Manoj Jagmohanlal Mahajan,Shivdham,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,998,IAPTV0000252,Mateen Pervez,Shaheen Bagh,Android,,0/43,1.0,used,,0/0
+Online,999,IAPTV0000253,Absar Ahmad,Jamaia Nagar,Android,,10/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Offline,1000,IAPTV0000254,Parag Bajirao Gaikwad,More Baugh,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1001,IAPTV0000255,Shashi Grover,Sector-3,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1002,IAPTV0000256,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1003,IAPTV0000257,Aparana Rajesh Mishra,Kondwa Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1004,IAPTV0000258,Pankaj Mehta,Sector-9,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1005,IAPTV0000259,N.K. Jain,Adjoining Guruwara,Android,,0/43,1.0,used,,0/0
+Offline,1006,IAPTV0000260,Dilip Bagal,Tarakpura Bus stand,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1007,IAPTV0000261,Rajkumar Samb Ganacharya,Kondwa Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1008,IAPTV0000262,,,Android,,0/43,1.0,used,,0/0
+Offline,1009,IAPTV0000263,,,Android,,0/43,1.0,used,,0/0
+Online,1010,IAPTV0000264,Rajesh Kumar,Palam Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1011,IAPTV0000265,R. P. Soni,East of Loni Shardara,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1012,IAPTV0000266,Ashok Dubey,Near kolsewadi police station,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1013,IAPTV0000267,,,Android,,0/43,1.0,used,,0/0
+Offline,1014,IAPTV0000268,Vikas More,Anand Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1015,IAPTV0000269,Chunilal Malde,Bhiwandi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1016,IAPTV0000270,Arun Kumar,Nehru Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1017,IAPTV0000271,Sham Shivaji Bhosale,Karevenagar,Android,,14/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1018,IAPTV0000272,Shashikant Dudhgaonkar,Sadan,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1019,IAPTV0000273,Samir Shinde,Goregoan East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1020,IAPTV0000274,Subhash Narena Rao,Vashi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1021,IAPTV0000275,Arun Kumar Agrawal,Danna Road,Android,,42/43,1.1,used,,0/0
+Offline,1022,IAPTV0000276,Chhaya Lad,Thergoan,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1023,IAPTV0000277,Ramesh Venkatraman Iyer,Powai,Android,,38/43,1.4,used,PL-IAP-01-ENHI-151217-V1,38/43
+Online,1024,IAPTV0000278,Harish Lapsia,Ambernath East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1025,IAPTV0000279,Arun Dubey,Mira Road ,Android,,42/43,1.1,used,,0/0
+Offline,1026,IAPTV0000280,Ashish Ashok Vora,Karevenagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1027,IAPTV0000281,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1028,IAPTV0000282,Durwas Bhausahebh Kurkute,Hadapsar ,Android,,30/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1029,IAPTV0000283,Ashok Bhowalka,Kavi Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1030,IAPTV0000284,Lala M Jadhav,Chandan Nagar,Android,,13/43,1.1,used,,0/0
+Offline,1031,IAPTV0000285,Madhav Sheshrao Chavan,Kalewadi Road,Android,,0/43,1.0,used,,0/0
+Online,1032,IAPTV0000286,Uttam Narsingrao Kotambe,Dombivili East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1033,IAPTV0000287,Ajay Arora,Rail Road,Android,,31/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1034,IAPTV0000288,Mangalmoorti Bhalerao,Shitole Nagar,Android,,9/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1035,IAPTV0000289,Nikhil Prabhakar Burute,Pimpri Colony,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1036,IAPTV0000290,Prabhakar Burute,Pimpri Colony,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1037,IAPTV0000291,Jagadish Vasant Dhekne,Nigdi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1038,IAPTV0000292,Jyoti Bhatia,Sector-47,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Away,1039,IAPTV0000293,,,Android,,19/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1040,IAPTV0000294,Sunil Kumar Nakra,Kailash Colony,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1041,IAPTV0000295,,,Android,,0/43,1.0,CELK-ACCM-CNEC-ELPK-CNZI,,0/0
+Offline,1042,IAPTV0000296,Sanjay Bafna,Fatima Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1043,IAPTV0000297,Jaipratibha Varshney,Hadapsar ,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1044,IAPTV0000298,Purnima Adlakha,Pitampura,Android,,42/43,1.1,used,,0/0
+Online,1045,IAPTV0000299,Sushma Vaidya,Vishtrantwadi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1046,IAPTV0000300,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1047,IAPTV0000301,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1048,IAPTV0000302,Amol Madhukarrao Saswade,Wagholi,Android,,34/43,1.1,used,,0/0
+Offline,1049,IAPTV0000303,Vikas Jain,Sector-46,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1050,IAPTV0000304,Nirmala Dharap,Deep Bungalo Chowk,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1051,IAPTV0000305,Mahenakumar Bangar,Lodha Haven,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1052,IAPTV0000306,,,Android,,31/43,1.1,used,,0/0
+Offline,1053,IAPTV0000307,Rajiv R Balan,Andheri East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Away,1054,IAPTV0000308,Anand K Shandilya,Jogeshwari,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1055,IAPTV0000309,Arun Wadhwa,Kailash Colony,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1056,IAPTV0000310,Anil K Kalra,Paschim Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,1057,IAPTV0000311,Deepak Gautam,Janak Puri,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1058,IAPTV0000312,Ankur Mittal,Tri Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Online,1059,IAPTV0000313,Mumtaz Doongerwala,Andheri west,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1060,IAPTV0000314,Sunil Shah,Mahim West,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1061,IAPTV0000315,Rajkumar Sharma,Bhayandar West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1062,IAPTV0000316,Anurag Budhiraja,West Burari,Android,,0/43,1.0,used,,0/0
+Offline,1063,IAPTV0000317,,,Android,,37/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1064,IAPTV0000318,Hemraj Ingale,Ram Nagar,Android,,13/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1065,IAPTV0000319,,,Android,,39/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1066,IAPTV0000320,Praveen Mody,Airoli  Sector-19,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1067,IAPTV0000321,Sooja Moorthy,Andheri East,Android,,0/43,1.0,used,,0/0
+Offline,1068,IAPTV0000322,Jamil S Mukaddam,Andheri East,Android,,0/43,1.0,used,,0/0
+Offline,1069,IAPTV0000323,Balkrishna N Maheshwari,Andheri West,Android,,41/43,1.1,used,,0/0
+Online,1070,IAPTV0000324,Bharat Sangani,Andheri West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1071,IAPTV0000325,Indu Khosla,Andheri West,Android,,41/43,1.1,DXXV-ESZD-DZAM-EBEU-FNCS,,0/0
+Online,1072,IAPTV0000326,Tushar H Maniar,Andheri West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1073,IAPTV0000327,Sandeep R Thorat,Bandra East,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1074,IAPTV0000328,Rajesh R Chokhani,Bandra West,Android,,42/43,1.1,used,,0/0
+Offline,1075,IAPTV0000329,K Bothra,Bhandup West,Android,,41/43,1.1,used,,0/0
+Offline,1076,IAPTV0000330,K Anil Mohan 
+,Bhandup West,Android,,42/43,1.1,used,,0/0
+Offline,1077,IAPTV0000332,Radha Balaji,Bhandup West,Android,,38/43,1.1,used,,0/0
+Offline,1078,IAPTV0000333,Rajeev B Agarwal,Bhayandar West,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1079,IAPTV0000334,Anuradha A Joshi,Bhayandar East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1080,IAPTV0000335,Amod S Potnis,Bhayandar East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1081,IAPTV0000336,Pooja Parikh
+,Borivali West,Android,,41/43,1.2,DSNC-CXVW-BZDH-CIWS-BPRY,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1082,IAPTV0000338,Ramnath Aiyer,Borivali West,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1083,IAPTV0000339,Hema S Rane 
+,Borivali West,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1084,IAPTV0000341,Amardeep P Garad,Navi Mumbai,Android,,0/43,1.0,used,,0/0
+Offline,1085,IAPTV0000342,Sheenu Gupta,Belapur,Android,,37/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/129
+Offline,1086,IAPTV0000343,Bharat J Parmar,Opera House,Android,,0/43,1.0,used,,0/0
+Offline,1087,IAPTV0000344,Chhaya A Kushwaha,Chembur,Android,,41/43,1.1,used,,0/0
+Offline,1088,IAPTV0000345,Anjana Thadhani,Chembur,Android,,1/43,1.1,used,,0/0
+Online,1089,IAPTV0000346,Uday Pai,Chembur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1090,IAPTV0000347,Gajena K Raote,Chembur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1091,IAPTV0000348,Shrihari D Patwardhan,Chembur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1092,IAPTV0000349,Vivasvan B Parekh,Chembur East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1093,IAPTV0000350,Vijay G Tuteja,Sion,Android,,42/43,1.1,used,,0/0
+Online,1094,IAPTV0000351,Sunil N Kamat,Dombivili East,Android,,20/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1095,IAPTV0000352,Rahul P Bhirud,Dombivili West,Android,,0/43,1.0,used,,0/0
+Offline,1096,IAPTV0000353,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,1097,IAPTV0000354,Kapil Ashok Magare,Dombivili West,Android,,27/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1098,IAPTV0000355,Kiran G Maheshwari,Ghansoli,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1099,IAPTV0000356,Bakul Jayant Parekh,Ghatkopar East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1100,IAPTV0000357,Ketan Parikh,Ghatkopar East,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1101,IAPTV0000358,Pravin J Mehta,Ghatkopar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1102,IAPTV0000359,Deep Parekh,Kalyan,Android,,5/43,1.1,used,,0/0
+Online,1103,IAPTV0000360,Bharat M Parekh,Ghatkopar East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1104,IAPTV0000361,Sanjaykumar R Pathak,Ghatkopar West,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1105,IAPTV0000362,Alpa Shah,Govandi East,Android,,0/43,1.0,used,,0/0
+Offline,1106,IAPTV0000363,Amol S Deshmukh,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,1107,IAPTV0000364,Vidya Kamath,Jogeshwari,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1108,IAPTV0000365,Cyril D'Souza,Mumbai,Android,,37/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1109,IAPTV0000366,Uddhav Jalnikar (Khilare),Navi Mumbai,Android,,41/43,1.1,used,,0/0
+Offline,1110,IAPTV0000367,Santosh Biradar,Navi Mumbai,Android,,23/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1111,IAPTV0000368,Pankaj Saste,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1112,IAPTV0000369,Prashant S Moralwar,Navi Mumbai,Android,,0/43,1.0,used,,0/0
+Offline,1113,IAPTV0000370,Prabhakar B Pande,Navi Mumbai,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1114,IAPTV0000371,Hemprabha Dwivedi,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1115,IAPTV0000372,Bharti Gurnani,Navi Mumbai,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1116,IAPTV0000373,Rupesh R Mendadkar,Kurla East ,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1117,IAPTV0000374,Jayant R Nadkarni,Kurla East ,Android,,10/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1118,IAPTV0000375,Madhura Mali,Kurla west,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1119,IAPTV0000376,Maulik Shah,Malad West,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1120,IAPTV0000377,Chirag Shah,Malad West,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1121,IAPTV0000378,Vinay Mishra,Mulund West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1122,IAPTV0000379,Jayesh N Sheth 
+,Mulund West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1123,IAPTV0000381,Nandini Shah
+,Mulund West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1124,IAPTV0000383,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1125,IAPTV0000384,,,Android,,0/43,1.0,used,,0/0
+Online,1126,IAPTV0000385,Upena S Kinjawadekar,Nerul,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1127,IAPTV0000386,Asma N Mujawar,Panvel,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,1128,IAPTV0000387,Mahesh Sambhare,Panvel,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1129,IAPTV0000388,Mangai Sinha,Sanpada  Sector 14,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1130,IAPTV0000389,Aparna S Pakale,Sanpada  Sector 8,Android,,32/43,1.1,used,,0/0
+Offline,1131,IAPTV0000390,Madhavi R Ingale,Sanpada  Sector 1,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1132,IAPTV0000391,Ks Vaswani,Sanpada  Sector 13,Android,,0/43,1.0,used,,0/0
+Offline,1133,IAPTV0000392,Sanjeevani S Masavkar,Sion ,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1134,IAPTV0000393,Dignath Jagger,Thane East,Android,,42/43,1.1,used,,0/0
+Offline,1135,IAPTV0000394,Abhay K Marathe,Kalwa West,Android,,0/43,1.0,used,,0/0
+Offline,1136,IAPTV0000395,Shanta Haridas,Thane,Android,,10/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,1137,IAPTV0000396,Neeta Sane,Thane west,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1138,IAPTV0000397,Ashok Kumar Vij,Thane west,Android,,41/43,1.1,used,,0/0
+Offline,1139,IAPTV0000398,Bhavesh Mithiya
+,Thane west,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1140,IAPTV0000400,Kashish Panjwani,Thane west,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1141,IAPTV0000401,Meenal N Chitnis,Thane west,Android,,41/43,1.1,CHPD-CRWQ-BERC-DOAX-EVPN,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1142,IAPTV0000402,Sneha M Kokate,Thane west,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1143,IAPTV0000403,Ujwala Rajesh Pathak,Thane west,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1144,IAPTV0000404,Grivita M Raikar,Thane west,Android,,0/43,1.0,used,,0/0
+Offline,1145,IAPTV0000405,Sandeep M Kelkar,Thane west,Android,,41/43,1.1,CFFQ-EJEA-BORP-EZAK-BQPA,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1146,IAPTV0000406,Sachin A Biradar,Thane west,Android,,0/43,1.0,used,,0/0
+Online,1147,IAPTV0000407,Anirddha S Bhayekar,Thane west,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1148,IAPTV0000408,Sundarsingh F Rathod,Titwala,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1149,IAPTV0000409,Dinesh G Lodha,Turbhe,Android,,40/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1150,IAPTV0000410,Bhujang V Deonikar,Uran,Android,,41/43,1.1,used,,0/0
+Offline,1151,IAPTV0000411,Aparna R Sathe,Navi Mumbai,Android,,41/43,1.1,used,,0/0
+Offline,1152,IAPTV0000412,Madhavi D Gosavi,Uran,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1153,IAPTV0000413,Ajay M Koli,Uran,Android,,4/43,1.1,used,,0/0
+Online,1154,IAPTV0000414,Venkatesh R Giri,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1155,IAPTV0000415,Gauri A Aloz,Vasai West,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1156,IAPTV0000416,Dorab R Daruwalla,Vashi  Sectoe-17,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1157,IAPTV0000417,Sadanand S Shetye,Navi Mumbai,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1158,IAPTV0000418,Ravinder Wattal,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1159,IAPTV0000419,Vijay N Yewale,Navi Mumbai,Android,,0/43,1.0,EEZV-AEOX-CYDE-CAEA-ETEL,,0/0
+Offline,1160,IAPTV0000420,Jeetena B Gavhane,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1161,IAPTV0000421,Nirav Shah,Vashi ,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1162,IAPTV0000422,Nutan Sawant,Vikroli,Android,,0/43,1.0,used,,0/0
+Offline,1163,IAPTV0000423,,,Android,,0/43,1.0,used,,0/0
+Offline,1164,IAPTV0000424,Sandeep Rawal,Sector-9  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1165,IAPTV0000425,Neha Bansal,Jahangirpuri,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1166,IAPTV0000426,Parvinder Singh Narang,Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1167,IAPTV0000427,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1168,IAPTV0000428,Jaspreet Singh,Virendar Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1169,IAPTV0000429,Kapil Kapoor,Krishna Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1170,IAPTV0000430,Nafees Ahmed,Shahadra,Android,,0/43,1.0,used,,0/0
+Offline,1171,IAPTV0000431,Pankaj Paul,Nangal Rai,Android,,42/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1172,IAPTV0000432,Rama K Sabharwal,Hauzahas,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1173,IAPTV0000433,Surinder Kumar Mehta,Vasant Kunj,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1174,IAPTV0000434,Charu Garg,Krishna Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1175,IAPTV0000435,Piyush Na,Yamuna Vihar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1176,IAPTV0000436,,,Android,,0/43,1.0,used,,0/0
+Online,1177,IAPTV0000437,Madhur Gupta,GTB Enclave,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1178,IAPTV0000438,,,Android,,0/43,1.0,used,,0/0
+Offline,1179,IAPTV0000439,Anil Kumar,Sadh Nagar,Android,,3/43,1.1,used,,0/0
+Offline,1180,IAPTV0000440,Meenakshi Batra,Dividing Road,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1181,IAPTV0000441,Tilak Dangwal,DDA market,Android,,0/43,1.0,used,,0/0
+Offline,1182,IAPTV0000442,L N Taneja,Naveen Shadra,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1183,IAPTV0000443,,,Android,,0/43,1.0,used,,0/0
+Offline,1184,IAPTV0000444,C P Sachdev,Mansarovar Garden,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1185,IAPTV0000445,Asha Chouhan,Vikas Puri,Android,,41/43,1.1,DOZN-FLTV-CVYY-CPJP-ALLM,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1186,IAPTV0000446,Ashima Aggarwal,Sector-8,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1187,IAPTV0000447,,,Android,,33/43,1.1,used,,0/0
+Offline,1188,IAPTV0000448,Vikram Bansal,Narela,Android,,0/43,1.0,used,,0/0
+Offline,1189,IAPTV0000449,Chana Mohan Kumar,Delhi,Android,,41/43,1.1,used,,0/0
+Offline,1190,IAPTV0000450,Krishan Chugh,Delhi,Android,,0/43,1.0,used,,0/0
+Offline,1191,IAPTV0000451,Mahima Anurag,Delhi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1192,IAPTV0000452,Shambhavi Seth,Rajendra Nagar,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1193,IAPTV0000453,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1194,IAPTV0000454,Harshita Tripathi,Sector-6  Dwarka,Android,,0/43,1.0,used,,0/0
+Offline,1195,IAPTV0000455,,,Android,,0/43,1.0,used,,0/0
+Offline,1196,IAPTV0000456,Dhiren Gupta,Ashok Vihar,Android,,25/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1197,IAPTV0000457,Ashish Goel,Uttan Nagar,Android,,41/43,1.1,used,,0/0
+Offline,1198,IAPTV0000458,Kamlesh Chopra,Delhi,Android,,0/43,1.0,used,,0/0
+Offline,1199,IAPTV0000459,,,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1200,IAPTV0000460,,,Android,,0/43,1.0,used,,0/0
+Offline,1201,IAPTV0000461,Sandhya K Gupta,Okala,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1202,IAPTV0000462,Ashish Tahilyani,Hari Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1203,IAPTV0000463,,,Android,,0/43,1.0,used,,0/0
+Offline,1204,IAPTV0000464,,,Android,,0/43,1.0,used,,0/0
+Offline,1205,IAPTV0000465,Vishal Soni,Sector-37,Android,,42/43,1.1,used,,0/0
+Offline,1206,IAPTV0000466,,,Android,,0/43,1.0,used,,0/0
+Offline,1207,IAPTV0000467,Ashok Grover,Nit,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1208,IAPTV0000468,Chaitanya Pande,Worli,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1209,IAPTV0000469,Ashok Aggarwal,Sector-19,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1210,IAPTV0000470,Vaneet Parmaar,Nirvana,Android,,41/43,1.1,used,,0/0
+Offline,1211,IAPTV0000471,Umang Mann,Sector-5,Android,,41/43,1.1,used,,0/0
+Offline,1212,IAPTV0000472,,,Android,,0/43,1.0,used,,0/0
+Online,1213,IAPTV0000473,Surena Prasad Garg,MDI,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1214,IAPTV0000474,,,Android,,0/43,1.0,used,,0/0
+Offline,1215,IAPTV0000475,Atul Ahuja,South City,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1216,IAPTV0000476,Poonam Mehrotra,Lagpat Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1217,IAPTV0000477,,,Android,,0/43,1.0,used,,0/0
+Offline,1218,IAPTV0000478,,,Android,,0/43,1.0,used,,0/0
+Offline,1219,IAPTV0000479,Pratap S Kanwar,Ballabgarh,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,1220,IAPTV0000480,Rahul Yadav,Sector-23,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1221,IAPTV0000481,,,Android,,0/43,1.0,used,,0/0
+Offline,1222,IAPTV0000482,Alka Bhadbhade,Jagish Enclave,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Recent,1223,IAPTV0000483,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1224,IAPTV0000484,Harshal Nimkande,Kalyan West,Android,,0/43,1.0,used,,0/0
+Online,1225,IAPTV0000485,Swati Hande,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1226,IAPTV0000486,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1227,IAPTV0000487,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/86
+Online,1228,IAPTV0000488,Salil Sanmukhlal Choksi,Versova,Android,,25/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1229,IAPTV0000489,Shiv Kumar Lalwani,Chembur,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1230,IAPTV0000490,Prakash Vasant Vaidya,90 Feet Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1231,IAPTV0000491,Nandini Shinde,Jogeshwari East,Android,,0/43,1.0,used,,0/0
+Offline,1232,IAPTV0000492,V Santosh Siddappa,Kanjurmarg East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1233,IAPTV0000493,Dipti Bhagat,Matunga East,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1234,IAPTV0000494,,,Android,,0/43,1.0,used,,0/0
+Offline,1235,IAPTV0000495,Isha Satish Bhagat,Mahvir Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1236,IAPTV0000496,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1237,IAPTV0000497,Sunila M Nagvekar,Borivali West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1238,IAPTV0000498,Kishorekumar P Sanghvi,Byculla,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1239,IAPTV0000499,,,Android,,0/43,1.0,CORF-CJTZ-DSNE-CRHY-AIEO,,0/0
+Online,1240,IAPTV0000500,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1241,IAPTV0000501,,,Android,,1/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,1242,IAPTV0000502,Indu Devchand Gada,Dadar West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,1243,IAPTV0000503,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1244,IAPTV0000504,Shweta Pimple,Andheri West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1245,IAPTV0000505,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1246,IAPTV0000506,Shilpa Ranade,Parle East,Android,,9/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1247,IAPTV0000507,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1248,IAPTV0000508,Arpit Doshi,Borivali West,Android,,40/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1249,IAPTV0000509,Shivali Joshi,Mahim West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1250,IAPTV0000510,Pranav Sanghavi,Mulund West,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1251,IAPTV0000511,Cyprian D'Souza,Nerul,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1252,IAPTV0000512,Harpreet Singh,Sector-10,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Recent,1253,IAPTV0000513,Nimain C Mohanty,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,1254,IAPTV0000514,Shanthala V Murthy,Navi Mumbai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1255,IAPTV0000515,Santosh S Kangule,Navi Mumbai,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1256,IAPTV0000516,Vinay Patil,Sector-10,Android,,8/43,1.1,used,,0/0
+Online,1257,IAPTV0000517,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1258,IAPTV0000518,,,Android,,0/43,1.0,used,,0/0
+Offline,1259,IAPTV0000519,,,Android,,0/43,1.0,used,,0/0
+Offline,1260,IAPTV0000520,,,Android,,0/43,1.0,used,,0/0
+Offline,1261,IAPTV0000521,,,Android,,0/43,1.0,EHCH-AMUO-AANX-DDZC-DPLL,,0/0
+Offline,1262,IAPTV0000522,Aparna Dewoo Manjrekar,Bima Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1263,IAPTV0000523,,,Android,,0/43,1.0,DLDP-EAYU-BOLG-CKBQ-BNKO,,0/0
+Offline,1264,IAPTV0000524,,,Android,,0/43,1.0,used,,0/0
+Offline,1265,IAPTV0000525,,,Android,,0/43,1.0,used,,0/0
+Offline,1266,IAPTV0000526,Kunj Lalwani,Adarsh Nagar,Android,,21/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1267,IAPTV0000527,Rohit Chopra,Tanda Road,Android,,0/43,1.0,used,,0/0
+Away,1268,IAPTV0000528,Pradeep Sharma,SBS Nagar,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1269,IAPTV0000529,Neeraj Mahajan,Gurjal Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1270,IAPTV0000530,Ashok Jain,6th Street,Android,,32/43,1.1,used,,0/0
+Online,1271,IAPTV0000531,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1272,IAPTV0000532,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1273,IAPTV0000533,,,Android,,0/43,1.0,CWXZ-FBRD-FHKQ-CBKA-AWIA,,0/0
+Offline,1274,IAPTV0000534,Kulbhushan Gupta,Nariman Nagar,Android,,13/43,1.1,used,,0/0
+Online,1275,IAPTV0000535,Basant Kumar Jain,Jln Marg,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1276,IAPTV0000536,Paras Khullar,Jalandhar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1277,IAPTV0000537,Mithun Somani,Thane west,Android,,0/43,1.0,used,,0/0
+Offline,1278,IAPTV0000538,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1279,IAPTV0000539,Dattatray L Maraskolhe,Kalwa West,Android,,0/43,1.0,used,,0/0
+Offline,1280,IAPTV0000540,Ms.Gauri S Kulkarni,Thane west,Android,,6/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1281,IAPTV0000541,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,1282,IAPTV0000542,Lalit Tandon,Cool Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1283,IAPTV0000543,Shishir Chana Jethi,Kamnhagar,Android,,28/43,1.4,used,,0/0
+Away,1284,IAPTV0000544,Ravi Paul,Singh Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1285,IAPTV0000545,Jatinder Singh,Model Town,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1296,IAPTV0000546,Reshma Sehgal,Vishal Nagar,Android,,3/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1297,IAPTV0000547,,,Android,,0/43,1.0,used,,0/0
+Offline,1298,IAPTV0000548,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1299,IAPTV0000549,,,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1300,IAPTV0000550,Abhijeet Naik,Dwaka ,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1301,IAPTV0000551,Deivanayagam N,KK Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1302,IAPTV0000552,Archana Bachhav,Ramdawi,Android,,0/43,1.0,used,,0/0
+Offline,1303,IAPTV0000553,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1304,IAPTV0000554,,,Android,,0/43,1.0,ETOO-BGRD-EYON-CDYQ-BGTG,,0/0
+Offline,1305,IAPTV0000555,,,Android,,0/43,1.0,used,,0/0
+Offline,1306,IAPTV0000556,Kailash Soni,Satyanaranyana,Android,,41/43,1.1,used,,0/0
+Online,1307,IAPTV0000557,Murugesa Lakshmanan S,Karuppayurani,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Recent,1308,IAPTV0000558,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1309,IAPTV0000559,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1310,IAPTV0000560,Neepa A Choudhary,Telaphone Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1311,IAPTV0000561,Amit Garg,Sector15  Rohini,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1312,IAPTV0000562,Ashok Raja,KK Nagar,Android,,15/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1313,IAPTV0000563,Suresh Dhanam Venkatachalam,Alagapuram,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1314,IAPTV0000564,Karthik Raj,Anuppanady Road,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1315,IAPTV0000565,Ramniklal Patel,Rajkot,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1316,IAPTV0000566,Jitena Gupta,Mansarovar Garden,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1317,IAPTV0000567,Parvind Rai,Maqsudan,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1318,IAPTV0000568,,,Android,,0/43,1.0,used,,0/0
+Offline,1319,IAPTV0000569,,,Android,,0/43,1.0,used,,0/0
+Offline,1320,IAPTV0000570,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1321,IAPTV0000571,,,Android,,41/43,1.1,used,,0/0
+Online,1322,IAPTV0000572,,,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1323,IAPTV0000573,Shanthi Jyothi,Vanasthalipuram,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1324,IAPTV0000574,Vidya Varadarajan,Ambathur,Android,,1/43,1.1,used,,0/0
+Online,1325,IAPTV0000575,Sanjivani Mayur6 Sarode,Nashik Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1326,IAPTV0000576,,,Android,,0/43,1.0,used,,0/0
+Offline,1327,IAPTV0000577,Nilesh Jain,Y.N Road,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1328,IAPTV0000578,,,Android,,0/43,1.0,used,,0/0
+Offline,1329,IAPTV0000579,Neel Saksena,Malwamil Square,Android,,0/43,1.0,used,,0/0
+Offline,1330,IAPTV0000580,Arshad Ali Khan,Chanchaguda,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1331,IAPTV0000581,Rohan Prakash Shah,Wadala Pathardi,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1332,IAPTV0000582,Nitin Sudhakar Mehkarkar,Govind Nagar,Android,,0/43,1.0,EMIK-CLVF-EGSZ-ELTK-CDDL,,0/0
+Offline,1333,IAPTV0000583,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1334,IAPTV0000584,,,Android,,0/43,1.0,used,,0/0
+Offline,1335,IAPTV0000585,Subhash Firodiya,Burud Galli,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1336,IAPTV0000586,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1337,IAPTV0000587,Purba Pal,Port Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1338,IAPTV0000588,Harish Bhurani,Ratanada Circle,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1339,IAPTV0000589,Santosh Zade,Canol Road,Android,,42/43,1.1,used,,0/0
+Online,1340,IAPTV0000590,Srinivasan Dhandayuthapani,Ashok Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1341,IAPTV0000591,Kumar A S,Failands,Android,,0/43,1.0,used,,0/0
+Offline,1342,IAPTV0000592,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1343,IAPTV0000593,Sanjeev Medehal,Bangalore Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1344,IAPTV0000594,,,Android,,0/43,1.0,BRJZ-FGAP-DWDP-EXAV-AASS,,0/0
+Offline,1345,IAPTV0000595,Srinivas G Kasi,Jay nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1346,IAPTV0000596,Geetha V Shenoy,Ashok Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1347,IAPTV0000597,Sudhakar Hegde,Vidya Nagar,Android,,0/43,1.0,used,West & North,0/1
+Offline,1348,IAPTV0000598,Vilas Balkrishna Bapat,Raopura,Android,,0/43,1.0,used,,0/0
+Online,1349,IAPTV0000599,Vijay Mhaske,Rahata,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1350,IAPTV0000600,Tejaskumar Balvantrai Trivedi,Raj Nagar,Android,,42/43,1.1,used,,0/0
+Offline,1351,IAPTV0000601,Vibha Komavar,Jail Road,Android,,0/43,1.0,used,,0/0
+Offline,1352,IAPTV0000602,Venkatesh I Kr,Cambridge Road,Android,,0/43,1.0,used,,0/0
+Offline,1353,IAPTV0000603,Penmetsa Suchitra,Film Nagar,Android,,10/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1354,IAPTV0000604,,,Android,,0/43,1.0,used,,0/0
+Offline,1355,IAPTV0000605,Aruna Babu Kukkamalla,P.R Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1356,IAPTV0000606,Ajit Jagtap,Nashik Road,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1357,IAPTV0000607,Kathiresan V O A ,Housing board colony,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1358,IAPTV0000608,Praveen Chopra,Paota B road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Online,1359,IAPTV0000609,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1360,IAPTV0000610,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Recent,1361,IAPTV0000611,Anurag Sharma,Krishna Marg,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1362,IAPTV0000612,,,Android,,0/43,1.0,used,,0/0
+Online,1363,IAPTV0000613,Shanthal Ravikumar,Cowl Bazar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1364,IAPTV0000614,,,Android,,0/43,1.0,used,,0/0
+Offline,1365,IAPTV0000615,,,Android,,12/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1366,IAPTV0000616,Kalaimohan Sivasubramanian.V.O,Dadagapatti,Android,,31/43,1.1,used,,0/0
+Online,1367,IAPTV0000617,Bhushan Borole,Ashok Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1368,IAPTV0000618,,,Android,,0/43,1.0,used,,0/0
+Offline,1369,IAPTV0000619,,,Android,,0/43,1.0,used,,0/0
+Online,1370,IAPTV0000620,,,Android,,29/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,1371,IAPTV0000621,Srinivasan Thiruvannamalai,Brindavan Road ,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1372,IAPTV0000622,Kapil Sharma,Heera Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1373,IAPTV0000623,Zalak Shah,Rajkot,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1374,IAPTV0000624,Rajamani S K ,Alagappan Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1375,IAPTV0000625,,,Android,,11/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,1376,IAPTV0000626,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1377,IAPTV0000627,Kavita Sharma,Secot-4,Android,,0/43,1.0,FCND-EHKC-DCOR-AIVM-CPZE,,0/0
+Offline,1378,IAPTV0000628,Deepak Soni,Gulaab Market,Android,,0/43,1.0,used,,0/0
+Offline,1379,IAPTV0000629,Balamurugan Srinivasan,Madambakkam,Android,,29/43,1.4,used,PL-IAP-01-ENHI-151217-V1,7/43
+Offline,1380,IAPTV0000630,,,Android,,29/43,1.4,used,,0/0
+Offline,1381,IAPTV0000631,Anubha Gangrade,Geetabhawan Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1382,IAPTV0000632,Snehal Samir Shirolawala,Uma Char Rasta,Android,,35/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1383,IAPTV0000633,Rajiv Kumar Bansal,Sodala Ajmer road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1384,IAPTV0000634,Mohan Makwana,Jodhpur,Android,,42/43,1.1,used,,0/0
+Offline,1385,IAPTV0000635,,,Android,,0/43,1.0,FCIM-BQYO-ENEU-EGGK-BRTL,,0/0
+Online,1386,IAPTV0000636,Rajesh Mathuria,Jaipur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1387,IAPTV0000637,Dinesh Kumar Dalmia,Kirti Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1388,IAPTV0000638,Aradhana Mishra,Gorakhpur,Android,,0/43,1.0,used,,0/0
+Offline,1389,IAPTV0000639,Vibha Kochar,Keshav Vihar,Android,,0/43,1.0,used,,0/0
+Offline,1390,IAPTV0000640,Jafar Khan,Khajarana Road,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1391,IAPTV0000641,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1392,IAPTV0000642,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1393,IAPTV0000643,Bindu Saravanan,Salem-9,Android,,42/43,1.1,used,,0/0
+Online,1394,IAPTV0000644,Ashraf Ali Pathan,Malviya Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1395,IAPTV0000645,,,Android,,0/43,1.0,used,,0/0
+Offline,1396,IAPTV0000646,Kulandaivel M,Old Natham Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1397,IAPTV0000647,,,Android,,16/43,1.4,used,,0/0
+Offline,1398,IAPTV0000648,Ajay Ghambhir,Sector-8  Rohini,Android,,42/43,1.1,used,,0/0
+Offline,1399,IAPTV0000649,Kannan Narayanaswamy,Vannier Street,Android,,42/43,1.1,used,,0/0
+Offline,1400,IAPTV0000650,Kasi Shanmugam,Selaiyur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1401,IAPTV0000651,Thakorebhai Jagjivandas Prajapati,Dandna Bazar,Android,,30/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1402,IAPTV0000652,Lalit Nainiwal,Char Rasta,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1403,IAPTV0000653,Jayant Randive,Satpur,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1404,IAPTV0000654,,,Android,,0/43,1.0,BIGP-BXTC-DZBK-EVMN-CTBJ,,0/0
+Online,1405,IAPTV0000655,Sheetalkumar Jadhav,Upnagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1406,IAPTV0000656,Karthikeyan Jegannathan,New street,Android,,42/43,1.1,used,West & North,0/1
+Online,1407,IAPTV0000657,Palak Hapani,Rajkot,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1408,IAPTV0000658,Prashanth Gowda,Sector-7,Android,,0/43,1.0,used,,0/0
+Offline,1409,IAPTV0000659,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1410,IAPTV0000660,Shadab Husain,Bombay Bazar,Android,,0/43,1.0,used,,0/0
+Offline,1411,IAPTV0000661,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1412,IAPTV0000662,K S Sundaram,Basavanagudi,Android,,0/43,1.0,used,,0/0
+Online,1413,IAPTV0000663,Amit Avhad,Karmyogi Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Online,1414,IAPTV0000664,Deepa Joshi,Bhabhnaagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1415,IAPTV0000665,,,Android,,0/43,1.0,used,,0/0
+Offline,1416,IAPTV0000666,Santosh C.P,50ft Road,Android,,42/43,1.1,EUHZ-CMMW-DHVV-BSUS-EJSI,,0/0
+Online,1417,IAPTV0000667,Rammohan Rao Desina,Ameepret,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1418,IAPTV0000668,Fazeelath Ali Khan,Chader Ghat,Android,,39/43,1.4,used,PL-IAP-01-ENHI-151217-V1,39/43
+Offline,1419,IAPTV0000669,,,Android,,0/43,1.0,used,,0/0
+Offline,1420,IAPTV0000670,Aruna Vinnarasi David,Dharmanagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1421,IAPTV0000671,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1422,IAPTV0000672,Ramasubbu Ayaswamy,Anjal Nagar,Android,,4/43,1.1,used,,0/0
+Online,1423,IAPTV0000673,Sathish Kumar S K,Ashok Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Offline,1424,IAPTV0000674,,,Android,,0/43,1.0,used,,0/0
+Offline,1425,IAPTV0000675,,,Android,,0/43,1.0,used,,0/0
+Offline,1426,IAPTV0000676,Praful Patel,Saharanpura Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1427,IAPTV0000677,Prasad S M,Devasandra,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1428,IAPTV0000678,Sunil B,Banglore,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1429,IAPTV0000679,Ramesh Sungal,JP Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1430,IAPTV0000680,,,Android,,0/43,1.0,FDAK-DXJN-DATL-FLFB-DCAE,,0/0
+Offline,1431,IAPTV0000681,,,Android,,0/43,1.0,used,West & North,0/1
+Offline,1432,IAPTV0000682,,,Android,,0/43,1.0,DWWI-DJGN-EVQH-CYEA-AJQF,,0/0
+Offline,1433,IAPTV0000683,K Raghavena Bhat,JP Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1434,IAPTV0000684,Bhanu Prasad Koganti,ksrtc old bus stand,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1435,IAPTV0000685,,,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1436,IAPTV0000686,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1437,IAPTV0000687,Bhavani Divya Pappula,Kukatpally,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1438,IAPTV0000688,Sonal Prashant Patil,Shramik Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1439,IAPTV0000689,Dilipkumar Bora,New Nagar Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1440,IAPTV0000690,Arun Kumar Vohra,Swaroop Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1441,IAPTV0000691,Vinay K T,Balaji Roa Road,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1442,IAPTV0000692,Sanjay Shah,Lalbaug,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1443,IAPTV0000693,Manoj Deshmukh,Newasa,Android,,0/43,1.0,used,,0/0
+Online,1444,IAPTV0000694,Jeyabalaji Rv,Mahatma Gandhi Naagr,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1445,IAPTV0000695,Pradeep Kumar Gupta,Chauraha,Android,,8/43,1.1,used,,0/0
+Offline,1446,IAPTV0000696,Bottu Anil Kumar,Vanasthalipuram,Android,,42/43,1.1,used,,0/0
+Offline,1447,IAPTV0000697,Tilak Chanapal Adusumalli,Kamalapuri,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1448,IAPTV0000698,,,Android,,0/43,1.0,used,,0/0
+Offline,1449,IAPTV0000699,Shivaji Gore,Newasa,Android,,5/43,1.1,used,,0/0
+Offline,1450,IAPTV0000700,Harmesh Singh Bains,Rajguru Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1451,IAPTV0000701,Peeyush Tripathi,Chauraha,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1452,IAPTV0000702,Naveenkumar S,Kukatpally,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1453,IAPTV0000703,N.S.Chetan Nag,Vijay Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,1454,IAPTV0000704,,,Android,,0/43,1.0,FCRA-ACCY-CHGI-ARWV-EZBK,,0/0
+Offline,1455,IAPTV0000705,,,Android,,11/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,1456,IAPTV0000706,Sameera Pachipala,Giri Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1457,IAPTV0000707,Kishore Chandki,Sneh Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1458,IAPTV0000708,Prasad N.A,JP Nagar,Android,,25/43,1.1,used,,0/0
+Online,1459,IAPTV0000709,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,1460,IAPTV0000710,Priya Nikhil Diwan,pimpri,Android,,42/43,1.4,used,PL-IAP-01-ENHI-151217-V1,42/43
+Offline,1461,IAPTV0000711,Ashish Jaiswal,Vijay Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1462,IAPTV0000712,Dipti Pujari,Aranyeshwar Chowk,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,1463,IAPTV0000713,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1464,IAPTV0000714,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,1465,IAPTV0000715,Vishal Gupta,Baghfarzana,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1466,IAPTV0000716,Jai Pal Kapoor,Vihar Phase,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1467,IAPTV0000717,Sudhir Nikam,Akurdi,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1468,IAPTV0000718,Vijayalaxmi Shaharao,Pashan Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1469,IAPTV0000719,Subhash Shankar Kashyape,Chandak Cicle,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1470,IAPTV0000720,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1471,IAPTV0000721,,,Android,,0/43,1.0,used,,0/0
+Offline,1472,IAPTV0000722,,,Android,,0/43,1.0,FDRE-AWII-BJRL-FBCV-BWWG,,0/0
+Offline,1473,IAPTV0000723,Pranjali Sadawarte Deshpande,Kharadi Road,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1474,IAPTV0000724,Pradeep Chawla,Agra,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1475,IAPTV0000725,Yogesh N Parikh,Rajkot,Android,,42/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1476,IAPTV0000726,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1477,IAPTV0000727,Rakesh Kumar Banda,Nagori Gate,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1478,IAPTV0000728,Shital Desai,Sector-2,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1479,IAPTV0000729,Sameer Badakh,Ward-7,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1480,IAPTV0000730,,,Android,,2/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/172
+Offline,1481,IAPTV0000731,Sandip Hon,Sangamner,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1482,IAPTV0000732,Vivek Yadav,Shaheed Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1483,IAPTV0000733,,,Android,,0/43,1.0,CGLS-CGVF-AUOH-DEZG-EEEK,,0/0
+Offline,1484,IAPTV0000734,R S Verma,Ghanta Ghat,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1485,IAPTV0000735,Samarth Vohra,Gumti No-5,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1486,IAPTV0000736,Sunil Dutt Sharma,Malviay Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Online,1487,IAPTV0000737,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1488,IAPTV0000738,Durairaj R ,Madurai,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1489,IAPTV0000739,S R Satish,Sahakara Nagar,Android,,39/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1490,IAPTV0000740,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1491,IAPTV0000741,Kumar Chothani,Shriampur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1492,IAPTV0000742,Shivanna Kalli,Magadi Main Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1493,IAPTV0000743,Murugan P,Kilpauk,Android,,42/43,1.1,used,,0/0
+Online,1494,IAPTV0000744,Piyush Ranbhore,Malegoan Camp Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1495,IAPTV0000745,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1496,IAPTV0000746,,,Android,,0/43,1.0,used,,0/0
+Offline,1497,IAPTV0000747,Ramya H.S,Mahindra Road,Android,,42/43,1.1,used,,0/0
+Offline,1498,IAPTV0000748,Surendera Agarwal,Jodhpur,Android,,38/43,1.4,used,PL-IAP-01-ENHI-151217-V1,38/43
+Offline,1499,IAPTV0000749,Anupam Chaturvedi,Tilak Nagar,Android,,42/43,1.1,used,,0/0
+Offline,1500,IAPTV0000750,,,Android,,0/43,1.0,used,,0/0
+Online,1501,IAPTV0000751,Arvind Kumar,Sirsi Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1502,IAPTV0000752,,,Android,,0/43,1.0,used,,0/0
+Offline,1503,IAPTV0000753,Nirav Karmata,Vasvani Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1504,IAPTV0000754,Shyam Sudhir M K,Next to Bride Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1505,IAPTV0000755,Amol Shivaji Murkute,Sharanpur Link Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,10/43
+Offline,1506,IAPTV0000756,Sumanth A,Peravallur,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1507,IAPTV0000757,Rajnish Mehta,Usha Nagar,Android,,4/43,1.1,used,,0/0
+Offline,1508,IAPTV0000758,Salim Abid Khatib,Fraser town,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1509,IAPTV0000759,Hemant Singh,Naiper,Android,,20/43,1.1,used,,0/0
+Offline,1510,IAPTV0000760,,,Android,,0/43,1.0,FEOW-FISV-EJEU-DXRK-BCVE,,0/0
+Offline,1511,IAPTV0000761,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1512,IAPTV0000762,D Mohan Rao,Habsiguda,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1513,IAPTV0000763,Vishnu Prakaash,Railbazaar,Android,,25/43,1.1,used,,0/0
+Offline,1514,IAPTV0000764,,,Android,,0/43,1.0,used,,0/0
+Offline,1515,IAPTV0000765,,,Android,,0/43,1.0,used,,0/0
+Offline,1516,IAPTV0000766,Rajesh Pathak,Tonk Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1517,IAPTV0000767,J.N Pundarikaksha,Varthur Main Road,Android,,0/43,1.0,used,,0/0
+Online,1518,IAPTV0000768,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1519,IAPTV0000769,Shailaja .,Dasrahalli,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1520,IAPTV0000770,Preeti Jain,kunj Bagh,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1521,IAPTV0000771,,,Android,,0/43,1.0,used,,0/0
+Offline,1522,IAPTV0000772,Radhika Mahale,JP Nagar,Android,,41/43,1.1,BCAK-AEYY-CBXZ-EPSF-EJEF,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1523,IAPTV0000773,Manvena Singh Chauhan,Shastripuram Road,Android,,0/43,1.0,used,,0/0
+Offline,1524,IAPTV0000774,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1525,IAPTV0000775,Shylaja C.G,AGS Layout,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1526,IAPTV0000776,Bhanu Pratap Singh,Mandore,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1527,IAPTV0000777,,,Android,,0/43,1.0,used,,0/0
+Online,1528,IAPTV0000778,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1529,IAPTV0000779,Eash Hoskote,Banglore,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1530,IAPTV0000780,Gaurav Oberoi,Kanpur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1531,IAPTV0000781,Arun Jain,Bodla Road,Android,,0/43,1.0,used,,0/0
+Offline,1532,IAPTV0000782,,,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1533,IAPTV0000783,,,Android,,0/43,1.0,used,,0/0
+Online,1534,IAPTV0000784,Femine Chinniah Rajiah,Abbigere Ban,Android,,41/43,1.1,FEGQ-BDAG-DUII-ATKB-FPHB,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1535,IAPTV0000785,Shailaja Basavraj,RT Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1536,IAPTV0000786,,,Android,,10/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1537,IAPTV0000787,Abhay Yadav,Ashok Nagar,Android,,1/43,1.1,used,,0/0
+Offline,1538,IAPTV0000788,Bingi Koteswar,LB nagar,Android,,38/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1539,IAPTV0000789,Girish Budhrani,Jabalpur,Android,,41/43,1.1,used,,0/0
+Offline,1540,IAPTV0000790,,,Android,,0/43,1.0,used,,0/0
+Offline,1541,IAPTV0000791,Dharm Chand Jain,Mansarovar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1542,IAPTV0000792,Sushil Sanghi,Ramesh Marg,Android,,42/43,1.1,used,,0/0
+Offline,1543,IAPTV0000793,G. Sreenivas Gajjalakonda,Kukatpally,Android,,42/43,1.1,used,,0/0
+Online,1544,IAPTV0000794,Syed Nazif Ahmed,Salem,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1545,IAPTV0000795,Hanabe Nagaraja Rao Usha,Bangalore Road,Android,,42/43,1.1,used,,0/0
+Offline,1546,IAPTV0000796,,,Android,,0/43,1.0,used,,0/0
+Offline,1547,IAPTV0000797,Jai Prakash Soni,Ratanada,Android,,0/43,1.0,used,,0/0
+Offline,1548,IAPTV0000798,Sundeep Minocha,Sadar Bazar,Android,,0/43,1.0,used,,0/0
+Offline,1549,IAPTV0000799,Rajeev Jain,Kamla Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1550,IAPTV0000800,Rajeev Sethi,Green Park,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1551,IAPTV0000801,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1552,IAPTV0000802,Padam Kant,Harzendra Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1553,IAPTV0000803,Ravi Kumar D,Nizampet,Android,,25/43,1.1,used,,0/0
+Offline,1554,IAPTV0000804,Anshul Mittal,Malviya Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1555,IAPTV0000805,Anand Wani,Kukatpally,Android,,37/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1556,IAPTV0000806,Deepak Lavania,Kamla Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1557,IAPTV0000807,,,Android,,0/43,1.0,used,,0/0
+Online,1558,IAPTV0000808,Nadavapalli Srinivasa Suresh,Motinagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1559,IAPTV0000809,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1560,IAPTV0000810,Pratap Dodla,Madhapur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1561,IAPTV0000811,,,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1562,IAPTV0000812,Jyoti Patodia,Malviya Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1563,IAPTV0000813,Deepak Kapoor,Baghfarzana,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1564,IAPTV0000814,Naredla Naga Sirisha,Kukatpally,Android,,42/43,1.1,used,,0/0
+Online,1565,IAPTV0000815,K Srilatha Reddy,Upperpally,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1566,IAPTV0000816,,,Android,,0/43,1.0,used,,0/0
+Offline,1567,IAPTV0000817,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1568,IAPTV0000818,M Nayaz Ahmed,Mehdipatnam,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1569,IAPTV0000819,Jhagdish Chana Sachidananda Udiuta,Adarsh Nagar,Android,,41/43,1.1,used,,0/0
+Offline,1570,IAPTV0000820,Manas Ranjan Das,sultanpallya,Android,,0/43,1.0,used,,0/0
+Online,1571,IAPTV0000821,Pramod Sabhrawal,Sharstri Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1572,IAPTV0000822,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1573,IAPTV0000823,Raman Arora,Geeta Colony,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Recent,1574,IAPTV0000824,Anil Kumar Tiwari Rajput,Kachiguda,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1575,IAPTV0000825,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1576,IAPTV0000826,,,Android,,0/43,1.0,used,,0/0
+Online,1577,IAPTV0000827,Rashmi S Murthy,2nd Phase,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1578,IAPTV0000828,Mir Sumsam Ali Khurram,Moghalpura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Online,1579,IAPTV0000829,Sumit Kumar Sachan,Barra-8,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1580,IAPTV0000830,Bsv Siva Nagaraja,Nizampet,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1581,IAPTV0000831,,,Android,,0/43,1.0,used,,0/0
+Online,1582,IAPTV0000832,Sonia Singh,Sapma Sangeeta Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Recent,1583,IAPTV0000833,Pavan Kumar,Kukatpally,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1584,IAPTV0000834,Baswaraj Tandur,Growliguda Chaman,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Online,1585,IAPTV0000835,Alok Tyagi,Shyam Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1586,IAPTV0000836,P Sudershan Reddy,Lakdikapool,Android,,42/43,1.1,used,,0/0
+Offline,1587,IAPTV0000837,Girish N,Vijay Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1588,IAPTV0000838,,,Android,,0/43,1.0,used,,0/0
+Offline,1589,IAPTV0000839,Murali Krishna V,Ameepret,Android,,25/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,1590,IAPTV0000840,Murali B.H,Vijay Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1591,IAPTV0000841,Yashwant Kumar Rao,Swaroop Nagar,Android,,4/43,1.1,used,,0/0
+Offline,1592,IAPTV0000842,,,Android,,0/43,1.0,used,,0/0
+Online,1593,IAPTV0000843,Guruprakash V K,Ganapathy Temple Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1594,IAPTV0000844,Mahesh Khattar,Ratan Lal Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1595,IAPTV0000845,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1596,IAPTV0000846,,,Android,,0/43,1.0,used,,0/0
+Offline,1597,IAPTV0000847,Lokesh T R,Industrial Town,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1598,IAPTV0000848,Rachuri Harish,LB nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1599,IAPTV0000849,Rajiv Sinha,Kanpur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1600,IAPTV0000850,Kishan Kumar Chittoor,HSR Sector-1,Android,,41/43,1.1,used,,0/0
+Offline,1601,IAPTV0000851,Dinesh Shrimanker,Akshar Marg,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1602,IAPTV0000852,Sujatha Mohan,Ashok Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,1603,IAPTV0000853,,,Android,,0/43,1.0,used,,0/0
+Offline,1604,IAPTV0000854,Bapusaheb Kakad,Sangamner,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1605,IAPTV0000855,Sunil G Patil,Ashok Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1606,IAPTV0000856,Pramod T Kulkarni,Railway line,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1607,IAPTV0000857,Surya Prakash Sethi,Imli Phatak,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1608,IAPTV0000858,Omprakash Attal,Newasa,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1609,IAPTV0000859,Maddikera Venkatesh,old Kacheri Street,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1610,IAPTV0000860,Nitin Rajgopal Rathi,Tilak Chowk,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1611,IAPTV0000861,Rajeev Kumar Hemai,Parvathinagar Road,Android,,42/43,1.1,used,,0/0
+Offline,1612,IAPTV0000862,Anupam Gupta,Vandana Nagar,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1613,IAPTV0000863,,,Android,,0/43,1.0,used,,0/0
+Online,1614,IAPTV0000864,Anil Malik,Palwal,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1615,IAPTV0000865,Shiv Kumar Gupta,Pratap Vihar,Android,,20/43,1.4,used,PL-IAP-01-ENHI-151217-V1,2/43
+Away,1616,IAPTV0000866,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1617,IAPTV0000867,Lilith Kumar R,Military Road,Android,,0/43,1.0,used,,0/0
+Offline,1618,IAPTV0000868,Hemant Sathe,Lucky Chowk,Android,,42/43,1.1,used,,0/0
+Offline,1619,IAPTV0000869,,,Android,,12/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1620,IAPTV0000870,Hardik Zalavadia,Vidya Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1621,IAPTV0000871,Kanwar Deep Narang,Hargobind Enclave,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1622,IAPTV0000872,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1623,IAPTV0000873,,,Android,,0/43,1.0,used,,0/0
+Offline,1624,IAPTV0000874,Lakshmi Narayana Choudhary,Vidya Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1625,IAPTV0000875,Sandeep Taneja,Janakpuri,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1626,IAPTV0000876,Punit Kumar Sharma,GTB chowk,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1627,IAPTV0000877,Kiran N Baliga,Balmatta,Android,,13/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1628,IAPTV0000878,Vinay Kumar Mittal,Pushpanjali,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1629,IAPTV0000879,Kusuma C,Kalyan Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1630,IAPTV0000880,Md Khalil Khan,Sairam Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,1631,IAPTV0000881,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1632,IAPTV0000882,Kumar Manickam,Nagara Malai Road,Android,,1/43,1.1,used,,0/0
+Offline,1633,IAPTV0000883,,,Android,,0/43,1.0,ECTG-APRW-CYLR-DLMQ-ALLT,,0/0
+Offline,1634,IAPTV0000884,Ajay Kumar,Krishna Nagar,Android,,23/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1635,IAPTV0000885,Kulvir Singh,Sarojini Nagar,Android,,42/43,1.1,used,,0/0
+Offline,1636,IAPTV0000886,Vikram T Dabade,Datta Chowk,Android,,42/43,1.1,used,,0/0
+Offline,1637,IAPTV0000887,Amarkant Vijaywar,Kamla Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1638,IAPTV0000888,Vijayamohan Kanagaraj,Ayapakkam,Android,,42/43,1.1,used,,0/0
+Offline,1639,IAPTV0000889,Ajay Kumar,Greenlands,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1640,IAPTV0000890,Prasanth Madapura V,60 ft road,Android,,40/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1641,IAPTV0000891,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1642,IAPTV0000892,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1643,IAPTV0000893,Balaji Sivaprakasam,Baridavan Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1644,IAPTV0000894,,,Android,,0/43,1.0,used,,0/0
+Offline,1645,IAPTV0000895,,,Android,,0/43,1.0,used,,0/0
+Offline,1646,IAPTV0000896,Arvind Singh,Mansarovar park,Android,,7/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1647,IAPTV0000897,Giridhar Bmv,HBR layout,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1648,IAPTV0000898,Srinath Kallahalli Subbarao,Rajajinagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1649,IAPTV0000899,Anand Narain Bajpai,Gillis Bazar,Android,,9/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,1650,IAPTV0000900,,,Android,,12/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1651,IAPTV0000901,Sham Tarade,Savedi Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1652,IAPTV0000902,Nagaraj Kunchagi,Cowl Bazar,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1653,IAPTV0000903,Avijeet Yadav,Sector-45,Android,,28/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,1654,IAPTV0000904,Amita Avinash Phadnis,Pimple Saudagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,11/43
+Offline,1655,IAPTV0000905,Pranami P Mehta,Chhatrapati Chowk,Android,,41/43,1.1,used,,0/0
+Offline,1656,IAPTV0000906,Abha Mullick,Civil line,Android,,42/43,1.1,used,,0/0
+Online,1657,IAPTV0000907,Sachin R Vahadane,Lal Taki,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1658,IAPTV0000908,Sandeep Dattatray Kulkarni,Vikas Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1659,IAPTV0000909,Rajeev Telang,Yamunanagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1660,IAPTV0000910,Ritu Gupta,BRS Nagar,Android,,0/43,1.0,used,,0/0
+Online,1661,IAPTV0000911,Umar Faruqi,Sultan Shahi Road,Android,,42/43,1.1,used,West & North,0/1
+Offline,1662,IAPTV0000912,Rashi Signal Rustagi,Sector-11,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1663,IAPTV0000913,,,Android,,0/43,1.0,used,,0/0
+Offline,1664,IAPTV0000914,Arshad Hussain,HMT Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1665,IAPTV0000915,Dhananjay Shah,Dhebar Road,Android,,6/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1666,IAPTV0000916,Khalid Saifur Rahman Khan,Attapur,Android,,38/43,1.4,used,PL-IAP-01-ENHI-151217-V1,38/43
+Offline,1667,IAPTV0000917,Anjul Dayal,Hyderabad,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1668,IAPTV0000918,Makarand Dharma,Bailkashram Road,Android,,0/43,1.0,used,,0/0
+Offline,1669,IAPTV0000919,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,1670,IAPTV0000920,Nitin Trivedi,Vijay Path,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1671,IAPTV0000921,Saroj Kumar Singh,Jhunsi,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1672,IAPTV0000922,Dinesh Kumar,Aggar Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,1673,IAPTV0000923,,,Android,,0/43,1.0,used,,0/0
+Offline,1674,IAPTV0000924,Archana Srivastava,Baghambari Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1675,IAPTV0000925,Sanjay V Mankar,Anadnaagr,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1676,IAPTV0000926,,,Android,,0/43,1.0,BLGI-BTHU-AZPI-DNIJ-ELQR,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1677,IAPTV0000927,Shrikant Rukmangad Khair,Mahasakant  chowk,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1678,IAPTV0000928,Neelam Nitin Dhamale,Sambhaji Chowk,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Recent,1679,IAPTV0000929,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,1680,IAPTV0000930,P M Shetti,JB Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1681,IAPTV0000931,Gaurav Sethee,Shalpur Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1682,IAPTV0000932,,,Android,,37/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1683,IAPTV0000933,Ratnakar Praturi,Kukatpally,Android,,42/43,1.1,used,,0/0
+Online,1684,IAPTV0000934,Tania Mahal,Ladhi Club Road,Android,,13/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1685,IAPTV0000935,Umesh Jonnala,Chaitanyapuri,Android,,41/43,1.2,used,,0/0
+Offline,1686,IAPTV0000936,Vijayakumar Subramanian,AVR Circle,Android,,42/43,1.1,used,,0/0
+Online,1687,IAPTV0000937,Jagannatha Reddy,Spice Garden,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1688,IAPTV0000938,Gunjan Modi,Ring Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1689,IAPTV0000939,Sumeet Soni,saket Nagar,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1690,IAPTV0000940,Paritosh Mishra,Lowther Road,Android,,42/43,1.1,used,,0/0
+Online,1691,IAPTV0000941,Anuradha Narayanan,Bharatwajar Street,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1692,IAPTV0000942,Ambuj Tripathi,Tagore town,Android,,33/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1693,IAPTV0000943,Rajiv Verma,GT Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Online,1694,IAPTV0000944,Krishna Gopal Gupta,Sammalen Marg,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1695,IAPTV0000945,Ranjana Kumar,Purab Paschim,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1696,IAPTV0000946,Pallapolu Ravi,Kukatpally,Android,,33/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1697,IAPTV0000947,Suyash Sumant Naik,Gangapur Road,Android,,0/43,1.0,used,,0/0
+Offline,1698,IAPTV0000948,Mayur Khedekar,Bibewewadi,Android,,0/43,1.0,used,,0/0
+Offline,1699,IAPTV0000949,,,Android,,32/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1700,IAPTV0000950,Rita Takkar,Rakh Bagh,Android,,14/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1701,IAPTV0000951,Asam Satish Kumar Reddy,Bollaram Road,Android,,0/43,1.0,used,,0/0
+Offline,1702,IAPTV0000952,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1703,IAPTV0000953,Pratap Patare,Sakka Chowk,Android,,42/43,1.1,used,,0/0
+Recent,1704,IAPTV0000954,Rajan Ramani,Panchyat Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1705,IAPTV0000955,Anil Mohan Khamkar,Pune,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1706,IAPTV0000956,Ratnesh Kumar Khare,Opp Abdulla House,Android,,0/43,1.0,used,,0/0
+Offline,1707,IAPTV0000957,Prashant Jathar,Shriampur,Android,,29/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1708,IAPTV0000958,Dharam Chand Munot,Jalori Bari,Android,,1/43,1.1,used,,0/0
+Online,1709,IAPTV0000959,Vishal Srivastava,Tagore town,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1710,IAPTV0000960,Yogesh Nighute,New Nagar Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1711,IAPTV0000961,Rakesh Jora,Shakti Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1712,IAPTV0000962,,,Android,,0/43,1.0,used,,0/0
+Online,1713,IAPTV0000963,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,5/43
+Offline,1714,IAPTV0000964,Navaratan Sharma,Hanumangarh Junction,Android,,41/43,1.1,used,,0/0
+Offline,1715,IAPTV0000965,Vivek Deshpande,Patangan Galli,Android,,35/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1716,IAPTV0000966,Narmada Devi Gottipati,Aces Layout,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1717,IAPTV0000967,Pradeep Jain,Shastri Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1718,IAPTV0000968,Suchit Tamboli,Azad Nagar,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,1719,IAPTV0000969,B Sanjay Chari,Shamsheer Gunj,Android,,30/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,1720,IAPTV0000970,Atul Anant Kulkarni,Navi Peth,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1721,IAPTV0000971,,,Android,,15/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Online,1722,IAPTV0000972,Nitin Birla,Raja Colony,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1723,IAPTV0000973,,,Android,,0/43,1.0,used,,0/0
+Offline,1724,IAPTV0000974,Sukumar R,Salem,Android,,0/43,1.0,used,,0/0
+Offline,1725,IAPTV0000975,Jaydeep Bhanudas Deshmukh,Chitale Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1726,IAPTV0000976,Rani Davis,Kundanahalli gate,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Online,1727,IAPTV0000977,Vandan Harisharanprasad Kumar,Vadsar Manjalpur,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1728,IAPTV0000978,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1729,IAPTV0000979,Omprakash Sikchi,Rangar Galli,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1730,IAPTV0000980,Meena Khilnani,Adarsh Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1731,IAPTV0000981,Manish Sharma,Mahesh Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1732,IAPTV0000982,Ravi Venkatappa,Padmanabhanagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1733,IAPTV0000983,Rathna H,Jayan Nagar,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1734,IAPTV0000984,Shyam Kumar Dingra,Katarpura,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1735,IAPTV0000985,Dhyachand Vinod Charles,Coles Road,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,1736,IAPTV0000986,Shashidhra Nagabhushana,Sundar Nagar,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1737,IAPTV0000987,Shankar Hegde,BSH 2nd stage,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1738,IAPTV0000988,Laxman Singh Jadoun,Barkat Nagar,Android,,34/43,1.4,used,PL-IAP-01-ENHI-151217-V1,2/43
+Offline,1739,IAPTV0000989,Anil Kumar Bairwa,Jodhpur,Android,,0/43,1.0,used,,0/0
+Online,1740,IAPTV0000990,Jagdish Prasad Agarwal,Arora Moter Street,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1741,IAPTV0000991,Chanakala P,Nagarbhavi,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1742,IAPTV0000992,Vijay Kant,Chatnag Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,13/43
+Offline,1743,IAPTV0000993,Sushma Sanjay,Yelahanka,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,12/43
+Offline,1744,IAPTV0000994,Balmuri Hanumanthrao,Deepti Srinagar,Android,,5/43,1.1,used,,0/0
+Offline,1745,IAPTV0000995,,,Android,,0/43,1.0,used,,0/0
+Offline,1746,IAPTV0000996,Piyush Khandelwal,Bhutkarwadi,Android,,1/43,1.1,used,,0/0
+Offline,1747,IAPTV0000997,Sudhir Tonke,Rau,Android,,0/43,1.0,used,,0/0
+Offline,1748,IAPTV0000998,Suresh Chana Srivastava,Jhusi,Android,,0/43,1.0,used,,0/0
+Offline,1749,IAPTV0000999,Mangesh Kulkarni,Ghumare galli,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1750,IAPTV0001000,,,Android,,23/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1751,IAPTV0001001,Navaz Bhesania,Dutt Road,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,8/43
+Offline,1752,IAPTV0001002,,,Android,,0/43,1.0,CHEE-AAFC-FRMC-CMOZ-AJME,,0/0
+Offline,1753,IAPTV0001003,Jaipal Reddy,Dilsuk Nagar,Android,,0/43,1.0,used,,0/0
+Offline,1754,IAPTV0001004,Sulbha Amol Pawar,Tulsi Colony Road,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,1755,IAPTV0001005,Sheela Mandhyan,lookerganj,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,14/43
+Offline,1756,IAPTV0001006,,,Android,,0/43,1.0,FHRC-BJSU-BXLD-FDCK-EHFV,,0/0
+Offline,1757,IAPTV0001007,,,Android,,0/43,1.0,BSHX-BZRM-AHHP-CDUQ-CQYB,,0/0
+Offline,1758,IAPTV0001008,,,Android,,0/43,1.0,FHSF-AZGT-CCBU-BAFD-BESI,,0/0
+Offline,1759,IAPTV0001009,,,Android,,0/43,1.0,AWJF-FNVR-BVEY-BJXE-AOXF,,0/0
+Offline,1760,IAPTV0001010,,,Android,,0/43,1.0,DLWW-FCXM-CHIZ-FFLS-BKFN,,0/0
+Offline,1761,IAPTV0001011,,,Android,,0/43,1.0,FHTJ-AOUT-CGSL-CPFZ-DUCZ,,0/0
+Offline,1762,IAPTV0001012,,,Android,,0/43,1.0,AAKN-DKBT-DJCG-APZT-EEUM,,0/0
+Offline,1763,IAPTV0001013,,,Android,,0/43,1.0,FHUL-BPZG-EONW-CZZB-ELCD,,0/0
+Offline,1764,IAPTV0001014,,,Android,,0/43,1.0,EXTQ-BTAU-DAGU-APVK-DHWO,,0/0
+Offline,1765,IAPTV0001015,,,Android,,0/43,1.0,APOB-DVCR-DKIQ-DCTP-ANQO,,0/0
+Offline,1766,IAPTV0001016,,,Android,,0/43,1.0,FHMK-ELFK-DIBG-DIPE-DJAD,,0/0
+Offline,1767,IAPTV0001017,,,Android,,0/43,1.0,FDMK-FJOC-DQVX-AHFK-AUIF,,0/0
+Offline,1768,IAPTV0001018,,,Android,,0/43,1.0,FHNM-FMJX-FPWR-DTIF-DZZH,,0/0
+Offline,1769,IAPTV0001019,,,Android,,0/43,1.0,EIXJ-DSNE-DIAL-AHBB-FPIL,,0/0
+Offline,1770,IAPTV0001020,,,Android,,0/43,1.0,FHOQ-FBXX-ACPE-FIJC-AXLU,,0/0
+Offline,1771,IAPTV0001021,,,Android,,0/43,1.0,DMYQ-BOTF-EVXU-FFBT-DNHP,,0/0
+Offline,1772,IAPTV0001022,,,Android,,0/43,1.0,BLZU-DSTP-AWDP-BQIU-FOFF,,0/0
+Offline,1773,IAPTV0001023,,,Android,,0/43,1.0,FHPU-ERLW-AHFV-BFLV-DMWL,,0/0
+Offline,1774,IAPTV0001024,,,Android,,0/43,1.0,CQZY-FCXL-ARWY-ELEH-BLGS,,0/0
+Offline,1775,IAPTV0001025,,,Android,,0/43,1.0,FISJ-BTMD-BEMX-FJLD-DULH,,0/0
+Offline,1776,IAPTV0001026,,,Android,,0/43,1.0,EJIR-DEVD-DBAE-DDDQ-BWXE,,0/0
+Offline,1777,IAPTV0001027,,,Android,,0/43,1.0,FITN-BJAD-BJDO-BGNW-ARXU,,0/0
+Offline,1778,IAPTV0001028,,,Android,,0/43,1.0,DNJZ-BBBF-EOXM-CJGE-FMUM,,0/0
+Offline,1779,IAPTV0001029,,,Android,,0/43,1.0,DEXG-CEHO-CAYG-FKVJ-FPHL,,0/0
+Offline,1780,IAPTV0001030,,,Android,,0/43,1.0,FIUR-AYOC-BNUF-CVOT-DHIL,,0/0
+Offline,1781,IAPTV0001031,,,Android,,0/43,1.0,CRLH-EPFK-AKWQ-BPIS-DKTP,,0/0
+Offline,1782,IAPTV0001032,,,Android,,0/43,1.0,FIVT-BZSQ-DVPQ-DGHU-DYHP,,0/0
+Offline,1783,IAPTV0001033,,,Android,,0/43,1.0,BWWG-CYEL-ACBF-BPEJ-CNVR,,0/0
+Offline,1784,IAPTV0001034,,,Android,,0/43,1.0,FINS-EUYT-CPDA-DOXX-CWFP,,0/0
+Offline,1785,IAPTV0001035,,,Android,,0/43,1.0,CCPA-AWTQ-ASQH-BGOJ-AAHI,,0/0
+Offline,1786,IAPTV0001036,,,Android,,0/43,1.0,EBIZ-CBYM-FERI-DYKO-EXXY,,0/0
+Offline,1787,IAPTV0001037,,,Android,,0/43,1.0,FIOU-AEFC-EWYL-DZQZ-DNET,,0/0
+Offline,1788,IAPTV0001038,,,Android,,0/43,1.0,BHZZ-EXQV-AJUW-BGKA-EVHO,,0/0
+Offline,1789,IAPTV0001039,,,Android,,0/43,1.0,FIPY-FLRG-FBPC-FORW-AKRG,,0/0
+Offline,1790,IAPTV0001040,,,Android,,0/43,1.0,AMBH-CTWX-BXSE-AMMP-CTGS,,0/0
+Offline,1791,IAPTV0001041,,,Android,,0/43,1.0,BFAE-AUDR-APSV-BVSL-EBJA,,0/0
+Offline,1792,IAPTV0001042,,,Android,,0/43,1.0,FIRC-FBFG-FGFU-BLUP-DABX,,0/0
+Offline,1793,IAPTV0001043,,,Android,,0/43,1.0,FIAS-AQCY-DLPM-FKNH-ARFV,,0/0
+Offline,1794,IAPTV0001044,,,Android,,0/43,1.0,CHLO-DBBF-DOSS-AYGN-BPFH,,0/0
+Offline,1795,IAPTV0001045,,,Android,,0/43,1.0,FIIZ-DQDT-AKZU-AQCW-FRMO,,0/0
+Offline,2855,2855,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2856,2856,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2857,2857,,,Android,,41/43,1.1,used,,0/0
+Offline,2858,2858,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2859,2859,,,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,40/43
+Offline,2860,2860,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2861,2861,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2862,2862,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2863,2863,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2864,2864,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2865,2865,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,2866,2866,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2867,2867,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2868,2868,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2869,2869,,,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,40/43
+Offline,2870,2870,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2871,2871,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2872,2872,,,Android,,40/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2873,2873,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2874,2874,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2875,2875,,,Android,,40/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2876,2876,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,2877,2877,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,2878,2878,,,Android,,38/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/129
+Online,2879,2879,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,2880,2880,,,Android,,38/43,1.1,used,,0/0
+Offline,2881,2881,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2882,2882,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2883,2883,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,2884,2884,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2885,2885,,,Android,,38/43,1.1,used,,0/0
+Away,2886,2886,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2887,2887,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2888,2888,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Online,2889,2889,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2890,2890,,,Android,,36/43,1.1,used,,0/0
+Online,2891,2891,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2892,2892,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Away,2893,2893,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Online,2894,2894,,,Android,,38/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2895,2895,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2896,2896,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2897,2897,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2898,2898,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2899,2899,,,Android,,38/43,1.1,used,,0/0
+Offline,2900,2900,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2901,2901,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2902,2902,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,2903,2903,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2904,2904,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2905,2905,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2906,2906,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2907,2907,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2908,2908,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2909,2909,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2910,2910,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,2911,2911,,,Android,,34/43,1.1,used,,0/0
+Online,2912,2912,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2913,2913,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2914,2914,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2915,2915,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2916,2916,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2917,2917,,,Android,,41/43,1.1,used,,0/0
+Offline,2918,2918,,,Android,,41/43,1.1,used,,0/0
+Offline,2919,2919,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2920,2920,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2921,2921,,,Android,,38/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2922,2922,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2923,2923,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2924,2924,,,Android,,39/43,1.4,used,PL-IAP-01-ENHI-151217-V1,39/43
+Online,2925,2925,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2926,2926,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2927,2927,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2928,2928,,,Android,,40/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2929,2929,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2930,2930,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2931,2931,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2932,2932,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2933,2933,,,Android,,41/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2934,2934,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2935,2935,,,Android,,38/43,1.2,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2936,2936,,,Android,,40/43,1.4,used,PL-IAP-01-ENHI-151217-V1,40/43
+Offline,2937,2937,,,Android,,38/43,1.4,used,PL-IAP-01-ENHI-151217-V1,38/43
+Online,2938,2938,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2939,2939,,,Android,,38/43,1.4,used,PL-IAP-01-ENHI-151217-V1,38/43
+Offline,2940,2940,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2941,2941,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2942,2942,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2943,2943,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2944,2944,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2945,2945,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2946,2946,,,Android,,37/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2947,2947,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2948,2948,,,Android,,41/43,1.1,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,2949,2949,,,Android,,37/43,1.4,used,PL-IAP-01-ENHI-151217-V1,37/43
+Offline,2950,2950,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,41/43
+Offline,2951,2951,,,Android,,38/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,2952,2952,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Online,2953,2953,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,2954,DZBS-FHXU-BJCQ-DEOR-FHFJ,,,Android,,0/43,1.0,DZBS-FHXU-BJCQ-DEOR-FHFJ,,0/0
+Offline,3076,3076,,,Android,,0/43,1.0,used,,0/0
+Offline,3077,3077,,,Android,,0/43,1.0,used,,0/0
+Offline,3078,ENCZ-ERZV-AOSC-BRKE-AYJC,,,Android,,0/43,1.0,ENCZ-ERZV-AOSC-BRKE-AYJC,,0/0
+Offline,3079,BYBO-BHZC-BXRA-ABLI-FJZE,,,Android,,0/43,1.0,BYBO-BHZC-BXRA-ABLI-FJZE,,0/0
+Offline,3080,ENED-EHNU-ATIT-DGLB-DNTT,,,Android,,0/43,1.0,ENED-EHNU-ATIT-DGLB-DNTT,,0/0
+Offline,3081,BCCW-EWDH-DLOI-EZMA-DHYI,,,Android,,0/43,1.0,BCCW-EWDH-DLOI-EZMA-DHYI,,0/0
+Offline,3082,ENAQ-BGQG-CIPO-DAYS-FEYR,,,Android,,0/43,1.0,ENAQ-BGQG-CIPO-DAYS-FEYR,,0/0
+Offline,3083,ENBU-AWEF-CNGF-EPZP-CCLE,,,Android,,0/43,1.0,ENBU-AWEF-CNGF-EPZP-CCLE,,0/0
+Offline,3084,CVJY-DYMA-EEZC-BPBX-CZEW,,,Android,,0/43,1.0,CVJY-DYMA-EEZC-BPBX-CZEW,,0/0
+Offline,3085,ENCW-BXIT-EVBQ-FASQ-CTKI,,,Android,,0/43,1.0,ENCW-BXIT-EVBQ-FASQ-CTKI,,0/0
+Offline,3086,CAUX-CHLC-DWDR-BOXO-CCGY,,,Android,,0/43,1.0,CAUX-CHLC-DWDR-BOXO-CCGY,,0/0
+Offline,3087,ENIP-FOYV-AAIU-BOAT-EIPG,,,Android,,0/43,1.0,ENIP-FOYV-AAIU-BOAT-EIPG,,0/0
+Offline,3088,DMZO-CYLR-ADTY-DLIL-DBYW,,,Android,,0/43,1.0,DMZO-CYLR-ADTY-DLIL-DBYW,,0/0
+Offline,3089,BVBX-ALCR-AXBI-AZXA-BWQG,,,Android,,0/43,1.0,BVBX-ALCR-AXBI-AZXA-BWQG,,0/0
+Offline,3090,ENJS-FEMU-AEZL-DDBQ-BGBS,,,Android,,0/43,1.0,ENJS-FEMU-AEZL-DDBQ-BGBS,,0/0
+Offline,3091,ENGF-CDPF-BUGF-CXPI-CXGQ,,,Android,,0/43,1.0,ENGF-CDPF-BUGF-CXPI-CXGQ,,0/0
+Offline,3092,FGGP-CAUK-AXES-AAYH-CTFL,,,Android,,0/43,1.0,FGGP-CAUK-AXES-AAYH-CTFL,,0/0
+Offline,3093,ENHJ-BTDF-BYWX-EMQF-FMRH,,,Android,,0/43,1.0,ENHJ-BTDF-BYWX-EMQF-FMRH,,0/0
+Offline,3094,EKHX-FOYQ-CLCA-EYZA-AREO,,,Android,,0/43,1.0,EKHX-FOYQ-CLCA-EYZA-AREO,,0/0
+Offline,3095,ENNC-FKTH-CWCE-AZYH-BJYA,,,Android,,0/43,1.0,ENNC-FKTH-CWCE-AZYH-BJYA,,0/0
+Offline,3096,AEOK-AOBB-EKQL-BDLT-BQWM,,,Android,,0/43,1.0,AEOK-AOBB-EKQL-BDLT-BQWM,,0/0
+Offline,3097,BDPX-DRCY-CGCO-CUFF-BTSB,,,Android,,0/43,1.0,BDPX-DRCY-CGCO-CUFF-BTSB,,0/0
+Offline,3098,ENOE-ATZQ-FDXP-BKRI-CAXF,,,Android,,0/43,1.0,ENOE-ATZQ-FDXP-BKRI-CAXF,,0/0
+Offline,3099,ENKT-BZJS-EPZQ-CJMW-FQNP,,,Android,,0/43,1.0,ENKT-BZJS-EPZQ-CJMW-FQNP,,0/0
+Offline,3100,BXVM-FIHY-FEBF-DKZT-BIDB,,,Android,,0/43,1.0,BXVM-FIHY-FEBF-DKZT-BIDB,,0/0
+Offline,3101,FHJV-EROH-CWYZ-EHIU-FBTT,,,Android,,0/43,1.0,FHJV-EROH-CWYZ-EHIU-FBTT,,0/0
+Offline,3102,ENLV-DAOF-BFWX-CUFX-APOQ,,,Android,,0/43,1.0,ENLV-DAOF-BFWX-CUFX-APOQ,,0/0
+Offline,3103,BDGL-DRGZ-EVFU-DKVL-ALFD,,,Android,,0/43,1.0,BDGL-DRGZ-EVFU-DKVL-ALFD,,0/0
+Offline,3104,ENRO-BAGD-CDCE-EZME-CETN,,,Android,,0/43,1.0,ENRO-BAGD-CDCE-EZME-CETN,,0/0
+Offline,3105,CPLC-EIHO-BCWB-FHGI-BKXB,,,Android,,0/43,1.0,CPLC-EIHO-BCWB-FHGI-BKXB,,0/0
+Offline,3106,ENSR-APUD-CHSV-AWOW-EUEE,,,Android,,0/43,1.0,ENSR-APUD-CHSV-AWOW-EUEE,,0/0
+Offline,3107,BTMJ-CENQ-CQTJ-ENIW-FAUJ,,,Android,,0/43,1.0,BTMJ-CENQ-CQTJ-ENIW-FAUJ,,0/0
+Offline,3108,ENPE-DGUS-DWZQ-ARCO-ATKY,,,Android,,0/43,1.0,ENPE-DGUS-DWZQ-ARCO-ATKY,,0/0
+Offline,3109,EISE-DKQI-BWGV-BWWE-BCDQ,,,Android,,0/43,1.0,EISE-DKQI-BWGV-BWWE-BCDQ,,0/0
+Offline,3110,ENQI-CWIS-EBQH-CGDL-DIVO,,,Android,,0/43,1.0,ENQI-CWIS-EBQH-CGDL-DIVO,,0/0
+Offline,3111,DMTL-BGWJ-DKED-BCYT-ESAX,,,Android,,0/43,1.0,DMTL-BGWJ-DKED-BCYT-ESAX,,0/0
+Offline,3112,ENWB-AWAP-EYVP-ELJS-EYAM,,,Android,,0/43,1.0,ENWB-AWAP-EYVP-ELJS-EYAM,,0/0
+Offline,3113,ENXD-BXFD-BOSW-EWCT-FOZQ,,,Android,,0/43,1.0,ENXD-BXFD-BOSW-EWCT-FOZQ,,0/0
+Offline,3114,EEJB-AGVZ-FAXC-CZFH-EUUX,,,Android,,0/43,1.0,EEJB-AGVZ-FAXC-CZFH-EUUX,,0/0
+Offline,3115,ENTR-DCPE-BAUW-ADAC-DMRW,,,Android,,0/43,1.0,ENTR-DCPE-BAUW-ADAC-DMRW,,0/0
+Offline,3116,BAHA-BAFR-ALFE-FGXQ-FIZK,,,Android,,0/43,1.0,BAHA-BAFR-ALFE-FGXQ-FIZK,,0/0
+Offline,3117,ENUT-EDTS-DIQH-ANTD-EDRB,,,Android,,0/43,1.0,ENUT-EDTS-DIQH-ANTD-EDRB,,0/0
+Offline,3118,ENZH-DZOE-AMLO-FROV-BEZW,,,Android,,0/43,1.0,ENZH-DZOE-AMLO-FROV-BEZW,,0/0
+Offline,3119,EOFA-BZGC-BJQV-CEWY-CUET,,,Android,,0/43,1.0,EOFA-BZGC-BJQV-CEWY-CUET,,0/0
+Offline,3120,EBJQ-DHSV-AQWN-EVHN-EARA,,,Android,,0/43,1.0,EBJQ-DHSV-AQWN-EVHN-EARA,,0/0
+Offline,3121,EOGC-DAKP-DRMG-CPPZ-DLDY,,,Android,,0/43,1.0,EOGC-DAKP-DRMG-CPPZ-DLDY,,0/0
+Offline,3122,DGUP-BQRX-AIBB-EVDE-DDTC,,,Android,,0/43,1.0,DGUP-BQRX-AIBB-EVDE-DDTC,,0/0
+Offline,3123,EOCQ-EFUR-DDOH-DOLM-BIWE,,,Android,,0/43,1.0,EOCQ-EFUR-DDOH-DOLM-BIWE,,0/0
+Offline,3124,ACSO-CKBP-BKHH-BKXJ-DRXP,,,Android,,0/43,1.0,ACSO-CKBP-BKHH-BKXJ-DRXP,,0/0
+Offline,3125,EODS-FGZE-FLJS-DZEO-BZVI,,,Android,,0/43,1.0,EODS-FGZE-FLJS-DZEO-BZVI,,0/0
+Offline,3126,3126,,,Android,,13/43,1.3,used,,0/0
+Offline,3127,3127,,,Android,,0/43,1.0,used,,0/0
+Offline,3128,EOKP-CWFC-AVHM-CBNN-AMMS,,,Android,,0/43,1.0,EOKP-CWFC-AVHM-CBNN-AMMS,,0/0
+Offline,3129,3129,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,3130,3130,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,0/43
+Offline,3131,3131,,,Android,,13/43,1.3,used,,0/0
+Offline,3132,EOIG-FCTR-CPEY-DLCC-ETCH,,,Android,,0/43,1.0,EOIG-FCTR-CPEY-DLCC-ETCH,,0/0
+Offline,3133,BRQO-EAOE-FIIJ-EUUN-BJXH,,,Android,,0/43,1.0,BRQO-EAOE-FIIJ-EUUN-BJXH,,0/0
+Offline,3134,3134,,,Android,,13/43,1.3,used,,0/0
+Offline,3135,3135,,,Android,,13/43,1.3,used,,0/0
+Offline,3136,ELTR-BLOK-ABDT-BTRO-AJBP,,,Android,,0/43,1.0,ELTR-BLOK-ABDT-BTRO-AJBP,,0/0
+Offline,3137,3137,,,Android,,0/43,1.0,used,,0/0
+Offline,3138,3138,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,3139,3139,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,3140,3140,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3141,3141,,,Android,,0/43,1.0,used,,0/0
+Online,3142,3142,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3143,3143,,,Android,,1/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,3144,3144,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,3145,3145,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3146,3146,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3147,3147,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3148,3148,,,Android,,0/43,1.0,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3149,3149,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,3150,3150,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3151,3151,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3152,EHDG-FDEQ-ATPR-APKF-BZJX,,,Android,,0/43,1.0,EHDG-FDEQ-ATPR-APKF-BZJX,,0/0
+Away,3153,3153,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Away,3154,3154,,,Android,,41/43,1.4,used,PL-IAP-01-ENHI-151217-V1,43/43
+Offline,3155,EMAG-EVIM-DXUP-AWTJ-CLVL,,,Android,,0/43,1.0,EMAG-EVIM-DXUP-AWTJ-CLVL,,0/0
+Online,3156,3156,,,Android,,9/43,1.4,used,PL-IAP-01-ENHI-151217-V1,9/43
+Offline,3157,EMFZ-CVAK-EUZW-DBZQ-EBAJ,,,Android,,0/43,1.0,EMFZ-CVAK-EUZW-DBZQ-EBAJ,,0/0
+Online,3158,3158,,,Android,,29/43,1.4,used,PL-IAP-01-ENHI-151217-V1,29/43
+Online,3159,3159,,,Android,,1/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,3160,3160,,,Android,,27/43,1.4,used,,0/0
+Online,3161,3161,,,Android,,41/43,1.3,used,PL-IAP-01-ENHI-151217-V1,0/43
+Online,3162,3162,,,Android,,1/43,1.4,used,PL-IAP-01-ENHI-151217-V1,1/43
+Offline,3163,CRZE-BVCT-ABYU-APBO-AFOC,,,Android,,0/43,1.0,CRZE-BVCT-ABYU-APBO-AFOC,,0/0
+Offline,3164,EMFX-EGQY-BGGM-BXRU-CCOX,,,Android,,0/43,1.0,EMFX-EGQY-BGGM-BXRU-CCOX,,0/0
+Offline,3165,BWAM-FJGZ-BPWC-FNCG-DVLJ,,,Android,,0/43,1.0,BWAM-FJGZ-BPWC-FNCG-DVLJ,,0/0
+Offline,3166,EMLP-DRZJ-EGQO-CYQF-BTII,,,Android,,0/43,1.0,EMLP-DRZJ-EGQO-CYQF-BTII,,0/0
+Offline,3167,3167,,,Android,,13/43,1.4,used,,0/0
+Offline,3168,EMMS-DHNJ-ELHF-ENRC-EISZ,,,Android,,0/43,1.0,EMMS-DHNJ-ELHF-ENRC-EISZ,,0/0
+Offline,3169,CNQC-EJGP-DGPC-BRKQ-DYFJ,,,Android,,0/43,1.0,CNQC-EJGP-DGPC-BRKQ-DYFJ,,0/0
+Offline,3170,EMJF-AGPU-AIPV-EIET-AHZT,,,Android,,0/43,1.0,EMJF-AGPU-AIPV-EIET-AHZT,,0/0
+Offline,3171,EMKJ-FOBY-ANGN-AFHM-CXKJ,,,Android,,0/43,1.0,EMKJ-FOBY-ANGN-AFHM-CXKJ,,0/0
+Offline,3172,3172,,,Android,,0/43,1.0,used,,0/0
+Offline,3173,3173,,,Android,,0/43,1.0,used,,0/0
+Offline,3174,3174,,,Android,,13/43,1.4,used,,0/0
+Offline,3175,3175,,,Android,,22/43,1.4,used,PL-IAP-01-ENHI-151217-V1,22/43

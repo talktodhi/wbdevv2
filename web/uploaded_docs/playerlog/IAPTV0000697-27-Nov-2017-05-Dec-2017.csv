@@ -1,0 +1,876 @@
+TokenId,DateTime,Title,ArtistName,Playlistname,CategoryName
+1447,05-12-2017 23:57:42,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:56:42,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:51:18,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:49:18,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:48:21,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:38:08,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 23:36:23,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:33:38,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:32:15,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:29:35,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:28:35,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:23:11,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:21:11,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:10:01,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 23:05:31,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:04:07,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:01:28,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 23:00:28,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:40:09,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:37:24,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:36:01,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:32:21,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:26:57,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:12:02,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:09:16,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 22:07:53,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:55:53,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:43:55,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:37:07,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:30:43,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:27:45,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 21:11:40,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 20:49:26,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 20:34:29,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 20:32:29,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 20:21:19,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 20:16:49,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 19:47:18,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 19:25:05,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 19:19:12,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 18:48:25,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 18:28:51,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 18:13:54,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 17:45:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 17:43:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 17:42:50,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 17:07:45,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 17:00:01,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:52:20,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:49:34,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:46:37,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:36:24,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 16:30:31,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:24:14,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:18:30,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:06:33,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 16:03:47,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:56:06,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:38:26,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:31:37,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:30:37,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:23:14,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 15:12:03,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 14:55:07,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:42:12,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:39:26,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:35:24,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:34:24,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:31:46,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:11:20,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 14:06:17,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 13:22:50,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 13:13:43,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 13:10:03,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 13:01:42,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 12:54:43,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 12:39:18,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 12:34:33,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 11:49:22,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 11:14:58,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 11:12:12,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 11:10:12,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 11:02:16,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 10:57:18,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:41:08,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:18:44,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:15:58,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:13:59,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:13:01,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 10:06:02,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 10:02:48,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 10:01:04,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:56:55,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:54:16,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:50:38,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:37:56,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 09:32:57,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:30:12,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:28:48,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:25:09,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:17:45,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:16:48,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:04:50,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:02:04,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 09:00:41,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:58:02,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:57:02,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:54:24,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:51:38,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:49:38,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:48:41,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:41:42,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 08:38:28,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 08:36:44,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:33:58,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:32:35,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:29:55,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:28:55,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:26:17,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:21:32,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:20:34,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:13:35,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 08:10:21,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 08:08:37,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:05:51,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:04:28,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:01:48,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 08:00:48,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:55:24,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:53:24,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:45:28,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 07:42:14,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 07:40:30,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:37:44,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:36:21,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:33:42,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:32:42,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:30:04,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:27:18,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:25:18,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:24:20,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:17:21,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 07:14:08,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 07:12:23,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:09:37,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:08:14,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:05:35,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 07:04:35,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:59:11,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:57:11,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:56:13,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:49:15,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 06:46:01,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 06:44:16,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:40:08,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:37:28,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:36:28,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:33:50,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:29:04,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:28:07,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:21:08,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 06:17:54,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 06:16:10,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:13:24,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:09:21,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:05:43,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:02:57,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:00:57,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 06:00:00,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:53:01,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 05:49:47,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 05:48:03,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:37:36,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:34:50,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:32:50,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:31:53,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:24:54,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 05:21:40,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 05:19:56,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:15:47,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:12:07,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:09:29,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:06:44,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:04:44,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 05:03:46,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:56:47,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 04:53:34,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 04:51:49,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:49:03,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:47:40,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:45:00,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:44:00,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:41:22,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:38:36,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:36:37,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:28:40,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 04:25:26,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 04:23:42,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:16:54,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:15:54,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:13:16,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:10:30,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 04:00:34,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 03:57:20,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 03:52:50,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:51:27,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:48:47,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:47:47,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:45:09,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:42:23,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:40:23,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:32:27,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 03:29:13,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 03:27:29,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:24:43,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:20:40,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:19:40,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:14:16,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:12:17,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:11:19,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 03:04:20,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 03:01:06,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 02:59:22,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:55:13,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:51:33,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:44:10,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:43:12,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:31:15,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:28:29,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:24:26,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:23:26,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:20:48,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:16:03,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:15:05,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:08:06,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 02:04:52,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 02:03:08,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 02:00:22,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:58:59,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:56:19,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:52:41,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:49:55,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:47:55,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:46:58,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:39:59,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 01:36:45,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 01:35:00,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:21:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:19:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:18:50,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 01:08:38,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 00:59:05,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:56:27,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:53:41,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:51:41,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:50:44,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:43:45,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 00:40:31,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 00:38:46,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:36:01,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:34:38,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:31:58,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:25:34,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:15:38,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,05-12-2017 00:12:24,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,05-12-2017 00:10:40,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:07:54,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:06:31,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:03:51,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:02:51,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:00:13,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,05-12-2017 00:00:01,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:57:25,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:56:25,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:51:01,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:49:01,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:41:05,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 23:36:07,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:33:21,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:31:58,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:29:18,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:28:18,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:20:55,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:12:58,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 23:08:00,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:03:51,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:01:12,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 23:00:11,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:57:33,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:52:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:51:50,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:37:07,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:35:44,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:33:05,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:32:05,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:29:27,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:16:44,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 22:07:38,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:04:58,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 22:01:20,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 21:43:40,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 21:33:13,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 21:30:27,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 21:05:07,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:59:23,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:44:41,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:19:20,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:12:32,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:11:31,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 20:06:08,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 19:51:13,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 19:44:25,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 19:20:21,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:55:00,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:47:12,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:41:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:26:53,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:16:27,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 18:13:41,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 17:54:38,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 17:48:20,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 17:32:25,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 17:20:14,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 17:07:32,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 17:04:18,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 16:58:24,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:46:24,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:39:25,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 16:24:00,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:21:15,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:08:05,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 16:06:20,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:03:35,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 16:02:12,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 15:38:14,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 15:34:05,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 15:30:25,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 15:22:04,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 15:11:51,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 14:53:57,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:39:14,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:31:34,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:28:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:26:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:25:51,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:09:45,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 14:06:05,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 13:58:41,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 13:14:55,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 13:13:32,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 13:07:14,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 13:02:28,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 12:54:32,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 12:51:18,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 12:42:46,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 12:34:22,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 12:33:24,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 12:11:00,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 12:05:17,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 11:22:28,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:52:58,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:43:54,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:33:58,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 10:30:44,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 10:26:14,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:15:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:13:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:12:50,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 10:02:38,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 10:00:53,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:56:44,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:50:27,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:45:41,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:37:45,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 09:34:31,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 09:30:01,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:28:38,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:24:58,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:22:20,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:17:34,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:16:37,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:09:38,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 09:04:40,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 09:00:31,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:57:51,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:56:51,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:54:13,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:49:28,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:41:31,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 08:38:17,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 08:36:33,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:33:47,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:32:24,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:29:45,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:28:45,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:26:07,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:23:21,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:20:23,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:10:11,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 08:08:26,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:05:41,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:04:18,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:01:38,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 08:00:38,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:58:00,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:55:14,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:52:17,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:45:18,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 07:40:20,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:37:34,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:36:11,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:33:31,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:32:31,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:29:53,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:27:07,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:25:08,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:24:10,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:17:11,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 07:13:57,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 07:12:13,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:09:27,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:08:04,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:05:25,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 07:04:25,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:59:01,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:56:03,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:49:05,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 06:45:51,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 06:44:06,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:41:20,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:39:57,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:37:18,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:36:18,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:33:40,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:30:54,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:28:54,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:27:57,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:20:58,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 06:17:44,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 06:16:00,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:13:14,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:11:51,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:09:12,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:08:12,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:05:34,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:02:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 06:00:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:59:50,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:52:52,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 05:47:53,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:45:08,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:43:45,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:41:05,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:37:27,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:34:41,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:32:42,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:31:44,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:24:45,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 05:19:47,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:17:01,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:12:59,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:09:20,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:06:35,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:04:35,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 05:03:37,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:56:38,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 04:53:25,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 04:51:40,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:48:55,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:44:52,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:41:14,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:38:28,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:36:28,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:35:30,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:28:32,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 04:25:18,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 04:23:33,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:20:48,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:19:25,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:16:45,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:15:45,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:13:07,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:10:21,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:08:21,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:07:24,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 04:00:25,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 03:57:11,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 03:55:27,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:52:41,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:51:18,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:48:39,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:47:38,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:45:00,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:42:15,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:40:15,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:39:17,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:32:19,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 03:29:05,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 03:27:21,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:24:35,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:23:12,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:19:32,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:16:54,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:14:08,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:12:09,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:11:11,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 03:04:12,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 03:00:58,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 02:59:14,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:56:28,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:55:05,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:52:26,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:46:02,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:44:02,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:43:05,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:36:06,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 02:32:52,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 02:31:07,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:28:22,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:26:59,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:23:19,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:20:41,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:17:55,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:15:55,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:14:58,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 02:07:59,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 02:04:45,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 02:00:15,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:58:52,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:56:13,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:55:12,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:52:34,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:49:49,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:47:49,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:46:51,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:39:52,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 01:36:39,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 01:34:54,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:30:45,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:28:06,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:27:06,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:24:28,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:21:42,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:19:42,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:18:45,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:11:46,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 01:08:32,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 01:06:48,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:04:02,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 01:02:39,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:59:59,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:58:59,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:56:21,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:51:36,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:50:38,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:43:39,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,04-12-2017 00:40:26,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 00:38:41,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:35:56,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:31:53,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:30:53,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:28:15,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:25:29,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:23:30,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:22:32,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:12:20,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,04-12-2017 00:10:35,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:07:49,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:06:26,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,04-12-2017 00:00:09,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:54:00,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 23:50:46,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 23:49:02,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:46:16,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:44:53,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:42:13,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:41:13,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:38:35,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:35:49,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:32:52,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:25:53,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 23:22:40,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 23:20:55,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:18:09,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:16:46,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:14:07,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:13:07,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:10:29,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:07:43,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:05:43,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 23:04:46,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:54:33,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 22:50:03,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:48:40,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:46:00,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:45:00,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:42:22,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:39:36,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:37:37,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:29:40,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 22:26:26,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 22:24:42,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:21:56,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:20:33,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:17:54,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:14:16,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:11:30,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:09:30,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 22:08:33,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:58:20,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 21:53:50,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:52:27,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:49:47,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:48:47,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:41:24,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:30:13,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 21:28:29,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:24:20,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:13:17,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:12:19,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 21:02:07,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 21:00:23,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:57:37,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:56:14,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:47:10,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:44:13,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:37:14,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 20:32:16,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:28:07,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:25:28,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:19:04,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:17:04,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 20:09:08,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 20:04:09,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:57:21,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:56:21,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:53:43,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:48:00,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:41:01,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 19:37:47,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 19:36:03,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:33:17,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:31:54,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:25:36,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:22:50,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:20:51,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:19:53,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:12:54,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 19:09:40,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 19:07:56,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:01:08,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 19:00:08,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 18:57:30,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 18:44:47,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,03-12-2017 18:41:34,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,03-12-2017 18:39:49,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 18:37:03,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 18:32:01,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,03-12-2017 18:29:23,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 11:18:21,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 11:02:01,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 10:54:17,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 10:46:36,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 10:41:51,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 10:13:44,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 10:12:47,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 10:05:48,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 09:50:24,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:47:38,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:37:42,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 09:32:44,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:28:35,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:25:56,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:24:56,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:17:32,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:16:35,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:09:36,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 09:06:22,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 09:04:38,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 09:01:52,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:57:50,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:56:50,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:54:12,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:51:26,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:48:28,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:29:43,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:26:05,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:13:23,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 08:10:09,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 08:08:25,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 08:05:39,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:57:59,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:55:13,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:53:13,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:52:16,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:42:03,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 07:40:19,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:37:33,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:33:30,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:32:30,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:29:52,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:25:07,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:13:56,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 07:12:12,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:09:26,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 07:04:24,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:59:00,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:57:00,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:56:03,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:49:04,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 06:37:17,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:36:17,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:28:53,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:27:56,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:20:57,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 06:15:59,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:13:13,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:09:11,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:08:11,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:02:47,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 06:00:47,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:59:49,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:52:51,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 05:47:52,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:43:44,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:41:04,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:40:04,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:34:40,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:32:40,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:24:44,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 05:17:00,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:15:37,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:11:58,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:06:34,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:04:34,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 05:03:37,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:53:24,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 04:51:40,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:48:54,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:47:31,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:44:52,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:38:28,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:36:28,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:25:18,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 04:23:33,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:20:47,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:16:45,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:10:21,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 04:00:25,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 03:57:11,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 03:55:27,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:48:39,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:47:38,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:45:00,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:40:15,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:39:17,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:29:05,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 03:27:20,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:24:34,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:20:32,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:19:32,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:11:11,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 03:04:12,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 02:59:13,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:56:28,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:55:05,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:48:47,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:46:01,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:44:02,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:43:04,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:36:05,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 02:32:51,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 02:28:21,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:24:19,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:23:19,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:17:55,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:15:55,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:14:58,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 02:07:59,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 02:04:45,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 02:00:15,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:56:12,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:55:12,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:49:48,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:47:48,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:46:51,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:36:38,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 01:34:54,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:32:08,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:28:06,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:27:06,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:21:42,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:19:42,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:08:32,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,28-11-2017 01:06:48,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:04:02,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 01:02:39,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:56:21,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:51:36,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:50:38,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:43:39,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 00:38:41,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:34:32,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:31:53,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:28:15,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:25:29,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:23:29,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:15:33,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,28-11-2017 00:10:35,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,28-11-2017 00:06:26,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:57:01,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:51:59,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:46:35,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:36:39,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 23:33:25,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 23:28:55,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:27:32,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:21:15,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:16:29,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:15:32,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 23:08:33,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 22:59:25,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 22:53:08,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 22:40:26,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 22:32:42,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 22:20:16,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 22:12:20,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 22:04:36,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 21:52:10,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 21:51:12,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 21:28:49,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 21:26:03,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 20:16:40,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 19:42:40,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 19:15:57,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 18:19:44,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 18:15:42,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 18:06:20,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 17:38:14,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 17:31:15,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 17:28:01,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 17:26:16,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 17:18:28,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 17:03:08,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 16:59:54,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 16:58:09,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 16:55:24,Recipe - Moong Sprout Dosa,EC-MSD-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 16:42:00,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 16:19:36,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 16:06:54,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 16:03:40,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 15:55:08,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:54:07,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:48:44,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:38:48,Saath Saath 1 - Going Back To Work,EC-SS1-WE-H-0617,West and North IAP TV,IAP TV
+1447,27-11-2017 15:29:41,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:27:01,Travelling With Kids,EC-TWK-PT-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:20:37,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:17:40,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 15:07:27,Abbott Vaccines Branded,BC-AVE-CH-E-1117,West and North IAP TV,IAP TV
+1447,27-11-2017 14:55:17,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:52:31,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:50:31,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:49:34,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:33:28,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:29:48,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:24:25,Recipe - Peach And Apple  Rice,EC-PAR-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:22:25,Marico Saffola Brand Linked Cheese Balls,BC-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:09:30,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:05:21,Marico Saffola Branded Mushroom,BL-SAF-CN-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 14:01:42,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 13:53:21,J&J Guide To Baby Milestones 1 Month,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 13:41:24,Furball 3 - Immunity - New,EC-F3I-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 13:33:35,J&J How To Bathe Your Newborn,BC-JAJ-CH-E-1017,West and North IAP TV,IAP TV
+1447,27-11-2017 13:30:57,Recipe - Apple Ragi Porridge,EC-RARP-CN-E-1017,West and North IAP TV,IAP TV

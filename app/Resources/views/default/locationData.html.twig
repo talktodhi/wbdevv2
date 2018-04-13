@@ -1,0 +1,229 @@
+<form class="form-horizontal" action="" method="post" id="updatedoctorForm">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <br>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Location Id:</label>
+                  <div class="col-sm-7">
+                    <input type="text" class="form-control" placeholder="Location Id" value="{{ data['location_id'] }}" disabled>
+                    <input type="hidden" name="location_id" value="{{ data['location_id'] }}">
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="netwr">Network-ID:</label>
+                  <div class="col-sm-7">          
+                    <input type="text" class="form-control" id="network_id" placeholder="Network-ID:" name="network_id"  value="{{ data['network_id'] }}">
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Doctor Name</label>
+                  <div class="col-sm-7">
+                    <input type="text" class="form-control" id="doctor_name" placeholder="Doctor Name" name="doctor_name" value="{{ data['name'] }}">
+                  </div>
+                </div>
+            </div>
+            <!--<div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="text">Gender</label>
+                  <div class="col-sm-7">
+                    <label class="radio-inline">
+                          <input type="radio" name="optradio">Male
+                        </label>
+                        <label class="radio-inline">
+                          <input type="radio" name="optradio">Female
+                        </label>
+                  </div>
+                </div>
+            </div>-->
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label class="control-label col-sm-5" for="netwr">Doctors Mobile Number</label>
+                  <div class="col-sm-7">          
+                    <input type="text" class="form-control" id="doctor_mobile" placeholder="Doctor Mobile Number" name="doctor_mobile" value="{{ data['mobile'] }}">
+                  </div>
+                </div>
+            </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 1</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="ll_num2" placeholder="Landline Number" name="ll_num1" value="{{ data['ll_num1'] }}">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 2</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="ll_num2" placeholder="Landline Number" name="ll_num2" value="{{ data['ll_num2'] }}">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Receptionst Name</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="receptionist_name" name="receptionist_name" value="{{ data['receptionist_name'] }}" placeholder="Receptionist Name" >
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Receptionst Mobile Number</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="receptionist_mobile" name="receptionist_mobile" value="{{ data['receptioist_mobile'] }}" placeholder="Receptionist Number">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">City</label>
+          <div class="col-sm-7">          
+            <!--<select class="selectpicker col-sm-12" data-style="btn-primary">
+                  <option>Mumbai</option>
+                  <option>Delhi</option>
+                  <option>Gurgaon</option>
+            </select>-->
+            <input type="text" class="form-control" id="city" name="city" value="{{ data['city'] }}" placeholder="city">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">State</label>
+          <div class="col-sm-7">          
+            <!--<select class="selectpicker col-sm-12" data-style="btn-primary">
+                  <option>Mumbai</option>
+                  <option>Delhi</option>
+                  <option>Gurgaon</option>
+                </select>-->
+            <input type="text" class="form-control" id="state" name="state" value="{{ data['state'] }}" placeholder="State">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Pincode</label>
+          <div class="col-sm-7">          
+            <input type="text" class="form-control" id="pincode" name="pincode" value="{{ data['pincode'] }}" placeholder="Pincode">
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Address</label>
+          <div class="col-sm-7">          
+            <textarea class="form-control" rows="5" id="address" name="address">{{ data['address'] }}</textarea>
+          </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Morning) From :</label>
+          <!--<div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickermf'>
+        <input type='text' class="form-control"  />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+          <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="mornfrom" type="text" class="form-control" />-->
+                <input id="mornfrom" name="mornfrom" type="text" class="form-control" value="{{ data['morning_time_from'] }}" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+            <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Morning) To :</label>
+          <!--<div class="col-sm-7">          
+            <div class='input-group date' >
+        <input type='text' class="form-control" id='datetimepickermt' name='datetimepickermt' value=""/>
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+          <div class="input-group bootstrap-timepicker col-sm-7">
+                <input id="mornto" name="mornto" type="text" class="form-control" value="{{ data['morning_time_to'] }}" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+              <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) From :</label>
+          <!--
+          <div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickeref'>
+        <input type='text' class="form-control" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>
+          -->
+            <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="evenfrom" type="text" class="form-control" />-->
+                <input id="evenfrom" name="evenfrom" type="text" class="form-control" value="{{ data['evening_time_from'] }}" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+        </div>
+        </div>
+        <div class="col-sm-6">
+        <div class="form-group">
+          <!--<label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) To :</label>
+          <div class="col-sm-7">          
+            <div class='input-group date' id='datetimepickeret'>
+        <input type='text' class="form-control" />
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-time"></span>
+        </span>
+    </div>
+          </div>-->
+            <label class="control-label col-sm-5" for="netwr">Clinic Timing (Evevning) To :</label>
+            <div class="input-group bootstrap-timepicker col-sm-7">
+                <!--<input id="evento" type="text" class="form-control" value="21:00" />-->
+                <input id="evento" name="evento" type="text" class="form-control" value="{{ data['evening_time_to'] }}" />
+                <span class="input-group-addon">
+                    <i class="fa fa-clock-o bigger-110"></i>
+                </span>
+            </div>
+          
+          </div>
+        </div>
+        <!--    <div class="col-sm-6">
+        <div class="form-group">
+          <label class="control-label col-sm-5" for="netwr">Added Date:</label>
+          <div class="col-sm-7">
+    <div class='input-group date' id='datetimepicker1'>
+        <input type='text' class="form-control" value="21:00"/>
+        <span class="input-group-addon">
+            <span class="glyphicon glyphicon-calendar"></span>
+        </span>
+    </div>
+          </div>
+        </div>
+        </div>-->
+            <div class="col-sm-6">
+        <div class="form-group">        
+          <div class="col-sm-offset-5 col-sm-7">
+            <button type="button" onClick="UpdateDoctor();" class="btn btn-default col-lg-12 col-md-12 col-sm-12 col-xs-12">Update</button>
+          </div>
+        </div><!--end form-group-->
+    </div>
+</div>
+</form>
+											

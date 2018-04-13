@@ -1,0 +1,652 @@
+{% extends 'base_main.html.twig' %}
+{% block title %}WayBeyond - Doctors Listing{% endblock %}
+{% block body %}
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">Doctors</a>
+                </li>
+                <li class="active">Listing</li>
+            </ul>
+            <!-- /.breadcrumb -->
+            <!--<div class="nav-search" id="nav-search">
+                <form class="form-search">
+                    <span class="input-icon">
+                    <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off" />
+                    <i class="ace-icon fa fa-search nav-search-icon"></i>
+                    </span>
+                </form>
+            </div>-->
+            <!-- /.nav-search -->
+        </div>
+        <div class="page-content">
+            <!-- /.page-header -->
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <form class="form-horizontal" action="{{ path('doctors_listing') }}" id='searchForm' role="form">
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> Location ID :</label>
+                            <div class="col-sm-9">
+                                <!--<input type="text" id="form-field-1" placeholder="Username" class="col-xs-10 col-sm-5" />-->
+                                <select data-placeholder="Choose a Location ID..." name="location_id[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['location_id'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['location_id'] is defined %}
+                                    {% set checkFlag = location_id_val|twigCheckInArry(data.get['location_id']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1">Doctor Name :</label>
+                            <div class="col-sm-9">
+                                <select data-placeholder="Choose a Doctor..." name="doctor_name[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['doctor_name'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['doctor_name'] is defined %}    
+                                        {% set checkFlag = location_id_val|twigCheckInArry(data.get['doctor_name']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-sm-3 control-label no-padding-right" for="form-field-1"> City :</label>
+                            <div class="col-sm-9">
+                                 <select data-placeholder="Choose City..." name="city[]" class="chosen-select" multiple style="width: 500px;" tabindex="4">
+                                    <option value=""></option>
+                                {% for location_id_key,location_id_val in data.options['city'] %}
+                                    {% set selected = '' %}
+                                    {% if data.get['city'] is defined %}
+                                        {% set checkFlag = location_id_val|twigCheckInArry(data.get['city']) %}
+                                        {% if checkFlag == '1' %}
+                                            {% set selected = 'selected' %}
+                                        {% endif %}
+                                    {% endif %}
+                                    <option {{ selected }} value="{{location_id_key}}">{{location_id_val}}</option>
+                                {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="clearfix">
+                            <div class="col-md-offset-3 col-md-9">
+                                <button onClick='$( "#searchForm" ).submit();' class="btn btn-info" type="button">
+                                <i class="ace-icon fa fa-check bigger-110"></i>
+                                Search
+                                </button>
+                                &nbsp; &nbsp; &nbsp;
+                                <button onClick='reset2();' class="btn" type="reset">
+                                <i class="ace-icon fa fa-undo bigger-110"></i>
+                                Reset
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                    
+                    <div class="hr hr-18 dotted hr-double"></div>
+                    
+                    <span class="col-sm-4">
+                        <label>
+                            <small class="green">
+                                <b>Detailed View</b>
+                            </small>
+                            <input type="checkbox" class="ace ace-switch ace-switch-4" value="1" id="skip-validation">
+                            <span class="lbl middle"></span>
+                        </label>
+                        <a class='north' href="{{ asset('uploaded_docs/doctors/MasterData2.csv') }}" target="_blank">Download Sample</a>
+                    </span>
+                    
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <table id="simple-table" class="table  table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <!--<th class="center">
+                                            <label class="pos-rel">
+                                            <input type="checkbox" class="ace" />
+                                            <span class="lbl"></span>
+                                            </label>
+                                        </th>-->
+                                        <th class="detail-col">Sr. No.</th>
+                                        <th>Location ID</th>
+                                        <th>Doctor Name</th>
+                                        <th class="hidden-480">Mobile #</th>
+                                       <!-- <th>
+                                            
+                                            Data Available
+                                        </th>-->
+                                        <th class="hidden-480">City</th>
+                                        <th>Details</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% set Count =  data['countSrNo'] %}
+                                    {% for doctors_list_val in data.doctors_list %}
+                                    <tr>
+
+                                        <td class="center">
+                                            {{ Count }}
+                                        </td>
+                                        <td>
+                                           {{ doctors_list_val['location_id'] }}
+                                        </td>
+                                        <td>{{ doctors_list_val['name'] }}</td>
+                                        <td class="hidden-480">{{ doctors_list_val['mobile'] }}</td>
+                                        <!--<td>Feb 12</td>-->
+                                        <td class="hidden-480">
+                                            {{ doctors_list_val['city'] }}
+                                        </td>
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <!--<button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>-->
+                                                <button class="btn btn-xs btn-info" onClick="EditDoctorDetails({{ doctors_list_val['location_id'] }})">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                               <!-- <button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>-->
+                                            </div><!--
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>-->
+                                        </td>
+                                    </tr>
+                                    {% set Count = Count + 1 %}
+                                    {% endfor %}
+                                    
+                                </tbody>
+                            </table>
+                                    
+                            <table id="detail-table" style="display:none;" class="table  table-bordered table-hover">
+                                <thead>
+                                    <tr>
+                                        <th class="detail-col">Sr. No.</th>
+                                        <th>Location ID</th>
+                                        <th>Network ID</th>
+                                        <th>Doctor Name</th>
+                                        <th>Mobile #</th>
+                                        <th>Landline 1</th>
+                                        <th>Landline 2</th>
+                                        <th>Receptionist Name</th>
+                                        <th>Receptionist Mobile</th>
+                                        <th>City</th>
+                                        <th>State</th>
+                                        <th>Pincode</th>
+                                        <th>Address</th>
+                                        <th>Timings</th>
+                                       <!-- <th>
+                                            Data Available
+                                        </th>-->
+                                        <th>Details</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% set Count =  data['countSrNo'] %}
+                                    {% for doctors_list_val in data.doctors_list %}
+                                    <tr>
+
+                                        <td class="center">
+                                            {{ Count }}
+                                        </td>
+                                        <td>{{ doctors_list_val['location_id'] }}</td>
+                                        <td>{{ doctors_list_val['network_id'] }}</td>
+                                        <td>{{ doctors_list_val['name'] }}</td>
+                                        <td >{{ doctors_list_val['mobile'] }}</td>
+                                        <td >{{ doctors_list_val['ll_num1'] }}</td>
+                                        <td >{{ doctors_list_val['ll_num2'] }}</td>
+                                        <td >{{ doctors_list_val['receptionist_name'] }}</td>
+                                        <td >{{ doctors_list_val['receptioist_mobile'] }}</td>
+                                        <td >{{ doctors_list_val['city'] }}</td>
+                                        <td >{{ doctors_list_val['state'] }}</td>
+                                        <td >{{ doctors_list_val['pincode'] }}</td>
+                                        <td >{{ doctors_list_val['address'] }}</td>
+                                        <td >{{ doctors_list_val['morning_time_from'] }} To {{ doctors_list_val['morning_time_to'] }} <br/> 
+                                            {{ doctors_list_val['evening_time_from'] }} To {{ doctors_list_val['evening_time_to'] }}</td>
+                                        <!--<td>Feb 12</td>-->
+                                        <td>
+                                            <div class="hidden-sm hidden-xs btn-group">
+                                                <!--<button class="btn btn-xs btn-success">
+                                                <i class="ace-icon fa fa-check bigger-120"></i>
+                                                </button>-->
+                                                <button class="btn btn-xs btn-info" onClick="EditDoctorDetails({{ doctors_list_val['location_id'] }});">
+                                                <i class="ace-icon fa fa-pencil bigger-120"></i>
+                                                </button>
+                                                <!--<button class="btn btn-xs btn-danger">
+                                                <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                </button>
+                                                <button class="btn btn-xs btn-warning">
+                                                <i class="ace-icon fa fa-flag bigger-120"></i>
+                                                </button>-->
+                                            </div><!--
+                                            <div class="hidden-md hidden-lg">
+                                                <div class="inline pos-rel">
+                                                    <button class="btn btn-minier btn-primary dropdown-toggle" data-toggle="dropdown" data-position="auto">
+                                                    <i class="ace-icon fa fa-cog icon-only bigger-110"></i>
+                                                    </button>
+                                                    <ul class="dropdown-menu dropdown-only-icon dropdown-yellow dropdown-menu-right dropdown-caret dropdown-close">
+                                                        <li>
+                                                            <a href="#" class="tooltip-info" data-rel="tooltip" title="View">
+                                                            <span class="blue">
+                                                            <i class="ace-icon fa fa-search-plus bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-success" data-rel="tooltip" title="Edit">
+                                                            <span class="green">
+                                                            <i class="ace-icon fa fa-pencil-square-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="#" class="tooltip-error" data-rel="tooltip" title="Delete">
+                                                            <span class="red">
+                                                            <i class="ace-icon fa fa-trash-o bigger-120"></i>
+                                                            </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>-->
+                                        </td>
+                                    </tr>
+                                    {% set Count = Count + 1 %}
+                                    {% endfor %}
+                                    
+                                </tbody>
+                            </table>        
+                                    
+                                    
+                        </div>
+                        <!-- /.span -->
+                    </div>
+                                    <div id="showPagination"></div>
+                                    
+                    <input type="hidden" name="pageDiv" id="pageDiv" value="{{ data['paginations'] }}" />
+                    <!-- /.row -->
+                    <div class="hr hr-18 dotted hr-double"></div>
+                    <div id="modal-table123" class="modal fade" tabindex="-1">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header no-padding">
+                                    <div class="table-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                            <span class="white">&times;</span>
+                                        </button>
+                                        Edit Doctor Details
+                                    </div>
+                                </div>
+
+                                <div class="modal-body no-padding" id="modal-body-form">
+                                    <form class="form-horizontal" action="/action_page.php">
+                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                            <br>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="text">Location Id:</label>
+                                                    <div class="col-sm-7">
+                                                        <input type="text" class="form-control" id="email" placeholder="Location Id" name="Location">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Network-ID:</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="text">Doctor Name</label>
+                                                    <div class="col-sm-7">
+                                                        <input type="text" class="form-control" id="email" placeholder="Location Id" name="Location">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="text">Gender</label>
+                                                    <div class="col-sm-7">
+                                                        <label class="radio-inline">
+                                                            <input type="radio" name="optradio">Male
+                                                        </label>
+                                                        <label class="radio-inline">
+                                                            <input type="radio" name="optradio">Female
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Doctors Mobile Number</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 1</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Landline Number of clinic 2</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Receptionst Name</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Receptionst Mobile Number</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">City</label>
+                                                    <div class="col-sm-7">          
+                                                        <select class="selectpicker col-sm-12" data-style="btn-primary">
+                                                            <option>Mumbai</option>
+                                                            <option>Delhi</option>
+                                                            <option>Gurgaon</option>
+                                                        </select>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">State</label>
+                                                    <div class="col-sm-7">          
+                                                        <select class="selectpicker col-sm-12" data-style="btn-primary">
+                                                            <option>Mumbai</option>
+                                                            <option>Delhi</option>
+                                                            <option>Gurgaon</option>
+                                                        </select>
+                                                  </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Pincode</label>
+                                                    <div class="col-sm-7">          
+                                                        <input type="text" class="form-control" id="netwr" placeholder="Network-ID:" name="netwr">
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Address</label>
+                                                    <div class="col-sm-7">
+                                                        <textarea class="form-control" rows="5" id="comment"></textarea>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="form-group">
+                                                    <label class="control-label col-sm-5" for="netwr">Clinic Timing (Morning)</label>
+                                                    <div class="col-sm-7">          
+                                                        <div class='input-group date' id='datepicker'>
+                                                            <input type='text' class="form-control" />
+                                                        <span class="input-group-addon">
+                                                            <span class="glyphicon glyphicon-time"></span>
+                                                        </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">
+                                                        <label class="control-label col-sm-5" for="netwr">Clinic Timing (Evening)</label>
+                                                        <div class="col-sm-7">          
+                                                            <div class='input-group date' id='datetimepicker4'>
+                                                                <input type='text' class="form-control" />
+                                                                <span class="input-group-addon">
+                                                                    <span class="glyphicon glyphicon-time"></span>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">
+                                                        <label class="control-label col-sm-5" for="netwr">Added Date:</label>
+                                                        <div class="col-sm-7">
+                                                            <div class='input-group date' id='datetimepicker1'>
+                                                                <input type='text' class="form-control" />
+                                                                <span class="input-group-addon">
+                                                                    <span class="glyphicon glyphicon-calendar"></span>
+                                                                </span>
+                                                            </div>
+                                                      </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <div class="form-group">        
+                                                        <div class="col-sm-offset-5 col-sm-7">
+                                                            <button type="submit" class="btn btn-default col-lg-12 col-md-12 col-sm-12 col-xs-12">Submit</button>
+                                                        </div>
+                                                    </div><!--end form-group-->
+                                                </div>
+                                            </div>
+                                        </form>
+                                </div>
+
+                                <div class="modal-footer no-margin-top">
+                                </div><!--end modal-footer no-margin-top -->
+                            </div><!-- /.modal-content -->
+                        </div><!-- /.modal-dialog -->
+                    </div><!-- PAGE CONTENT ENDS -->
+                </div>
+                    <nav><ul class='pagination'></ul></nav>
+                <!-- /.col -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.page-content -->
+    </div>
+</div>
+<!-- /.main-content -->
+
+{% endblock %}
+{% block javascripts %}
+    <script>
+$(document).ready(function(){
+                  //  alert('asdasd');
+                    $('.pagination').pagination({
+                        items: '{{ data['total_records'] }}',
+                        itemsOnPage: '{{ data['limit'] }}',
+                        cssStyle: 'light-theme',
+                        currentPage : '{{ data['current_page'] }}',
+                        hrefTextPrefix : '{{ path('doctors_listing', {'page': ''}) }}'
+                    });
+
+                  //  setTimeout(getpag(), 3000);
+                    function reset2(){
+                        $('.search-choice-close')[0].click();
+                    }
+                 
+                });
+               
+               
+    $('#skip-validation').on('change.bootstrapSwitch', function(e) {
+        if(e.target.checked == false){
+            $('#simple-table').show();
+            $('#detail-table').hide();
+        }
+        if(e.target.checked == true){
+            $('#simple-table').hide();
+            $('#detail-table').show();
+        }
+    });
+    function UpdateDoctor(){
+         $.ajax({
+      type: "POST",
+      url: "{{path('doctors_updatelocationdata')}}",
+      data: $('#updatedoctorForm').serialize(),
+      success: function(data){
+        
+            alert('Update Successfully');
+            $('#modal-table123').modal('hide');                   
+      }
+    });
+    }
+function EditDoctorDetails(location_id){
+    //var myusername = $("#username").val();
+    $.ajax({
+      type: "POST",
+      url: "{{path('doctors_getlocationdata')}}",
+      data: {location_id:location_id},
+      success: function(data){
+            $('#modal-body-form').html(data);
+            $('#modal-table123').modal('show');                   
+      },
+       complete: function(data){
+                $('#datetimepickeret').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickeref').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickermt').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepickermf').datetimepicker({
+                    format: 'LT'
+                });
+                $('#datetimepicker1').datetimepicker();
+                $('#datepicker').datepicker({
+                  uiLibrary: 'bootstrap'
+                });
+                
+                $('#mornto').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#mornto').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#mornfrom').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#mornfrom').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#evenfrom').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#evenfrom').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                
+                $('#evento').timepicker({
+                        minuteStep: 1,
+                        showSeconds: false,
+                        showMeridian: false,
+                        disableFocus: true,
+                        icons: {
+                                up: 'fa fa-chevron-up',
+                                down: 'fa fa-chevron-down'
+                        }
+                }).on('focus', function() {
+                        $('#evento').timepicker('showWidget');
+                }).next().on(ace.click_event, function(){
+                        $(this).prev().focus();
+                });
+                                
+       }
+    });
+}
+                </script>
+{% endblock %}
