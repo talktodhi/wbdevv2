@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: wbanlyprod.chi5kczogdre.us-east-1.rds.amazonaws.com
+    database_port: null
+    database_name: wbdbdev_v3
+    database_user: wbanlyprod
+    database_password: wbanlyprod123
+    mailer_transport: smtp
+    mailer_host: email-smtp.us-west-2.amazonaws.com
+    mailer_user: AKIAIKQEPFJEW7GCTCYQ
+    mailer_password: Aiqkpzd3U8sKOcXK4dn2HfqXn0TZVbzgEQeQS7Yt/NDp
+    mailer_encryption: tls
+    mailer_port: 587
+    secret: hhggjhg564545rfgfh
