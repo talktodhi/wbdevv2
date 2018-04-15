@@ -2,9 +2,12 @@
 error_reporting(E_ALL);
 
 	
-function Send_Mail($to,$subject,$body)
-{
 	require 'PHPMailer/class.phpmailer.php';
+	
+	$to = "talktodhi@gmail.com";
+	$subject = "Test Mail Subject";
+	$body = "Hi<br/>Test Mail<br/>Amazon SES"; // HTML  tags
+	
 	$from = "noreply@waybeyond.in";
 	$mail = new PHPMailer();
 	$mail->IsSMTP(true); // SMTP
@@ -20,29 +23,13 @@ function Send_Mail($to,$subject,$body)
 	$mail->MsgHTML($body);
 	$address = $to;
 	$mail->AddAddress($address, $to);
-	
-	if(!$mail->Send())
-	return false;
-	else
-	return true;
-	
-}
-
-
-
-
-try {
-    //   $tableBresults = $dbHandler->doSomethingWithTableB();
-	$to = "talktodhi@gmail.com";
-	$subject = "Test Mail Subject";
-	$body = "Hi<br/>Test Mail<br/>Amazon SES"; // HTML  tags
-	$return = Send_Mail($to,$subject,$body);
+	$ret = $mail->Send();
 	echo "<pre>";
-	print_r($return);
- } catch (Exception $e) {
-		echo "<pre>";
-		print_r($e);
-		return $e;
- }
+	print_r($ret);
+	if(!$ret){
+		echo "ASD00";
+	}else{
+		echo "kjlkj";
+	}
  
 ?>
