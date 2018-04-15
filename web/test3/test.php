@@ -29,8 +29,20 @@ function Send_Mail($to,$subject,$body)
 }
 
 
-$to = "talktodhi@gmail.com";
-$subject = "Test Mail Subject";
-$body = "Hi<br/>Test Mail<br/>Amazon SES"; // HTML  tags
-Send_Mail($to,$subject,$body);
+
+
+try {
+    //   $tableBresults = $dbHandler->doSomethingWithTableB();
+	$to = "talktodhi@gmail.com";
+	$subject = "Test Mail Subject";
+	$body = "Hi<br/>Test Mail<br/>Amazon SES"; // HTML  tags
+	$return = Send_Mail($to,$subject,$body);
+	echo "<pre>";
+	print_r($return);
+ } catch (Exception $e) {
+		echo "<pre>";
+		print_r($e);
+		return $e;
+ }
+ 
 ?>
