@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 
 	
-	include_once('PHPMailer/class.phpmailer.php');
+	include_once('class.phpmailer.php');
 	
 	$to = "talktodhi@gmail.com";
 	$subject = "Test Mail Subject";
