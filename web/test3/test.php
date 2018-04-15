@@ -1,6 +1,6 @@
 <?php
 
-require 'class.phpmailer.php';
+require 'PHPMailer/class.phpmailer.php';
 	
 function Send_Mail($to,$subject,$body)
 {
