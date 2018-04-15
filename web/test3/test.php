@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(E_ALL);
 require 'PHPMailer/class.phpmailer.php';
 	
 function Send_Mail($to,$subject,$body)
