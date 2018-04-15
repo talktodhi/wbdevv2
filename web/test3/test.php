@@ -1,10 +1,10 @@
 <?php
 error_reporting(E_ALL);
-require 'PHPMailer/class.phpmailer.php';
+
 	
 function Send_Mail($to,$subject,$body)
 {
-
+	require 'PHPMailer/class.phpmailer.php';
 	$from = "noreply@waybeyond.in";
 	$mail = new PHPMailer();
 	$mail->IsSMTP(true); // SMTP
