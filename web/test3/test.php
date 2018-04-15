@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 
 	
-	require 'PHPMailer/class.phpmailer.php';
+	include_once('PHPMailer/class.phpmailer.php');
 	
 	$to = "talktodhi@gmail.com";
 	$subject = "Test Mail Subject";
@@ -36,7 +36,7 @@ error_reporting(E_ALL);
  */
  
  // Instantiate a new PHPMailer 
-$mail = new PHPMailer;
+$mail = new PHPMailer();
 
 // Tell PHPMailer to use SMTP
 $mail->isSMTP();
@@ -97,4 +97,4 @@ if(!$mail->send()) {
 } else {
     echo "Email sent!" , PHP_EOL;
 }
-?>
+?> 
