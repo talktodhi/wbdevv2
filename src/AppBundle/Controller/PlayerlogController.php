@@ -386,7 +386,7 @@ class PlayerlogController extends Controller
      */
     public function sendmailtestAction(Request $request)
     {
-       
+		die('Here');
         $message = (new \Swift_Message('Hello Email'))
         ->setFrom('talktodhi@gmail.com')
         ->setTo('dhiraj.bastwade@gmail.com')
