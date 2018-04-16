@@ -10,5 +10,5 @@ parameters:
     mailer_user: AKIAIKQEPFJEW7GCTCYQ
     mailer_password: Aiqkpzd3U8sKOcXK4dn2HfqXn0TZVbzgEQeQS7Yt/NDp
     mailer_encryption: tls
-    mailer_port: 587
+    mailer_port: 25
     secret: hhggjhg564545rfgfh
